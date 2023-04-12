@@ -1,0 +1,3550 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="is">
+  <siteinfo>
+    <sitename>SignWiki</sitename>
+    <dbname>signwiki_mediawiki</dbname>
+    <base>https://is.signwiki.org/index.php/Fors%C3%AD%C3%B0a</base>
+    <generator>MediaWiki 1.35.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Miðill</namespace>
+      <namespace key="-1" case="first-letter">Kerfissíða</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Spjall</namespace>
+      <namespace key="2" case="first-letter">Notandi</namespace>
+      <namespace key="3" case="first-letter">Notandaspjall</namespace>
+      <namespace key="4" case="first-letter">SignWiki</namespace>
+      <namespace key="5" case="first-letter">SignWikispjall</namespace>
+      <namespace key="6" case="first-letter">Mynd</namespace>
+      <namespace key="7" case="first-letter">Myndaspjall</namespace>
+      <namespace key="8" case="first-letter">Melding</namespace>
+      <namespace key="9" case="first-letter">Meldingarspjall</namespace>
+      <namespace key="10" case="first-letter">Snið</namespace>
+      <namespace key="11" case="first-letter">Sniðaspjall</namespace>
+      <namespace key="12" case="first-letter">Hjálp</namespace>
+      <namespace key="13" case="first-letter">Hjálparspjall</namespace>
+      <namespace key="14" case="first-letter">Flokkur</namespace>
+      <namespace key="15" case="first-letter">Flokkaspjall</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="114" case="first-letter">Rule</namespace>
+      <namespace key="115" case="first-letter">Rule talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>"Ég hlýði Víði"</title>
+    <ns>0</ns>
+    <id>26941</id>
+    <revision>
+      <id>62902</id>
+      <parentid>62898</parentid>
+      <timestamp>2020-04-14T09:01:26Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>62902</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="273" sha1="kctjnsuzixtoz0f2ytsdq2wx28fr6f0" xml:space="preserve">{{Infoboxsign
+|Image1=Ég hlýði Víði.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=V handform
+|efnisflokkur=COVID-19
+|tengsl1=Almannavarnir
+|tengsl2=Þríeyki
+|tengsl3=lögregstjóri
+|Image2=Mynd vidir reynis.jpg
+|youtube1=https://www.youtube.com/watch?v=Nlgj3C4lCY4
+}}</text>
+      <sha1>kctjnsuzixtoz0f2ytsdq2wx28fr6f0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>01. Katla og Jósi litli</title>
+    <ns>0</ns>
+    <id>25118</id>
+    <revision>
+      <id>59181</id>
+      <parentid>59156</parentid>
+      <timestamp>2017-12-22T13:45:24Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[1. Katla og Jósi litli]] á [[01. Katla og Jósi litli]] án þess að skilja eftir tilvísun</comment>
+      <origin>59181</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="l6bww37egvdmyvctwm5eo81e9bi0684" xml:space="preserve">{{Josi-Katla
+|setning=UltRCjYGGuo
+}}</text>
+      <sha1>l6bww37egvdmyvctwm5eo81e9bi0684</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>01. Regla - Sagan er túlkuð á táknmál</title>
+    <ns>0</ns>
+    <id>6316</id>
+    <revision>
+      <id>59225</id>
+      <parentid>31433</parentid>
+      <timestamp>2018-01-08T10:45:58Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[1. Regla - Sagan er túlkuð á táknmál]] á [[01. Regla - Sagan er túlkuð á táknmál]] án þess að skilja eftir tilvísun</comment>
+      <origin>59225</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3056" sha1="njiis8trou4cxih38dr2gbgmjenatj4" xml:space="preserve">{{Shortcourses
+|name=Regla 1
+|image=MB900446561.JPG
+|description=15 principles for reading to deaf children
+|category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn
+|related2=2. Regla - Bæði táknmálið og ritmálið á að vera sýnilegt
+|copyright=Laurent Clerc National Deaf Education Center
+|link2=http://www.aussiedeafkids.org.au/reading-to-deaf-children-learning-from-deaf-adults.html#01
+|image2=LCC jpeg.jpg
+|link=http://www.gallaudet.edu/Clerc_Center/Information_and_Resources/Info_to_Go/Language_and_Literacy/15_Principles_for_Reading_to_Deaf_Children.html
+|video1=40227859
+}}
+{{Shortcoursesexample
+|title=Rætt er almennt um bókina.
+|video=40722406
+}}
+{{Shortcoursesexample
+|title=Tengja litur og tákn saman
+|video=40725694
+}}
+{{Shortcoursestext
+|title=1. Heyrnarlausir lesendur túlka sögurnar á táknmáli
+|text=Þegar foreldrar lesa sögur fyrir heyrnarlaus börn velta þau oftast fyrir sér hvort rétt sé að segja söguna á táknmáli eða að tákna ritmálið. Þeir óttast að tákni þeir ekki hvert orð textans, í þeirri röð sem það kemur fyrir, muni barnið ekki kynnast ritmálinu og reglum þess.
+
+Rannsóknir á því hvernig heyrnarlausir foreldrar lesa fyrir börn sín sýna að þau nota sitt táknmál til þess að lesa sögur (Lartz &amp; Lestina, 1995; Mather, 1989; Shick &amp; Gale, 1995; Whitesell, 1991). Rannsókn hefur sýnt fram að börnum finnst sögur á táknmáli skemmtilegri og meira grípandi (Shick &amp; Gale, 1995).
+
+*táknmál notað, en ekki táknað ritmál.
+
+* barnið skilur innihaldið þó að hvert einasta orð ritmálisins sé ekki túlkað á táknmál.
+
+
+
+'''Foreldrar og kennarar vilja vita''':
+
+''Hvernig getur barnið lært íslenskuna í textanum ef ég nota táknmál?''
+
+Heyrnarlausir fullorðnir sem lesa upphátt fyrir heyrnarlaus börn bíða eftir því að áhugi barnsins beinist frá „málinu í gegnum loftið“ (táknmálinu) til „prentmálsins“ (íslenskunnar). Með því að lesa fyrir börnin aftur og aftur byrja börnin að átta sig á að orðaröð beggja málanna er ólík, en að sömu hugmyndir er hægt að tjá á báðum málum. Barnið lærir smám saman orðaforða, málfræði og setningafræði íslenskunnar í gegnum táknmálið.
+}}
+{{Shortcoursestext
+|title=Heimildir
+|text=Lartz, M.N., &amp; Lestina, L.J. (1995). Strategies deaf mothers use when reading to their young deaf or hard of hearing children. American Annals of the Deaf, 140(4), 358-362.
+
+Mather, S.A. (1989). Visually oriented teaching strategies with deaf preschool children. In C. 
+Lucas, Ed., The sociolinguistics of the deaf community, pp. 165-187. New York, NY: Academic Press.
+
+Schick, B. &amp; Gale, E. (1995). Preschool deaf and hard of hearing students’ interactions during ASL and English storytelling. American Annals of the Deaf, 140(4), 363-370.
+
+Whitesell, K.M. (1991). Reading between the lines: How one deaf teacher demonstrates the reading process.  Unpublished doctoral dissertation, University of Cincinnati, OH.
+}}
+[[Flokkur:Lestur fyrir döff börn]]</text>
+      <sha1>njiis8trou4cxih38dr2gbgmjenatj4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>01.kafli - Ljós í myrkri!</title>
+    <ns>0</ns>
+    <id>25823</id>
+    <revision>
+      <id>60662</id>
+      <parentid>60661</parentid>
+      <timestamp>2019-02-19T13:20:13Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>60662</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2510" sha1="dqku0rv41ex1afva5m10av74ze8071a" xml:space="preserve">{{Zeta-sogur
+|setning=0knPjO1SMCc
+}}
+
+'''1.kafli - Ljós í myrkri!'''
+
+Við stóra gluggann í horni bókasafnsins, innan um barnabækurnar, lá litla bókaveran Zeta steinsofandi ofan á bók. Hún hafði verið að lesa spennandi sögu langt fram á nótt, alveg þangað til hún gat ekki haldið augunum opnum lengur. Hún hraut lágt.
+
+Skyndilega opnaðist útidyrahurð bókasafnsins og háværar raddir vöktu Zetu upp af ljúfum draumi. Hún opnaði augun rólega, settist upp og geispaði. Litlu eyrun hennar hristust dálítið. Raddirnar nálguðust og nú heyrði Zeta að þetta var hópur af krökkum sem kom gangandi inn í barnadeild safnsins. Zeta leit út um gluggann. Það voru ljós úti um allt. Ljósaseríur voru strengdar á milli húsa og fyrir utan bókasafnið stóð lítið grenitré alsett hvítum og leiftrandi fallegum ljósum. Zeta stökk á fætur og klessti andlitið upp að rúðunni. Hvað var að gerast? Hvers vegna var búið að lýsa upp myrkrið?
+
+Nokkrir krakkar komu hlaupandi inn í barnadeildina og hófust handa við að leita sér að bókum í bókahillunum. Fleiri krakkar bættust í hópinn og loks kennarinn þeirra. Sumir töluðu hátt. Tvær stelpur komu valhoppandi og söngluðu lag hlæjandi. Zeta fylgdist með þessu öllu úr öruggri fjarlægð.
+
+„Kennari, hvar finn ég bækur um jólin?“ spurði stelpa með tvær fléttur og kennarinn benti henni á bókahillu undir stóra glugganum. 
+
+Zeta faldi sig á bak við bókina sína. Jólin? Hvað eru jól? hugsaði hún.
+
+Nú kom konan sem vann á bókasafninu gangandi inn í barnadeildina. Hún teygði sig í bók í stóru bókahillunni og gekk síðan að krakkahópnum. Hún fékk sér sæti á litlum stól.
+
+„Velkomin á bókasafnið. Fáið ykkur sæti,“ sagði hún og benti krakkahópnum að setjast á teppið fyrir framan sig. Það tók smá tíma fyrir krakkana að koma sér fyrir. Það var greinilega mikil spenna í loftinu. „Við ætlum að syngja nokkur jólalög saman og byrjum á Bráðum koma blessuð jólin,“ sagði hún og allir krakkarnir tóku undir og sungu fullum hálsi: Bráðum koma blessuð jólin, börnin fara að hlakka til. Allir fá þá eitthvað fallegt, í það minnsta kerti og spil.
+
+Zeta fylgdist agndofa með söng barnanna. Hún lygndi aftur augunum og hlustaði á þetta fallega lag. Ef jólin hljóma svona þá hljóta þau að vera dásamleg, hugsaði Zeta með sér og varð að komast að því hvernig þessi jól litu út.</text>
+      <sha1>dqku0rv41ex1afva5m10av74ze8071a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>02. Eru jólin geimvera?</title>
+    <ns>0</ns>
+    <id>25824</id>
+    <revision>
+      <id>60663</id>
+      <timestamp>2019-02-19T13:21:48Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Zeta-sogur |setning=LKTPev6_b8w }} '''2. Eru jólin geimvera?'''    Eftir sönginn las konan sögu fyrir krakkana sem fjallaði um jólasveina sem búa í fjöllunum og fara með pa...</comment>
+      <origin>60663</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2077" sha1="f4b8qmt001dfqso71wc5i5g4apobnw7" xml:space="preserve">{{Zeta-sogur
+|setning=LKTPev6_b8w
+}}
+'''2. Eru jólin geimvera?'''
+
+Eftir sönginn las konan sögu fyrir krakkana sem fjallaði um jólasveina sem búa í fjöllunum og fara með pakka til krakka. Zeta skemmti sér svo vel og hló og rúllaði sér um af kæti. Loks stóð kennarinn upp og sagði krökkunum að klæða sig í útifötin því nú þyrftu þau að fara. Það tók smá stund að safna hópnum saman en stuttu seinna var allt orðið hljótt aftur á safninu.
+
+Ég verð að lesa meira um þessi jól, hugsaði Zeta forvitin. Hvernig eru þessi blessuðu jól eiginlega? Eru þau kannski glitrandi og glansandi? Ef blessuð jólin koma bráðum, eins segir í laginu, eru þau kannski einhver mannvera eða jafnvel geimvera? Eða eru jólin bara gjöf í pakka?
+
+Zeta stökk niður á gólf og gekk rakleitt í áttina að bókahillunni þar sem konan hafði lagt bókina frá sér. Hún stökk upp á bókahilluna og fikraði sig meðfram bókunum. Hún las á bókakilina. Jólasveinarnir í fjöllunum. Jólavísur og kvæði. Skreytum jólatré... Loksins fann hún bók sem á stóð: Stóra jólabókin. Allt sem þú vilt vita um jólin.
+
+
+„Aha! Þetta er bókin sem ég er að leita að!“ sagði Zeta og dró bókina út úr hillunni. Bókin var stór og dálítið þung og það tók hana smá tíma að ná henni út úr bókahillunni. Það heyrðist hávær skellur þegar bókin skall í gólfið.
+
+Zeta hallaði sér fram af brún bókahillunnar og kíkti niður. Framan á bókinni var mynd af brosandi snjókarli og fagurlega skreyttu grenitré.
+
+En falleg mynd, hugsaði Zeta og stökk niður á gólf. Hún opnaði bókina og fletti síðunum en inni í bókinni voru engar myndir. Þar voru bara hvítar síður. Zeta varð undrandi yfir þessari sýn. Hún fletti nokkrum blaðsíðum og hvergi var mynd að finna. Og það sem meira var: Allir bókstafirnir höfðu ruglast! Zeta klóraði sér í hausnum. Hverskonar bók var þetta eiginlega? Þetta hafði Zeta aldrei séð áður. Hafði eitthvað undarlegt komið fyrir bókina?</text>
+      <sha1>f4b8qmt001dfqso71wc5i5g4apobnw7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>02. Katla segir Jósa litla frá jólunum</title>
+    <ns>0</ns>
+    <id>25119</id>
+    <revision>
+      <id>59182</id>
+      <parentid>59157</parentid>
+      <timestamp>2017-12-22T13:45:41Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[2. Katla segir Jósa litla frá jólunum]] á [[02. Katla segir Jósa litla frá jólunum]] án þess að skilja eftir tilvísun</comment>
+      <origin>59182</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="a7nanihynjj93dlab6srz1koxkccdi6" xml:space="preserve">{{Josi-Katla
+|setning=Q1OYlhXw42A
+}}</text>
+      <sha1>a7nanihynjj93dlab6srz1koxkccdi6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>02. Regla - Bæði táknmálið og ritmálið á að vera sýnilegt0</title>
+    <ns>0</ns>
+    <id>6318</id>
+    <revision>
+      <id>59226</id>
+      <parentid>31434</parentid>
+      <timestamp>2018-01-08T10:46:20Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[2. Regla - Bæði táknmálið og ritmálið á að vera sýnilegt]] á [[02. Regla - Bæði táknmálið og ritmálið á að vera sýnilegt0]] án þess að skilja eftir tilvísun</comment>
+      <origin>59226</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4191" sha1="kicp7b3bifxmldq6gm6db55mmrg66g6" xml:space="preserve">{{Shortcourses
+|name=Regla 2
+|image=lestur1.png
+|description=15 principles for reading to deaf children
+|category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn
+|related2=3. Regla - Frásögnin er ekki bundin textanum
+|related3=Lesum saman aftur og aftur - skrefin 6
+|copyright=Laurent Clerc National Deaf Education Center
+|link2=http://www.aussiedeafkids.org.au/reading-to-deaf-children-learning-from-deaf-adults.html
+|image2=LCC jpeg.jpg
+|link=http://www.gallaudet.edu/Clerc_Center/Information_and_Resources/Info_to_Go/Language_and_Literacy/15_Principles_for_Reading_to_Deaf_Children.html
+|video1=40229664
+}}
+{{Shortcoursesexample
+|title=Bæði málin eru sýnileg
+|video=40722558
+}}
+{{Shortcoursestext
+|title=2. Heyrnarlausir lesendur hafa bæði málin sýnileg (táknmál og ritmál)
+|text=Heyrnarlausir einstaklingar leggja mikla áherslu á ritmálið þó þeir noti táknmál. Heyrnarlausir foreldrar gera þetta með því að hafa skrifaða textann sýnilegan á meðan þau túlka söguna á táknmál. Þannig geta börnin auðveldlega litið af foreldrinu (táknmáli) á bókina (íslensku) og skilið hvort tveggja. Þau skilja að það sem verið er að segja á táknmáli er úr bókinni.
+
+
+''Dæmi úr rannsókn'': Mamma les fyrir heyrnarlausa barnið. Allt í einu stoppar barnið mömmuna og spyr: ,,Hvar í textanum er þetta sem þú varst að segja mér núna?“ Mamman fylgir textanum í bókinni með fingrinum, þann hluta textans sem hún var að segja á táknmáli. Barnið horfir af blaðsíðunni á mömmu sína, svo aftur á blaðsíðuna, aftur á mömmu sína og með því að kinka kolli gefur til kynna að það sé tilbúið að halda áfram með söguna. Barnið var greinilega að öðlast skilning á báðum málunum.
+Heyrnarlausir foreldrar vekja aftur og aftur athygli barnsins á textanum, næst tákna þau, svo benda þau aftur á textann til þess að hjálpa barninu að tengjast báðum málum.
+
+
+Rannsókn hefur sýnt að heyrandi kennari sem talar táknmál reiprennandi hefur ekki textann sýnilegan fyrir börnin á meðan hann táknar. Heyrnarlaus kennari gerir það.
+
+
+
+''Hver er besta leiðin til að halda á bókinni og tákna?''
+
+Verið nálægt barninu á meðan þið lesið bók saman, sérstaklega ef barnið er mjög ungt. Með því að leyfa barninu að sitja í fangi ykkar með bókina fyrir framan ykkur bæði, eða sitja hlið við hlið í sófa með bókina opna milli fóta ykkar eða á kodda, eru hendur ykkar lausar til þess að tákna. Blíð snerting af og til mun halda athygli barsins þess ef þið sitjið á móti hvort öðru. Íslenski textinn, myndirnar og táknin eiga að vera sýnileg fyrir barnið.
+
+
+
+''Ég á bæði heyrnarlaust og heyrandi barn. Ætti ég hafa sitt hvora lesstundina?''
+
+Það er mjög mikilvægt að aðgreina málin og gera bæði málin jafngild, þannig að setja upp tíma þegar lesið er upphátt á raddmálinu og annan tíma þegar lesið er á táknmáli er góð hugmynd. Samt sem áður er ekki þörf á að lesa alltaf fyrir börnin í sitt hvoru lagi, nema þau vilji það. Heyrnarlaus börn geta haft gagn af því að sitja í tímum þegar lesið er upphátt. Þau geta náð ritma raddmálsins eða öðrum atriðum þess þó að þau heyri ekki. Heyrandi systkini þeirra læra ný tákn og auka virðingu sína fyrir táknmálinu á meðan á lestri á táknmáli stendur.
+
+
+
+
+''Sonur minn er í almennum skóla og notar túlk. Hvort á hann að lesa bókina sjálfur eða horfa á túlkinn tákna það sem kennarinn les fyrir bekkinn?''
+
+Báðir möguleikarnir ættu að vera til staðar. Túlkurinn verður alltaf að túlka það sem kennarinn les upphátt, en bókin verður líka að vera opin fyrir framan son þinn þannig að hann geti séð textann. Þegar kennarar eru þjálfaðir í notkun túlka, verða þeir að vera minntir á að gera hlé af og til svo að heyrnarlausi nemandinn geti hvílt sig í augnablik á því að horfa á túlkinn eða litið í bókina.
+ 
+}}
+[[Flokkur:Lestur fyrir döff börn|R]] [[Flokkur:15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn|R]]
+[[Flokkur:Lestur fyrir döff börn]]</text>
+      <sha1>kicp7b3bifxmldq6gm6db55mmrg66g6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>03. Aðventa</title>
+    <ns>0</ns>
+    <id>25120</id>
+    <revision>
+      <id>59183</id>
+      <parentid>59158</parentid>
+      <timestamp>2017-12-22T13:45:54Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[3. Aðventa]] á [[03. Aðventa]] án þess að skilja eftir tilvísun</comment>
+      <origin>59183</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="512s6kxd09bmi2nk0wygs2go9st3m6b" xml:space="preserve">{{Josi-Katla
+|setning=BuKpEP1LxxA
+}}</text>
+      <sha1>512s6kxd09bmi2nk0wygs2go9st3m6b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>03. Ofan í bókina</title>
+    <ns>0</ns>
+    <id>25825</id>
+    <revision>
+      <id>60665</id>
+      <parentid>60664</parentid>
+      <timestamp>2019-02-19T13:23:18Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>60665</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2087" sha1="n5ct6ucn06fhcioxpxkop4hhm9f1e2x" xml:space="preserve">{{Zeta-sogur
+|setning=ESQ8KjFdBV8
+}}
+'''3. Ofan í bókina'''
+
+Zeta fletti blaðsíðunum fram og aftur og alls staðar var sama sagan: Hvítar síður og stafarugl.
+Hún var svo djúpt hugsi að litlu eyrun stóðu beint upp í loftið. Þetta þarf ég að kanna betur, hugsaði hún með sér.  
+
+Hún fletti aftur á fyrstu blaðsíðuna og gekk nokkur skref aftur á bak. Hátt og snjallt þuldi hún upp bókaþuluna sína:
+ 
+Bók, skrudda, skræða,   
+                              
+nú mun ég þig lífi gæða. 
+                              
+Bókaormur, lestrarhestur
+
+lifandi verður þessi lestur.
+
+Bókin byrjaði að hristast á gólfinu og skært ljós umlukti hana svo að hvítar blaðsíðurnar ljómuðu. Zeta hljóp af stað, tók undir sig stökk og lenti ofan á bókinni, þar sem hún sogaðist samstundis ofan í hvítar blaðsíðurnar.
+
+Zeta hringsnerist um sjálfa sig í marga hringi og þeyttist til og frá. Loks lenti hún á bólakafi ofan í afskaplega mjúkri en ískaldri hrúgu. Með erfiðismunum kom hún sér upp úr og leit í kringum sig. Allt var hvítt! Hún hafði lent ofan í snjóskafli.
+
+Zeta stóð á fætur, lagaði eyrun, dustaði snjókornin af fötunum sínum og hristi sig dálítið. Hún leit í kringum sig og sá ekkert nema hvítar fannbreiður eins langt og augað eygði. Þarna var snjór alls staðar! Í fjarska sá hún stór fjöll með hvítum toppum gnæfa yfir og sólin skein á himninum. Allt var svo afskaplega friðsælt.
+
+Hún kom auga á skilti sem stóð upp úr snjónum en var svo þakið snjó að það sást ekki hvað á því stóð. Zeta gekk að skiltinu. Hún dustaði og blés af því snjóinn. Á því stóð: Jólaland - þar sem jólin eru svakalega frábær!
+
+Zeta leit í kringum sig en sá engan. Hvorki hús né lifandi verur. Sögupersónur bókanna voru vanar að koma strax og taka á móti henni þegar hún heimsótti nýja bók. Hvers vegna gerðist það ekki núna? Býr enginn hér?
+
+Hún var djúpt hugsi þegar henni fannst hún allt í einu heyra eitthvað undarlegt hljóð.</text>
+      <sha1>n5ct6ucn06fhcioxpxkop4hhm9f1e2x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>03. Regla - Frásögnin er ekki bundin textanum</title>
+    <ns>0</ns>
+    <id>6320</id>
+    <revision>
+      <id>59227</id>
+      <parentid>31435</parentid>
+      <timestamp>2018-01-08T10:46:35Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[3. Regla - Frásögnin er ekki bundin textanum]] á [[03. Regla - Frásögnin er ekki bundin textanum]] án þess að skilja eftir tilvísun</comment>
+      <origin>59227</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2530" sha1="q0j77jzx47qzz1qrhz81j43xinmvijj" xml:space="preserve">{{Shortcourses
+|name=Regla 3
+|image=lestur2.png
+|description=15 principles for reading to deaf children
+|category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn
+|related2=4. Regla - Lesið aftur og aftur: "Að segja sögu" breytist í "Að lesa sögu"
+|copyright=Laurent Clerc National Deaf Education Center
+|link2=http://www.aussiedeafkids.org.au/reading-to-deaf-children-learning-from-deaf-adults.html
+|image2=LCC jpeg.jpg
+|link=http://www.gallaudet.edu/Clerc_Center/Information_and_Resources/Info_to_Go/Language_and_Literacy/15_Principles_for_Reading_to_Deaf_Children.html
+|video1=40231246
+}}
+{{Shortcoursesexample
+|title=Bókin lesin í fyrsta skipti, 1 dæmi
+|video=40853427
+}}
+{{Shortcoursesexample
+|title=Bókin lesin í fyrsta skipti, 2 dæmi
+|video=40852681
+}}
+{{Shortcoursestext
+|title=3. Heyrnarlausir lesendur eru ekki bundnir af textanum
+|text=Heyrnarlaus kennari var að lesa sögu fyrir leikskólabörn sem heitir Noisy Nora (ísl. þýð. Hávaðasama Nóra) eftir Rosemary Wells (Erting, 1991). Eftirfarandi er það sem kennarinn táknaði:
+
+,,Pabbi er upptekinn svo Nóra fer til mömmu sinnar, hún bankar létt í mömmu og segir ,,mamma.“ En mamma verður að taka upp ungabarnið og láta það ropa. Kannski þarf barnið að ropa svo hún klappar honum á bakið. Nóra reynir að ná athygli mömmu, en mamma er upptekin af ungabarninu.“
+Það sem stendur á blaðsíðunni í bókinni er eftirfarandi:
+	
+''Jack þurfti að ropa.''
+
+Dæmið sýnir að heyrnarlausi kennarinn vandar sig þegar hann les textann. 
+
+
+Viðbótarupplýsingarnar, sem hann gefur, koma frá myndunum á blaðsíðunni, frá því sem hefur gerst á undan í sögunni, frá söguþræðinum og frá spurningum og athugasemdum heyrnarlausu barnanna sem eru að hlusta á söguna. Heyrnarlausi kennarinn hjálpar barninu að byggja upp bakgrunnsþekkingu svo að barnið skilji söguna.
+
+Þetta dæmi gefur vísbendinu um að þegar foreldrar og kennarar lesa fyrir heyrnarlaus börn þurfa þeir ekki að hafa áhyggjur af því hvort þeir kunni tákn fyrir hvert einasta orð í textanum heldur ættu þeir að einbeita sér að því að fanga athygli barnsins og koma efni sögunnar til skila. Við verðum að muna að það að kenna raddmálið má vera skemmtilegt. Það kennir barninu að hafa gaman af því að læra málið.
+}}
+{{Shortcoursestext
+|title=Heimild
+|text=Erting, L. (1991). Unpublished paper. Washington, DC: Kendall Demonstration Elementary School.
+}}
+[[Flokkur:Lestur fyrir döff börn]]</text>
+      <sha1>q0j77jzx47qzz1qrhz81j43xinmvijj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>04. Regla - Lesið aftur og aftur: "Að segja sögu" breytist í "Að lesa sögu"</title>
+    <ns>0</ns>
+    <id>6322</id>
+    <revision>
+      <id>59228</id>
+      <parentid>31436</parentid>
+      <timestamp>2018-01-08T10:46:51Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[4. Regla - Lesið aftur og aftur: "Að segja sögu" breytist í "Að lesa sögu"]] á [[04. Regla - Lesið aftur og aftur: "Að segja sögu" breytist í "Að lesa sögu"]] án þess að skilja eftir tilvísun</comment>
+      <origin>59228</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4623" sha1="cp0hjavlog6vou63qt9d41vi2jkr0ir" xml:space="preserve">{{Shortcourses
+|name=Regla 4
+|image=Lesa23.jpg
+|description=15 principles for reading to deaf children
+|category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn
+|related2=5. Regla - Börnin ráða ferðinni
+|related3=Lesum saman aftur og aftur - skrefin 6
+|copyright=Laurent Clerc National Deaf Education Center
+|link2=http://www.aussiedeafkids.org.au/reading-to-deaf-children-learning-from-deaf-adults.html
+|image2=LCC jpeg.jpg
+|link=http://www.gallaudet.edu/Clerc_Center/Information_and_Resources/Info_to_Go/Language_and_Literacy/15_Principles_for_Reading_to_Deaf_Children.html
+|video1=40233812
+}}
+{{Shortcoursesexample
+|title=Tala um titil bókarinnar (bók lesin í fyrsta skipti)
+|video=40726955
+}}
+{{Shortcoursestext
+|title=4. Heyrnarlausir lesendur lesa sögurnar aftur á breyttum forsendum: frá því „að segja sögu“ til þess „að lesa sögu“
+|text=Líkt heyrandi börnum finnst heyrnarlausum börnum, sem eru að læra að lesa, skemmtilegt að láta lesa sömu söguna fyrir sig aftur og aftur. Trelease (1995) útskýrir þetta sem eðlilegan og nauðsynlegan hluta af málþroska: „Endurtekinn lestur tengist því hvernig börn læra. Eins og foreldrarnir líður þeim vel með því sem þau þekkja og þegar þau eru afslöppuð eru þau betur í stakk búin til að meðtaka lesturinn. 
+
+
+Endurtekningin eykur orðaforðann, tengsl milli orsaka og afleiðinga og minnisfærni. Rannsókn nokkur sýnir að börn á leikskólaaldri spyrja jafnmargra spurninga (og oft sömu spurninganna) við lestur bókar þrátt fyrir að hún hafi verið lesin mörgum sinnum áður. Ástæðan er sú að þau læra mál smám saman en ekki í einni atrennu. Við hvern lestur fær barnið dýpri skilning á textanum“.
+
+
+Þegar heyrnarlausir lesendur lesa sögu í fyrsta skipti bæta þeir við upplýsingum sem eru ekki í textanum en hægt er að lesa milli línanna. Næst þegar sagan er lesin, er minna af viðbótarupplýsingum og hún nær textanum. Sagan er lesin aftur og aftur og smám saman líkist lesturinn meira beinni þýðingu á textanum. Það sem á sér stað í þessu ferli er að upphafleg táknuð saga, sem fól í sér bakgrunn, samhengi og önnur smáatriði, færist meira í áttina að textanum (Schleper, 1995). Sama aðferð er notuð í ,,lesum saman“ (e. shared reading) þar sem sama sagan er lesin aftur og aftur í kennslustofunni en með eilítið ólíkum áherslum við hvern lestur. Þetta hjálpar byrjendum í lestri að kynnast ritmálinu (Schleper, 1995).
+
+
+Endurtekningin hjálpar til við að auka orðaforða hjá börnum, að muna að atburðir gerast í röð og að æfa sig í að muna hvað gerist. Með því að lesa bókina aftur og aftur þá lærir barnið söguþráðinn og því er mögulegt að beina athygli barnsins að málfræðieinkennum málsins.
+
+
+
+'''Hér er almennt ferli sem færir lesendur virðast fylgja og hafa ber í huga'''
+
+1. Kynnið kápu bókarinnar fyrir börnunum. Sýnið og táknið titil, nafn höfundar og teiknara. Skoðið líka baksíðuna. Talið dálítið um hvað bókin gæti verið um.
+
+2. Sýnið börnunum myndirnar í bókinni. Gefið ykkur tíma til að lesa og sýna myndirnar. Passið alltaf að halda bókinni í sjónhæð barnsins og verið viss um að barnið sjái allar myndirnar á hverri síðu þegar lesið er.
+
+3. Fylgist með áhuga barnsins. Leyfið barninu að snerta bókina, benda á myndir eða fletta á næstu blaðsíðu eða fyrri ef þau hafa áhuga á því. Þið haldið áfram með söguna þegar barnið er búið. Hvetja skal börnin til að tjá sig um efni bókarinnar á meðan á lestri stendur.
+
+4. Þið lesið kannski sömu bók aftur og aftur. Börn vilja endurtaka sömu sögu mörgum sinnum. Það að lesa sögu aftur og aftur er mikilvægt fyrir barnið til að það öðlist skilning á ákveðnum þáttum í uppbyggingu sögu (s.s. höfundi, titli, aðalpersónum, flækju og lausn hennar o.fl.).
+
+5. Þegar þið eruð búin að lesa hvetjið þá barnið til að tengja innihaldið við eitthvað sem það þekkir úr eigin lífi og af eigin reynslu.
+
+6. Mörg börn vilja lesa eða endursegja ykkur alla söguna eða hluta af henni. Hvetjið þau að gera það og hrósið viðleitni þeirra.
+
+
+Skoðið einnig: [[Lesum saman aftur og aftur - skrefin 6]]
+}}
+{{Shortcoursestext
+|title=Heimildir:
+|text=Schleper, D.R. (1995). Reading to deaf children: Learning from Deaf adults. Perspectives in 
+Education and Deafness, 13(4), 4-8.
+
+Trelease, J. (1995). The read aloud handbook. NY: Penguin Books.
+}}
+[[Flokkur:Lestur fyrir döff börn]]</text>
+      <sha1>cp0hjavlog6vou63qt9d41vi2jkr0ir</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>04. Skór í glugga</title>
+    <ns>0</ns>
+    <id>25121</id>
+    <revision>
+      <id>59190</id>
+      <parentid>59167</parentid>
+      <timestamp>2017-12-22T13:47:34Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[4. Skór í glugga]] á [[04. Skór í glugga]] án þess að skilja eftir tilvísun</comment>
+      <origin>59190</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="c3vxxabfryty6e29h0nyairngh6ip4h" xml:space="preserve">{{Josi-Katla
+|setning=y9QgqJxyDEw
+}}</text>
+      <sha1>c3vxxabfryty6e29h0nyairngh6ip4h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>04. Þú ert of sein!</title>
+    <ns>0</ns>
+    <id>25826</id>
+    <revision>
+      <id>60667</id>
+      <parentid>60666</parentid>
+      <timestamp>2019-02-19T13:25:06Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>60667</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2293" sha1="rxju4cui7ngxqegq3510g00ba7ehqti" xml:space="preserve">{{Zeta-sogur
+|setning=wdQHm3oRObE
+}}
+'''4. Þú ert of sein!'''
+
+Zeta heyrði lágt tíst. Það hljómaði samt ekki eins og það væri fugl og var svo lágt að það heyrðist varla. „Halló,“ sagði Zeta og skimaði í kringum sig. „Er einhver hérna?“
+
+Enginn svaraði. Zeta hlustaði. Tístið heyrðist enn. Nú fannst henni hljóðið berast frá litlum snjóskafli rétt hjá og hún fikraði sig rólega í áttina að honum. Snjóskaflinn hristist og skalf.
+Skrýtið. Það er eins og snjórinn sé lifandi, hugsaði Zeta. Nú þegar hún var komin nær heyrði hún að tístið var ekki tíst, heldur grátur. Einhver var að gráta.
+
+„Halló,“ sagði Zeta aftur. „Ég heiti Zeta.“ Ekkert svar. Zeta færði sig nær, dálítið óörugg og hikandi. „Ég er bókavera og ég er í heimsókn í þessari bók til að kynnast jólunum.“ Skyndilega hætti gráturinn og snjóskaflinn rétti úr sér. Nú sá Zeta að þetta var ekki bara hrúga af snjó, heldur lítill snjókarl sem hafði hniprað sig saman og hágrét. Hann sat í snjónum og sneri bakinu í Zetu.
+
+„Þú ert of sein,“ sagði snjókarlinn titrandi röddu án þess að snúa sér við.
+
+„Hvað áttu við? Er ég of sein?“ spurði Zeta hissa og talaði vingjarnlegum rómi til að reyna að róa snjókarlinn.
+
+„Já, of sein. Það var það sem ég sagði. Jólin eru horfin. Þau fuku burt í óveðrinu,“ bætti snjókarlinn við og andvarpaði djúpt.
+
+„Eru jólin alveg horfin?“ spurði Zeta hissa sem vissi alls ekki hvað snjókarlinn átti við. Hvað var horfið?
+
+„Já, alveg horfin. Allt sem ég átti er fokið í burtu,“ sagði snjókarlinn og röddin skalf. „Það kom öflugur snjóbylur og feykti burt jólatrénu mínu sem stóð fyrir utan húsið. Síðan kom annar snjóbylur og feykti snjóhúsinu mínu í burtu og öllu sem var inni í því. Nú er allt sem minnir á jólin horfið og það í sjálfu Jólalandinu!“ bætti hann við og hrópaði næstum síðustu orðin.
+
+En hvað það var leitt, hugsaði Zeta sem langaði til að hugga þennan raunamædda snjókarl. Ég hlýt að geta hjálpað.... En hvernig? hugsaði hún og ákvað samstundis að gera allt sem hún gæti til að hjálpa snjókarlinum að finna jólin sín aftur.</text>
+      <sha1>rxju4cui7ngxqegq3510g00ba7ehqti</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>05. Jósi litli er dapur</title>
+    <ns>0</ns>
+    <id>25122</id>
+    <revision>
+      <id>59191</id>
+      <parentid>59168</parentid>
+      <timestamp>2017-12-22T13:47:46Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[5. Jósi litli er dapur]] á [[05. Jósi litli er dapur]] án þess að skilja eftir tilvísun</comment>
+      <origin>59191</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="ktc6tswp95fnaz1stdnesbzd7rt3qfd" xml:space="preserve">{{Josi-Katla
+|setning=LOEs0rL_Bbg
+}}</text>
+      <sha1>ktc6tswp95fnaz1stdnesbzd7rt3qfd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>05. Leysum ráðgátuna!</title>
+    <ns>0</ns>
+    <id>25827</id>
+    <revision>
+      <id>60668</id>
+      <timestamp>2019-02-19T13:26:39Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Zeta-sogur |setning=Z05ZqAyjJIM }} '''5. Leysum ráðgátuna!'''    „Hvað heitir þú?“ spurði Zeta og færði sig rólega nær snjókarlinum.    „Ég heiti Klaki og ég er....</comment>
+      <origin>60668</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2789" sha1="5z71f5355pzlfa5yfyoqoco5t7ccz4s" xml:space="preserve">{{Zeta-sogur
+|setning=Z05ZqAyjJIM
+}}
+'''5. Leysum ráðgátuna!'''
+
+„Hvað heitir þú?“ spurði Zeta og færði sig rólega nær snjókarlinum.
+
+„Ég heiti Klaki og ég er...“ snjókarlinn hikaði og nú sneri hann sér loks við, „... eða öllu heldur, ég VAR snjókarl,“ sagði hann og döpur augun litu beint í augun á Zetu. „Eins og þú sérð þá hef ég týnt nefinu mínu, öðrum handleggnum og fína hattinum mínum. Ég líkist varla snjókarli lengur,“ bætti hann við og brast í grát aftur og nú hrundu tárin eins og regndropar sem falla af himnum. Zeta fann til með snjókarlinum.
+
+„Ég get örugglega hjálpað þér að finna allt sem þig vantar, kæri Klaki,“ sagði Zeta bjartsýn. „Ég er mjög góð í að leita og finna hina ýmsu hluti.“
+
+„Þú? Hvernig í ósköpunum getur ÞÚ hjálpað?“ spurði snjókarlinn og horfði efins á Zetu. „Hefur þú lent í svakalegri snjóhríð?“
+
+„Nei, reyndar ekki,“ sagði Zeta og hugsaði sig dálítið um. „En ég leita til dæmis oft að bókum á bókasafninu og finn þær alltaf.“
+
+„Hefur þú leyst dularfullar ráðgátur?“ spurði snjókarlinn ákveðinn.
+
+„Nei, reyndar ekki...,“ svaraði Zeta hugsi. „En ég hef lesið MARGAR bækur sem fjalla um ráðgátur! Það eru uppáhaldsbækurnar mínar!“
+
+Snjókarlinn andvarpaði og settist aftur snjóinn. „Þú fyrirgefur, en það hljómar ekki eins og það verði mikil hjálp í þér.“
+
+Zeta lét þessa neikvæðni ekki trufla sig. Hún klifraði upp á snjóskafl, skimaði í kringum sig og rótaði í snjónum. „Segðu mér frekar að hverju ég á að leita,“ sagði hún spennt. Eyrun á henni stóðu beint upp í loftið og hringsnérust eins og loftnet í leit að sendingu.
+
+Klaki hugsaði sig um. „Hvar á ég að byrja? Jólatréð fauk og allt fallega jólaskrautið mitt. Allar gjafirnar fuku í burtu og fallegu jólaljósin sem ég var búinn að hengja upp. Nú og auðvitað hatturinn, nefið og hendin mín! Ég er vanur að halda jólin mín í snjóhúsinu mínu, með piparkökum, jólatré og fallegum pökkum.“
+
+Zeta horfði í kringum sig. Hvítur snjórinn lá eins og stórt teppi yfir landinu og hvergi sáust merki um hlutina sem höfðu horfið.
+
+„Hefur þetta gerst áður?“ spurði Zeta rannsakandi.
+
+„Nei. Það hefur aldrei áður komið snjóbylur í Jólalandi. Hér er allt svo friðsælt og jólalegt,“ sagði hann hnugginn. „Þessi bók fjallar einmitt um það hvernig maður undirbýr jólin með jólaskrauti, jólagjöfum og piparkökum.“
+
+„Þá hlýtur að vera einhver mjög dularfull ástæða fyrir þessu óveðri,“ sagði Zeta sem var nú orðin spennt að leysa þessa ráðgátu. „Leitum að fyrstu vísbendingu!“</text>
+      <sha1>5z71f5355pzlfa5yfyoqoco5t7ccz4s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>05. Regla - Börnin ráða ferðinni</title>
+    <ns>0</ns>
+    <id>6324</id>
+    <revision>
+      <id>59229</id>
+      <parentid>31437</parentid>
+      <timestamp>2018-01-08T10:47:15Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[5. Regla - Börnin ráða ferðinni]] á [[05. Regla - Börnin ráða ferðinni]] án þess að skilja eftir tilvísun</comment>
+      <origin>59229</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5287" sha1="3uzfzfskqpdd4mi0kr1wkhgth0mzcd5" xml:space="preserve">{{Shortcourses
+|name=Regla 5
+|image=MB900308953.JPG
+|description=15 principles for reading to deaf children
+|category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn
+|related2=6. Regla - Gefið er skýrt til kynna það sem annars er gefið í skyn
+|copyright=Laurent Clerc National Deaf Education Center
+|link2=http://www.aussiedeafkids.org.au/reading-to-deaf-children-learning-from-deaf-adults.html
+|image2=LCC jpeg.jpg
+|link=http://www.gallaudet.edu/Clerc_Center/Information_and_Resources/Info_to_Go/Language_and_Literacy/15_Principles_for_Reading_to_Deaf_Children.html
+|video1=40235263
+}}
+{{Shortcoursesexample
+|title=Börn skoða saman bókina (Bókin lesin í fyrsta skipti)
+|video=40726990
+}}
+{{Shortcoursesexample
+|title=Barn lætur sem kennari, vill lesa bókina (Bókin lesin í fyrsta skipti)
+|video=40722667
+}}
+{{Shortcoursesexample
+|title=Börn forvitin um bókina, vilja öll lesa í einu (Bókin lesin í fyrsta skipti)
+|video=40722450
+}}
+{{Shortcoursesexample
+|title=Kennari hættir lestri (Bókin lesin í annað skipti)
+|video=40853602
+}}
+{{Shortcoursestext
+|title=5. Heyrnarlausir lesendur leyfa börnunum að ráða ferðinni
+|text=Færir lesendur leyfa börnunum að vera virk í lestrarstundinni, t.d. að bjóða heyrnarlausa barninu að velja bókina sjálft eða fletta blaðsíðunum (Ewoldt, 1994; Maxwell, 1984; Van der Lem &amp; Timmerman,1990). Heyrnarlausir lesendur hafa tilhneigingu til að gefa barninu tíma til að skoða myndirnar og textann og bíða þolinmóðir eftir því að það líti upp áður en haldið er áfram með lesturinn.
+
+
+Hluti af því að fylgja frumkvæði barnsins er að aðlaga lesturinn þannig að hann fylgi þroskastigi þess. Ef um er að ræða ung börn eða börn sem lítið hafa komist í snertingu við bækur þá er aðal áhersla lögð á skoða saman hvað gerist á myndunum. Eftir því sem börnin verða eldri og einbeitingarhæfni þeirra eykst hafa fullorðnir meiri tilhneigingu til að vera trúir textanum. Sem dæmi má nefna heyrnarlausan föður sem les fyrir börnin sín tvö, þriggja og sex ára gömul (Schleper, 1995):
+
+
+*''Lesið fyrir 3 ára gamalt barn'': Barnið flettir blaðsíðunum á meðan pabbinn les. Barnið hefur greinilega mestan áhuga á myndunum. Pabbinn leyfir barninu að skoða hverja mynd fyrir sig dágóða stund. Þegar barnið gefur til kynna að það sé búið að skoða, heldur pabbinn áfram að tákna söguna. Pabbinn segir söguna eins og honum finnst viðeigandi; er ekki bundinn textanum. Hann segir söguna á grundvelli þeirrar kunnáttu sem hann veit að barnið býr yfir og hann veit að kemur til með að halda athygli þess vakandi.
+
+
+*''Lesið fyrir 6 ára gamalt barn'': Barnið heldur á bókinn og flettir blaðsíðunum. Pabbinn túlkar vandlega það sem stendur í textanum og fylgir honum af nákvæmni. Hann fylgir textanum með fingrinum áður en hann segir hann á táknmáli. Pabbinn gerir hlé eftir þörfum, t.d. leyfir barninu sjálfu að klára setninguna til enda. Vegna þess að barnið var sjálft farið að lesa leyfir pabbin því að stjórna lestrinum.
+
+
+Þó að heyrnarlausir foreldrar leyfi frá börnum sínum að ráða ferðinni virðist sem svo að kennarar í kennslustofunni geri það ekki (þessi niðurstaða er byggð á 4 ára rannsókn).
+
+
+
+'''Foreldri spyr''':
+
+''Mér finnst erfitt að byrja að lesa flóknari bækur fyrir 6 ára gamla dóttur mína, bækur með fáum myndum og löngum texta sem er skipt í kafla. Myndir hjálpa okkur báðum. Hvernig leggur þú til að byrjað sé að lesa flóknari bækur (kaflaskiptar bækur án mynda) og á sama tíma halda athygli hennar allan tímann?''
+
+
+Það er eðlilegt fyrir 6 ára gamlt barn að vilja hafa myndir. Flest börn vilja hafa myndir, sama hvort þau eru heyrnarlaus eða heyrandi. Þú verður að leyfa henni að stjórna og gefa henni bækur með myndum þangað til hún sýnir að hún sé tilbúin til að halda áfram. Bækur sem eru viðeigandi fyrir aldur dóttur þinnar hafa oftast vel formaðan, flókinn söguþráð, en innihalda myndir sem ýta undir skilning sögunnar.
+
+Það virðist einnig vera þannig að heyrnarlausir foreldrar lesi meira fyrir börnin sín á meðan þau eru yngri, og margir þeirra fækka síðan lestrarstundunum eftir því sem þau eldast. Þetta stafar mögulega af því að erfiðara er að túlka flóknari texta.
+}}
+{{Shortcoursestext
+|title=Heimildir
+|text=Ewoldt, C. (1994). Booksharing: Teachers and parents reading to deaf children. In A.D. Flurkey and R.J. Meyers (Eds.), Under the whole language umbrella: Many cultures, many voices, pp. 331-342. Urbana, IL:  National Council of Teachers of English.
+
+Maxwell, M. (1984). A deaf child’s natural development of literacy. Sign Language Studies, 44, 191-224.
+
+Schleper, D.R. (1995a). Reading to deaf children: Learning from Deaf adults. Perspectives in Education and Deafness, 13(4), 4-8.
+
+Van der Lem, T., &amp; Timmerman, D. (1990). Joint picture book reading in signs: An interaction between parent and child. In Prillwitz, Siegmund, Vollhaber (Eds.), Sign language research and application: Proceedings of the international congress. Hamburg, March 23-25, 1990. Amsterdam: Signum.
+}}
+ [[Flokkur:Lestur fyrir döff börn]]</text>
+      <sha1>3uzfzfskqpdd4mi0kr1wkhgth0mzcd5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>06. Lagt af stað</title>
+    <ns>0</ns>
+    <id>25828</id>
+    <revision>
+      <id>60669</id>
+      <timestamp>2019-02-19T13:27:47Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Zeta-sogur |setning=gm2CYtNaOVQ }} '''6. Lagt af stað'''    „Af stað!“ hrópaði Zeta af æsingi. „Við ætlum að finna jólin þín og leysa ráðgátuna um óveðrið.“...</comment>
+      <origin>60669</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2279" sha1="8bzb1uit44cki60g2z3t95ylna1kl5o" xml:space="preserve">{{Zeta-sogur
+|setning=gm2CYtNaOVQ
+}}
+'''6. Lagt af stað'''
+
+„Af stað!“ hrópaði Zeta af æsingi. „Við ætlum að finna jólin þín og leysa ráðgátuna um óveðrið.“
+„Jæja, ég hef svo sem ekki neinn annan til að hjálpa mér,“ sagði Klaki.
+
+„Það var lagið! Ég ætla að byrja á að hjálpa þér á fætur,“ sagði Zeta og greip í hönd snjókarlsins og togaði hann til sín.
+
+„Þakka þér fyrir,“ sagði snjókarlinn sem var dálítið valtur og ringlaður þegar hann stóð á fætur. Hann þreifaði með hendinni á andlitinu þar sem nefið hans hafði verið og hatturinn.
+
+„Æ, ég hlýt að líta alveg hræðilega út,“ sagði hann vandræðalegur.
+
+„Nei alls ekki. Ég var einmitt að hugsa um hvað þú ert með falleg augu,“ sagði Zeta og ljómaði öll af hlýju.
+
+„Nú verð ég vandræðalegur,“ sagði Klaki sem roðnaði alveg niður í tær.
+
+Skyndilega kom dálítil vindhviða og þyrlaði upp snjónum í kringum þau. Klaki leit flóttalega í kringum sig. „Það er best að við drífum okkur af stað. Það gæti komið annar stormur.“ Klaki benti í áttina að fjöllunum. „Við skulum fara þessa leið. Rétt hjá fjöllunum býr vitur, gamall refur sem ég þekki. Hann gæti gefið okkur vísbendingu um hvers vegna snjóbylur geisar í Jólalandi.“
+
+„Stórkostleg hugmynd!“ sagði Zeta, til í slaginn. Og þar með voru þau lögð af stað. Agnarsmáir fætur þeirra örkuðu með erfiðismunum í gegnum snjóinn sem var sums staðar mjög djúpur.
+
+„Það er vegur hérna einhvers staðar undir snjónum,“ sagði Klaki og horfði rannsakandi niður fyrir sig. Öðru hverju rótaði hann í snjónum til að gá hvort þar væri eitthvað að finna. „Ég er viss um að vegurinn liggur í þessa átt því ég kannast við þessi tré fram undan,“ sagði hann síðan og benti á lítinn skóg rétt fyrir framan þau, fyrir neðan stóra brekku.  
+
+Snjórinn dýpkaði og það varð enn erfiðara að ganga. Fæturnir og maginn á Zetu voru komin á bólakaf ofan í snjóinn en hún lét það ekki stoppa sig.
+
+„Passaðu þig á brekkunni!“ kallaði Klaki en það var of seint. Zeta gáði ekki að hvar hún steig og flaug af stað niður stóru brekkuna.</text>
+      <sha1>8bzb1uit44cki60g2z3t95ylna1kl5o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>06. Regla - Gefið er skýrt til kynna það sem annars er gefið í skyn</title>
+    <ns>0</ns>
+    <id>6326</id>
+    <revision>
+      <id>59230</id>
+      <parentid>31438</parentid>
+      <timestamp>2018-01-08T10:52:07Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[6. Regla - Gefið er skýrt til kynna það sem annars er gefið í skyn]] á [[06. Regla - Gefið er skýrt til kynna það sem annars er gefið í skyn]] án þess að skilja eftir tilvísun</comment>
+      <origin>59230</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2579" sha1="6hrgebbrcqd08kkhzzr9ap3sz52pn51" xml:space="preserve">{{Shortcourses
+|name=Regla 6
+|image=MB900434583.JPG
+|description=15 principles for reading to deaf children
+|category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn
+|related2=7. Regla - Táknrýmið er aðlagað sögunni
+|copyright=Laurent Clerc National Deaf Education Center
+|link2=http://www.aussiedeafkids.org.au/reading-to-deaf-children-learning-from-deaf-adults.html
+|image2=LCC jpeg.jpg
+|link=http://www.gallaudet.edu/Clerc_Center/Information_and_Resources/Info_to_Go/Language_and_Literacy/15_Principles_for_Reading_to_Deaf_Children.html
+|video1=40521753
+}}
+{{Shortcoursesexample
+|title=Hvergi í bókinni er þess getið hver málaði hendurnar heldur er það  gefið í skyn (Bókin lesin í fyrsta skipti)
+|video=40722406
+}}
+{{Shortcoursestext
+|title=6. Heyrnarlausir lesendur gefa skýrt til kynna það sem gefið er í skyn
+|text=Heyrnarlausir lesendur hafa tilhneigingu til að bæta við upplýsingum þegar þeir lesa sögu, þó að þessar upplýsingar sé ekki beinlínis að finna í textanum, en eru á sama tíma gefnar í skyn á augljósan hátt.
+
+
+*''Dæmi 1'': Barnið þarf ekki giska á af hverju úlfurinn í Rauðhettu klæðist í föt ömmunar; heldur segir foreldri: Úlfurinn fór í föt ömmu af því að hann vildi plata Rauðhettu.
+
+Hvergi í textanum er sagt frá ástæðunni. Heyrnarlausi lesarinn gerir ástæðuna augljósa.
+
+
+*''Dæmi 2'': Sagan um dansandi flugu (The Dansing fly). David R Schleper fylgdist með 10 heyrnarlausum lesendum lesa söguna hvert í sínu í lagi. Allir lesendurnir byrjuðu söguna á svipaðan hátt. Fyrst var flugan kynnt til sögunnar og táknum fyrir frekju og stóran haus einnig bætt við. Þessar upplýsingar er hvergi að finna í textanum en þær eru gefnar í skyn með því að lýsa baráttu búðareigandans og flugunnar.
+
+
+Þessi aðferð virðist vera gædd innsæi heyrnarlausa lesandans. Samt sem áður er hægt að geta sér til um að slík aðferð hafi bein áhrif á skilning heyrnarlausra barna og leshæfni þeirra. Með því að ýta undir skilningsferlið og að lesa milli línanna sýna heyrnarlausir lesendur hvernig sagan öðlast meiningu umfram ritaðan texta. 
+
+
+Málfræðingar hafa sýnt fram á að frásagnir á táknmáli og raddmáli gefa sömu upplýsingar en á ólíkan hátt. Heyrnarlausir einstaklingar með fullkomið vald á táknmáli tákna textann yfir á málfræðilega rétt táknmál, og á þann hátt hjálpa þeir heyrnarlausum börnum að halda báðum málunum aðskildum og greinilegum.
+}}
+[[Flokkur:Lestur fyrir döff börn]]</text>
+      <sha1>6hrgebbrcqd08kkhzzr9ap3sz52pn51</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>06. Vondir karlar</title>
+    <ns>0</ns>
+    <id>25123</id>
+    <revision>
+      <id>59192</id>
+      <parentid>59169</parentid>
+      <timestamp>2017-12-22T13:48:01Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[6. Vondir karlar]] á [[06. Vondir karlar]] án þess að skilja eftir tilvísun</comment>
+      <origin>59192</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="lofgd1et8oxleyl48bx9xe8it8a7pl3" xml:space="preserve">{{Josi-Katla
+|setning=LPtCRuJhf-Y
+}}</text>
+      <sha1>lofgd1et8oxleyl48bx9xe8it8a7pl3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>07. Föndur í skólanum</title>
+    <ns>0</ns>
+    <id>25124</id>
+    <revision>
+      <id>59185</id>
+      <parentid>59184</parentid>
+      <timestamp>2017-12-22T13:46:21Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[7. Föndur í skólanum]] á [[07. Föndur í skólanum]] án þess að skilja eftir tilvísun</comment>
+      <origin>59185</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="dqfy0i4vhyty7z3uhl7nto5r3rwxd24" xml:space="preserve">{{Josi-Katla
+|setning=MHi6vvCFAsI
+}}</text>
+      <sha1>dqfy0i4vhyty7z3uhl7nto5r3rwxd24</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>07. Regla - Táknrýmið er aðlagað sögunni</title>
+    <ns>0</ns>
+    <id>6348</id>
+    <revision>
+      <id>59231</id>
+      <parentid>31439</parentid>
+      <timestamp>2018-01-08T10:52:21Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[7. Regla - Táknrýmið er aðlagað sögunni]] á [[07. Regla - Táknrýmið er aðlagað sögunni]] án þess að skilja eftir tilvísun</comment>
+      <origin>59231</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1920" sha1="267lffnaz4x0owaerrqay5ee9ewqk87" xml:space="preserve">{{Shortcourses
+|name=Regla 7
+|image=Lestur7.gif.png
+|description=15 principles for reading to deaf children
+|category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn
+|related2=8. Regla - Mismunandi málstíll sýnir mismunandi sögupersónur
+|copyright=Laurent Clerc National Deaf Education Center
+|link2=http://www.aussiedeafkids.org.au/reading-to-deaf-children-learning-from-deaf-adults.html
+|image2=LCC jpeg.jpg
+|link=http://www.gallaudet.edu/Clerc_Center/Information_and_Resources/Info_to_Go/Language_and_Literacy/15_Principles_for_Reading_to_Deaf_Children.html
+|video1=40523942
+}}
+{{Shortcoursesexample
+|title=Aðlagað táknrými - Bera saman húðliti (Bókin lesin í fyrsta skipti)
+|video=40722427
+}}
+{{Shortcoursesexample
+|title=Aðlagað táknrými
+|video=40722418
+}}
+{{Shortcoursestext
+|title=7. Heyrnarlausir lesendur aðlaga táknrýmið þannig að það passi sögunni
+|text=Algengt er að heyrnarlausir lesendur aðlagi táknrýmið þegar þeir lesa fyrir heyrnarlaust barn svo þeir haldi athyglinni. Lesandinn gæti til dæmis: 
+
+*táknað á líkama barnsins (t.d. táknið KISA er gert á andliti barns); 
+
+*táknað beint á bókina eða á einhverja mynd
+
+*notað t.d. próform fyrir BÍL ofan á mynd af bíl í bókinni og svo hreyft próformið (höndina) meðfram veginum sem er á myndinni, eins og bíllinn sé akandi á veginum.
+
+*pabbi nokkur er að lesa sögu um Rauðhettu. Sagan endar á því að sögupersónan og amman borða köku saman. Pabbinn spyr: Ertu svöng? Dóttir hans svarar játandi. Þá tekur pabbinn kökusneið í þykjustunni úr myndinni sem sögupersónan og amman borða og færir dóttur sinni hana. 
+
+
+Staðsetning táknanna fer eftir áhuga barnsins, eftir innihaldi bókarinnar og aðstæðum við lestur. Aðlagað táknrými hjálpar barninu að tengjast sögunni og því líður vel með ritaða textann.
+}}
+[[Flokkur:Lestur fyrir döff börn]]</text>
+      <sha1>267lffnaz4x0owaerrqay5ee9ewqk87</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>07. Ullarsokkur í snjónum</title>
+    <ns>0</ns>
+    <id>25829</id>
+    <revision>
+      <id>60670</id>
+      <timestamp>2019-02-19T13:49:25Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Zeta-sogur |setning=-srAPgsQiI4 }} '''7. Ullarsokkur í snjónum'''    Zeta rann stjórnlaust á maganum niður stóra brekku. Henni brá svo mikið við fallið að hún gólaði a...</comment>
+      <origin>60670</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2130" sha1="1bqfnt2l83ohs0m5y30dxexkvmy2l1k" xml:space="preserve">{{Zeta-sogur
+|setning=-srAPgsQiI4
+}}
+'''7. Ullarsokkur í snjónum'''
+
+Zeta rann stjórnlaust á maganum niður stóra brekku. Henni brá svo mikið við fallið að hún gólaði alla leiðina niður. Fjörutíu fiðrildi flögruðu um inni í maganum hennar, eða þannig leið henni allavega, fiðringurinn var svo mikill. Snjórinn frussaðist framan í hana.
+
+Loks nam hún staðar og lenti á einhverju mjúku - sem var ekki snjór. Hún stóð á fætur, dálítið vönkuð eftir salibununa, og þá sá hún að hún hafði lent ofan á stórum, gráum ullarsokki sem lá hálfgrafinn ofan í snjónum. Þetta er skrýtið, hugsaði hún og leit síðan upp fyrir sig. Á brúninni fyrir ofan sá hún glitta í hausinn á Klaka sem hrópaði: „Er allt í lagi með þig?“
+Zeta veifaði til merkis um að allt væri í lagi.
+
+„Ég kem niður,“ hrópaði Klaki hátt og renndi sér listilega á bakinu niður brekkuna og lenti við hlið Zetu. Hann stóð á fætur. „Er þetta ullarsokkur?“ spurði Klaki hissa þegar hann sá hvað lá á jörðinni.
+
+„Já, mér sýnist það. Kannski er ÞETTA fyrsta vísbendingin okkar,“ svaraði Zeta og lyfti upp sokknum sem var næstum jafn stór og hún sjálf. Þau skimuðu bæði í kringum sig eftir mögulegum eiganda sokksins en enginn var sjáanlegur. „Þetta er MJÖG stór sokkur, þannig að það er líklegt að eigandinn sé MJÖG stór. Þekkir þú einhvern hér í Jólalandi sem gæti passað í hann?“ spurði Zeta. 
+
+„Mér dettur enginn í hug,“ sagði Klaki eftir smá umhugsun. Hann skoðaði sokkinn betur. „Hann gæti verið af einhverju skrímsli,“ sagði hann síðan og horfði alvarlegum augum á Zetu.
+
+„Það eru örugglega ekki til skrímsli í Jólalandi. Skrímsli búa oftast á skrímslalegri stöðum. Kannski er það bara stór og vinaleg kýr sem á þennan sokk,“ sagði Zeta hughreystandi.
+„Það held ég ekki. Ég er handviss um að þetta sé sokkur af skrímsli,“ sagði Klaki alvarlegur í bragði.
+
+Zeta og Klaki hrukku bæði í kút þegar þau heyrðu einhvern mása og blása fyrir aftan þau.</text>
+      <sha1>1bqfnt2l83ohs0m5y30dxexkvmy2l1k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>08. Íslenskir jólasveinar</title>
+    <ns>0</ns>
+    <id>25125</id>
+    <revision>
+      <id>59187</id>
+      <parentid>59186</parentid>
+      <timestamp>2017-12-22T13:46:54Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[8. Íslenskir jólasveinar]] á [[08. Íslenskir jólasveinar]] án þess að skilja eftir tilvísun</comment>
+      <origin>59187</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="dhbb6j451igoxc535xr16vnmugy3f0z" xml:space="preserve">{{Josi-Katla
+|setning=nuHf3sVYZhs
+}}</text>
+      <sha1>dhbb6j451igoxc535xr16vnmugy3f0z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>08. Maddamma mús</title>
+    <ns>0</ns>
+    <id>25830</id>
+    <revision>
+      <id>60671</id>
+      <timestamp>2019-02-19T13:50:39Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Zeta-sogur |setning=8dYSmfQboAw }} '''8. Maddamma mús'''    Þegar Zeta og Klaki litu við, sáu þau að það var ekkert að óttast. Þetta var bara lítil mús sem var að klö...</comment>
+      <origin>60671</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2177" sha1="k72pnjal0b1efb5dtbtlqaw0be45one" xml:space="preserve">{{Zeta-sogur
+|setning=8dYSmfQboAw
+}}
+'''8. Maddamma mús'''
+
+Þegar Zeta og Klaki litu við, sáu þau að það var ekkert að óttast. Þetta var bara lítil mús sem var að klöngrast upp úr holu upp við stóran stein. Músin stóð upp og dustaði snjóinn af kjólnum sínum. Þá tók hún eftir Zetu og Klaka.
+
+„Góðan daginn,“ sagði hún snögglega og stakk síðan hausnum aftur ofan í holuna sína. Zeta og Klaki litu hvort á annað. Músin dró stóran bandhnykil og prjóna upp úr holunni sinni. Hún fékk sér sæti í snjónum og hófst handa við að prjóna. Hún starði niður á prjónana sem hreyfðust leiftursnöggt og spunnu garnið saman.
+
+„Góðan daginn,“ sagði Zeta og brosti kurteislega til músarinnar. „Ég heiti Zeta og þetta er vinur minn Klaki.“
+
+„Ég heiti Maddamma mús,“ sagði músin án þess að líta upp frá prjónunum.
+
+„Við erum að leita að ýmsum hlutum sem hann Klaki týndi í storminum,“ útskýrði Zeta og færði sig nær músinni.
+
+„Gangi ykkur vel með það,“ hnussaði í músinni sem prjónaði ákaft. Zeta hafði aldrei séð neinn prjóna svona hratt.
+
+„Hvað áttu við?“ spurði Klaki.
+
+„Ég á bara við að allir í Jólalandi eru að leita að einhverju sem þeir týndu í snjóbylnum og enginn finnur neitt. Stormurinn feykti burt stóru sænginni okkar svo nú þarf ég að prjóna nýja áður en börnunum mínum verður kalt,“ bætti músin við, dálítið pirruð. Neðan úr prjónunum hennar hékk langur renningur sem líktist stórum trefli. „Ég var næstum búin að týna öllum músarungunum mínum í rokinu.“
+
+Klaka varð starsýnt á annan prjóninn. Honum fannst hann eitthvað kunnuglegur.
+„Hverskonar prjón ertu með þarna?“ spurði hann hugsi. 
+
+„Annar prjónninn minn fauk í burtu í storminum svo ég varð að bjarga mér með þessari gulrót sem ég fann fyrir utan holuna mína,“ svaraði Maddamma mús án þess að svo mikið sem líta upp frá prjónaskapnum.
+
+„Bíddu nú við! Þetta er nefið mitt!“ hrópaði Klaki upp yfir sig þegar hann áttaði sig á því að músin var að nota nefið hans fyrir prjón!</text>
+      <sha1>k72pnjal0b1efb5dtbtlqaw0be45one</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>08. Regla - Mismunandi málstíll sýnir mismunandi sögupersónur</title>
+    <ns>0</ns>
+    <id>6328</id>
+    <revision>
+      <id>59232</id>
+      <parentid>31440</parentid>
+      <timestamp>2018-01-08T10:52:36Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[8. Regla - Mismunandi málstíll sýnir mismunandi sögupersónur]] á [[08. Regla - Mismunandi málstíll sýnir mismunandi sögupersónur]] án þess að skilja eftir tilvísun</comment>
+      <origin>59232</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2980" sha1="07u64pszyokqut96rs8vf92798ko39s" xml:space="preserve">{{Shortcourses
+|name=Regla 8
+|image=Lesa4.png
+|description=15 principles for reading to deaf children
+|category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn
+|related2=9. Regla - Hugtök og hugmyndir úr sögunni eru tengd við raunveruleikann
+|copyright=Laurent Clerc National Deaf Education Center
+|link2=http://www.aussiedeafkids.org.au/reading-to-deaf-children-learning-from-deaf-adults.html
+|image2=LCC jpeg.jpg
+|link=http://www.gallaudet.edu/Clerc_Center/Information_and_Resources/Info_to_Go/Language_and_Literacy/15_Principles_for_Reading_to_Deaf_Children.html
+|video1=40526862
+}}
+{{Shortcoursestext
+|title=8. Heyrnarlausir lesendur aðlaga málstíl sinn svo að hann passi við sögupersónuna
+|text=Á sama hátt og heyrandi einstaklingar breyta röddinni til aðlögunar (t.d. þegar lítið barn talar breytir lesandinn rödd sinni svo hún líkist litlu barni að tala eða ef björn talar þá dýpkar lesandinn rödd sína o.s.frv.) þá aðlaga heyrnarlausir lesendur líka táknstíl sinn. Persónurnar lifna við. Rannsóknir hafa sýnt að heyrnarlausir foreldrar nota fjölbreyttan stíl þegar þau segja sögu svo að sögurnar verði skemmtilegar fyrir heyrnarlausa barnið.
+
+
+Rannsókn sem beinir augum að heyrnarlausum foreldrum hefur sýnt að þeir nota stækkaða útgáfu af táknrýminu til þess að auka umfang persónanna í sögunni og til að gera söguna skemmtilegri fyrir heyrnarlausu börnin (Lartz &amp; Lestina, 1995; Mather, 1989; Stewart, Bonkowski &amp; Bennett, 1990; Whitesell, 1991). Lesandi getur t.d. notað stirðari og ýktari tákn til að lýsa taugatrekktri persónu; eða nota lítil tákn og mjög lítið táknrými til þess að lýsa einhverjum sem er feiminn; eða að ýkja táknin til að sýna litríka persónu.
+
+
+Til að tjá hljóðmyndir, auka áhugann á sögunni eða halda athygli er einnig er hægt að nota lát- og svipbrigði. Einn heyrnarlaus lesandi gaf t.d. til kynna að hurð skelltist með því að nota svipbrigði og látbragð til þess að leggja áherslu á viðbrögð sögupersónu sem dauðbregður þegar hún heyrir mikinn og óvæntan hávaða.
+}}
+{{Shortcoursestext
+|title=Heimilidir
+|text=Lartz, M.N., &amp; Lestina, L.J. (1995). Strategies deaf mothers use when reading to their young deaf or hard of hearing children. American Annals of the Deaf, 140(4), 358-362.
+
+Mather, S.A. (1989). Visually oriented teaching strategies with deaf preschool children. In C. Lucas, Ed., The sociolinguistics of the deaf community, pp. 165-187. New York, NY: 	Academic Press.
+
+Steward, D., Bonkowski, N. &amp; Bennett, D. (1990). Considerations and implications when reading stories to young deaf children. Occasional Paper No. 13. East Lansing, MI: Institute for Research in Teaching, MSU.
+
+Whitesell, K.M. (1991). Reading between the lines: How one deaf teacher demonstrates the reading process.  Unpublished doctoral dissertation, University of Cincinnati, OH.
+}}
+[[Flokkur:Lestur fyrir döff börn]]</text>
+      <sha1>07u64pszyokqut96rs8vf92798ko39s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>09. Ilmur af jólum</title>
+    <ns>0</ns>
+    <id>25831</id>
+    <revision>
+      <id>60672</id>
+      <timestamp>2019-02-19T13:52:11Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Zeta-sogur |setning=XdvFEwYhMUA }} '''9. Ilmur af jólum'''    Maddamma mús leit nú loks upp frá prjónaskapnum og horfði furðu lostin á andlitið á Klaka og svo á prjónana...</comment>
+      <origin>60672</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2985" sha1="959xwo4eqfsakw7gsia44v1mglyyuwu" xml:space="preserve">{{Zeta-sogur
+|setning=XdvFEwYhMUA
+}}
+'''9. Ilmur af jólum'''
+
+Maddamma mús leit nú loks upp frá prjónaskapnum og horfði furðu lostin á andlitið á Klaka og svo á prjónana sína til skiptis.
+
+„Jæja, það er líklega rétt hjá þér. Ég biðst afsökunar en margra músa móðir þarf stundum bara að bjarga sér. Ef þú gætir bara beðið augnablik,“ sagði hún síðan og prjónaði eins hratt og hún gat síðustu umferðina á teppinu sínu. Því næst losaði hún gulrótina úr garninu og rétti Klaka. 
+
+„Gjörðu svo vel og þakka þér fyrir afnotin. Nefið þitt kom sér vel.“
+
+Klaki tók við gulrótinni og tróð henni inn í snjóhausinn sinn. Hann dró djúpt andann. „Ahhh, “ andvarpaði hann. „Þetta er miklu betra. Nú get ég fundið lykt aftur! Ég get fundið ilminn af jólunum.“ Klaki hikaði aðeins. „Ef það verða nokkur jól, það er að segja.“
+
+„Hvernig er ilmurinn af jólunum?“ spurði Zeta.
+
+Klaki lét sig dreyma. „Jólin ilma eins og smákökur með súkkulaði og piparkökur. Já og mandarínur,“ sagði hann og lygndi aftur augunum og þefaði út í loftið.
+
+„En hvað það hljómar dásamlega,“ sagði Zeta og hló góðlátlega að því hvernig Klaki lét. 
+Allt í einu kom sterk vindhviða sem þyrlaði upp snjónum í kringum þau.
+
+„Jæja, ég ætla að forða mér áður en það skellur á annar stormur,“ sagði Maddamma mús og gekk rösklega með teppið sitt í átt að holunni.
+
+„En áður en þú ferð kæra Maddamma mús, langar mig að spyrja hvort þú kannast nokkuð við þennan ullarsokk,“ sagði Zeta og dró fram stóra ullarsokkinn.
+
+Maddamma mús tók andköf. „Hvar funduð þið þennan sokk?“ spurði hún undrandi.
+
+„Við fundum hann hér í snjónum,“ útskýrði Zeta. „Þekkir þú einhvern sem er nógu stór til að eiga þennan sokk?“
+
+Maddamma mús leit flóttalega í kringum sig. Snjórinn fauk til í kringum þau. „Nú, auðvitað snjótröllið,“ sagði Maddamma mús afar lágt, grafalvarleg á svipinn.
+
+„Snjótröllið!“ hrópaði Klaki. „Býr snjótröll í Jólalandi?“ Hann var skelfingu lostinn. Zetu brá dálítið.
+
+„USS!“ sagði Maddamma mús. „Ekki svona hátt! Ég heyrði hinar mýsnar tala um að það sé snjótröllið sem valdi þessum stormi.“
+
+Klaki hnipraði sig saman eins og hann væri að reyna að fela sig. 
+
+„Hvar býr þetta snjótröll?“ spurði Zeta og ákvað að láta óttann ekki ná tökum á sér.
+
+„Nú, þarna! Í Mikilfenglega fjalli auðvitað,“ sagði Maddamma mús og benti á stóru fjöllin fram undan. „Snjótröllið er stórt og luralegt og getur auðveldlega traðkað niður litla mús eins og mig. Þess vegna held ég mig í hæfilegri fjarlægð,“ sagði Maddamma mús og gjóaði augunum til stóru fjallanna. „Jæja, veriði sæl. Og ég vona að snjótröllið éti ykkur ekki,“ sagði Maddamma mús og hvarf ofan í holuna sína.</text>
+      <sha1>959xwo4eqfsakw7gsia44v1mglyyuwu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>09. Piparkökubakstur</title>
+    <ns>0</ns>
+    <id>25126</id>
+    <revision>
+      <id>59189</id>
+      <parentid>59188</parentid>
+      <timestamp>2017-12-22T13:47:22Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[9. Piparkökubakstur]] á [[09. Piparkökubakstur]] án þess að skilja eftir tilvísun</comment>
+      <origin>59189</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="g67x5p0b9mvbuwgrtarp5zd2go1e7z1" xml:space="preserve">{{Josi-Katla
+|setning=6lWmpUNOBk8
+}}</text>
+      <sha1>g67x5p0b9mvbuwgrtarp5zd2go1e7z1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>09. Regla - Hugtök og hugmyndir úr sögunni eru tengd við raunveruleikann</title>
+    <ns>0</ns>
+    <id>6333</id>
+    <revision>
+      <id>59233</id>
+      <parentid>31441</parentid>
+      <timestamp>2018-01-08T10:52:51Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[9. Regla - Hugtök og hugmyndir úr sögunni eru tengd við raunveruleikann]] á [[09. Regla - Hugtök og hugmyndir úr sögunni eru tengd við raunveruleikann]] án þess að skilja eftir tilvísun</comment>
+      <origin>59233</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3647" sha1="nhfznf6fv43th39xkxpldjbah61a1ur" xml:space="preserve">{{Shortcourses
+|name=Regla 9
+|image=freeimage-1744681.jpg
+|description=15 principles for reading to deaf children
+|category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn
+|related2=10. Regla - Mismunandi aðferðir eru notaðar til þess að halda athygli barnsins
+|copyright=Laurent Clerc National Deaf Education Center
+|link2=http://www.aussiedeafkids.org.au/reading-to-deaf-children-learning-from-deaf-adults.html
+|image2=LCC jpeg.jpg
+|link=http://www.gallaudet.edu/Clerc_Center/Information_and_Resources/Info_to_Go/Language_and_Literacy/15_Principles_for_Reading_to_Deaf_Children.html
+|video1=40521828
+}}
+{{Shortcoursesexample
+|title=Barn ber saman liti (Bókin lesin í fyrsta skipti))
+|video=40722466
+}}
+{{Shortcoursesexample
+|title=Tengjá innihald bókarinnar og raunveruleika saman (Bókin lesin í fyrsta skipti)
+|video=40722609
+}}
+{{Shortcoursesexample
+|title=Tengjá innihald bókarinnar og raunveruleika saman (Bókin lesin í fyrsta skipti)
+|video=40722589
+}}
+{{Shortcoursesexample
+|title=Fyrirbæri, tákn og orðmynd tengd saman (Bókin lesin í annað skipti)
+|video=40863060
+}}
+{{Shortcoursesexample
+|title=Rætt um aldur stelpunnar og aldur barnanna (Bókin lesin í þriðja skipti)
+|video=40722371
+}}
+{{Shortcoursestext
+|title=9. Heyrnarlausir lesendur tengja hugtök og hugmyndir frá sögunni við raunveruleikann.
+|text=Innihald sögu og reynsla barnsins eru tengd saman. 
+
+Reyndir lesendur tengja alltaf sína eigin reynslu við sögupersónurnar og atburði í sögunni sem er verið að lesa. Heyrnarlausir lesendur hjálpa heyrnarlausum börnum að þróa þessa færni með því að vera stöðugt að tengja söguna við eigið líf.
+
+
+''Dæmi''
+
+*''Saga um kött''. Hann lepur mjólk. Foreldri segir: alveg eins og hundurinn okkar lepur vatn. Barnið hlær og kinkar kolli til staðfestingar um að það hefi skilið tengslin.
+
+
+*''Saga um hvali''. Foreldri les sögu um hvali og útskýrir stærð þeirra með því að bera þá saman við stærð fótboltavallar (eitthvað sem barnið þekkir stærðina á og getur reynt að mæla). Þegar barnið hefur áttað sig á stærð hvalanna sýnir pabbinn honum mynd af fíl við hliðina á hval. „Hér er fíll“ og barnið segir svo: Og hér er hvalur. Miklu stærri.
+
+
+
+'''Að halda áfram að lesa í raun heimnum'''
+
+Foreldrar heyrnarlausra barna ættu að nýta sér hvert tækifæri til að tengja reynslu við ritaðan texta, þar með talið texta í sjónvarpi. Ekki er þó mælt með því að nota textað sjónvarpsefni í staðinn fyrir að lesa bækur fyrir börnin. En þegar börn horfa á sjónvarpið er betra að hafa meira af textuðu sjónvarpsefni.
+
+
+''Hér eru nokkrar hugmyndir um hvernig er hægt að nota textað sjónvarpsefni sem kennsluaðferð'':
+
+
+1. Hvetjið alla í fjölskyldunni til að horfa á textað sjónvarpsefni ekki eingöngu til þess að athuga hvað er í sjónvarpinu heldur til horfa á ákveðinn þátt. Börnin eiga ekki að sitja ein fyrir framan textað sjónvarpsefni, það mun ekki þróa lestrarhæfnina. Textað sjónvarpsefni er bara hluti af því sem þarf til að þróa læsi hjá börnum. 
+
+
+2. Horfið saman á sjónvarpið. Notið söguþráðinn og sögupersónurnar til þess að bera þau saman við bækur sem þið hafið lesið saman. Ræðið nýjar upplýsingar til að örva samræður innan fjölskyldunnar.
+
+
+3. Leigið eða fáið lánaðar textaðar myndir. Gerið hlé á 15 mínútna fresti eða þar sem passar og spyrjið barnið út í söguþráðinn eða persónurnar eða spáið saman í það hvað muni gerast næst.
+}}
+[[Flokkur:Lestur fyrir döff börn]]</text>
+      <sha1>nhfznf6fv43th39xkxpldjbah61a1ur</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1</title>
+    <ns>0</ns>
+    <id>1048</id>
+    <redirect title="Einn" />
+    <revision>
+      <id>3272</id>
+      <timestamp>2011-12-15T10:50:02Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <comment>[[1]] færð á [[Einn]]</comment>
+      <origin>3272</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19" sha1="t3d0qbvl23fhap3yyszq0yqjp2s5xpo" xml:space="preserve">#tilvísun [[Einn]]</text>
+      <sha1>t3d0qbvl23fhap3yyszq0yqjp2s5xpo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. Ávarp Kristínar Lenu Þorvaldsdóttur, forstöðumanns</title>
+    <ns>0</ns>
+    <id>28017</id>
+    <redirect title="2. Ávarp Kristínar Lenu Þorvaldsdóttur, forstöðumanns" />
+    <revision>
+      <id>65772</id>
+      <timestamp>2021-01-13T11:16:26Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Arny færði [[1. Ávarp Kristínar Lenu Þorvaldsdóttur, forstöðumanns]] á [[2. Ávarp Kristínar Lenu Þorvaldsdóttur, forstöðumanns]]</comment>
+      <origin>65772</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="74" sha1="1utyvgkl0vivhn36ucozd04o9gedwwo" xml:space="preserve">#tilvísun [[2. Ávarp Kristínar Lenu Þorvaldsdóttur, forstöðumanns]]</text>
+      <sha1>1utyvgkl0vivhn36ucozd04o9gedwwo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. Ávarp Lilju D. Alfreðsdóttur, mennta- og menningarmálaráðherra</title>
+    <ns>0</ns>
+    <id>28037</id>
+    <revision>
+      <id>65811</id>
+      <timestamp>2021-01-14T12:26:07Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{30araSHH |setning=JX0MG-mtnMY }}</comment>
+      <origin>65811</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" sha1="bn3obx3sb61efe2wgbnwr8wnulm4hx4" xml:space="preserve">{{30araSHH
+|setning=JX0MG-mtnMY
+}}</text>
+      <sha1>bn3obx3sb61efe2wgbnwr8wnulm4hx4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. Hvað er mál?</title>
+    <ns>0</ns>
+    <id>25151</id>
+    <revision>
+      <id>59294</id>
+      <parentid>59290</parentid>
+      <timestamp>2018-01-17T15:51:30Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[Hvað er mál?]] á [[1. Hvað er mál?]] án þess að skilja eftir tilvísun</comment>
+      <origin>59294</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1019" sha1="8bpsdjge5wctpgb5zh3u951wrz4o3kf" xml:space="preserve">{{Teaching
+|text=Í þessum fyrsta kafla er fjallað um mál, hvað það sé, málvísindi, táknmálsmálvísindi, það að tala táknmál, grunnbreyturnar 5 og uppruna tákna.
+|name=1. Hvað er mál?
+|Image=Hvad er mal.PNG
+|theme=Kynningarefni
+|category=Málfræðikennsla
+|video1=epkOMwOYX34
+|video2=B5owKQU4t7M
+|text2=Hvað er mál? - heimaverkefni
+|video3=NrvcoduKDhI
+|text3=Mál
+|video4=J0nTwsxDzf0
+|text4=Málvísindi
+|video5=DFd4sD2xIfI
+|text5=Málvísindi - Dæmi til að nota í kennslu
+|video6=PSKbdFNZ0eE
+|text6=Málvísindi - Heimaverkefni
+|video7=hP19S1a8_Es
+|text7=Táknmálsmálvísindi
+|video8=fUv01Xy__9Y
+|text8=Að tala táknmál
+|video9=mYkEwuj3luE
+|text9=Grunnbreyturnar 5
+|video10=Yg56DqW4C2k
+|text10=Grunnbreyturnar 5 - Dæmi til að nota í kennslu
+|video11=PZKeH_CYh0o
+|text11=Grunnbreyturnar 5 - Heimaverkefni
+|video12=5zxFKWOq9Ck
+|text12=Uppruni tákna
+|video13=IJxCWDjyRHY
+|text13=Uppruni tákna - Dæmi til að nota í kennslu
+|video14=Qv__KIuaIuw
+|text14=Upruni tákna - Heimaverkefni
+}}</text>
+      <sha1>8bpsdjge5wctpgb5zh3u951wrz4o3kf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota - bendingar í fleirtölu</title>
+    <ns>0</ns>
+    <id>26224</id>
+    <redirect title="1. lota (tákn 1) - bendingar í fleirtölu" />
+    <revision>
+      <id>61423</id>
+      <timestamp>2019-09-27T12:00:21Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <comment>Holmfridur færði [[1. lota - bendingar í fleirtölu]] á [[1. lota (tákn 1) - bendingar í fleirtölu]]</comment>
+      <origin>61423</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="58" sha1="bfi5wef9q1vulvcc17junmdpsu8f1zo" xml:space="preserve">#tilvísun [[1. lota (tákn 1) - bendingar í fleirtölu]]</text>
+      <sha1>bfi5wef9q1vulvcc17junmdpsu8f1zo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota - bendingar sem eignafornöfn</title>
+    <ns>0</ns>
+    <id>26225</id>
+    <redirect title="1. lota (tákn 1) - bendingar sem eignafornöfn" />
+    <revision>
+      <id>61425</id>
+      <timestamp>2019-09-30T08:49:28Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <comment>Holmfridur færði [[1. lota - bendingar sem eignafornöfn]] á [[1. lota (tákn 1) - bendingar sem eignafornöfn]]</comment>
+      <origin>61425</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="62" sha1="b5s59blorgtx00j46sx5hmzo2l2yapm" xml:space="preserve">#tilvísun [[1. lota (tákn 1) - bendingar sem eignafornöfn]]</text>
+      <sha1>b5s59blorgtx00j46sx5hmzo2l2yapm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota - táknalisti 1</title>
+    <ns>0</ns>
+    <id>26226</id>
+    <redirect title="1. lota (tákn 1) - táknalisti 1" />
+    <revision>
+      <id>61427</id>
+      <timestamp>2019-09-30T08:50:00Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <comment>Holmfridur færði [[1. lota - táknalisti 1]] á [[1. lota (tákn 1) - táknalisti 1]]</comment>
+      <origin>61427</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="48" sha1="dow8i3ymspf1uepdlexnaof70gymo7c" xml:space="preserve">#tilvísun [[1. lota (tákn 1) - táknalisti 1]]</text>
+      <sha1>dow8i3ymspf1uepdlexnaof70gymo7c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota - verefni 1.1</title>
+    <ns>0</ns>
+    <id>26273</id>
+    <redirect title="1. lota (tákn 2) - verkefni 1.1" />
+    <revision>
+      <id>61520</id>
+      <timestamp>2019-09-30T09:06:49Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <comment>Holmfridur færði [[1. lota - verefni 1.1]] á [[1. lota (tákn 2) - verkefni 1.1]]</comment>
+      <origin>61520</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="nzzgs8qyv5jvq53nenfz8id7p7433dx" xml:space="preserve">#tilvísun [[1. lota (tákn 2) - verkefni 1.1]]</text>
+      <sha1>nzzgs8qyv5jvq53nenfz8id7p7433dx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota - verkefni 1.1</title>
+    <ns>0</ns>
+    <id>26227</id>
+    <redirect title="1. lota (tákn 1) - verkefni 1.1" />
+    <revision>
+      <id>61429</id>
+      <timestamp>2019-09-30T08:50:22Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <comment>Holmfridur færði [[1. lota - verkefni 1.1]] á [[1. lota (tákn 1) - verkefni 1.1]]</comment>
+      <origin>61429</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="o4d3saowjrkgxa0qanhcnexm9vei558" xml:space="preserve">#tilvísun [[1. lota (tákn 1) - verkefni 1.1]]</text>
+      <sha1>o4d3saowjrkgxa0qanhcnexm9vei558</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota - verkefni 1.2</title>
+    <ns>0</ns>
+    <id>26228</id>
+    <redirect title="1. lota (tákn 1) - verkefni 1.2" />
+    <revision>
+      <id>61431</id>
+      <timestamp>2019-09-30T08:50:44Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <comment>Holmfridur færði [[1. lota - verkefni 1.2]] á [[1. lota (tákn 1) - verkefni 1.2]]</comment>
+      <origin>61431</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="bi1hxd3ovkblgamnuvsfvl57lemidn1" xml:space="preserve">#tilvísun [[1. lota (tákn 1) - verkefni 1.2]]</text>
+      <sha1>bi1hxd3ovkblgamnuvsfvl57lemidn1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota - verkefni 2.1</title>
+    <ns>0</ns>
+    <id>26274</id>
+    <redirect title="1. lota (tákn 2) - verkefni 1.2" />
+    <revision>
+      <id>61522</id>
+      <timestamp>2019-09-30T09:08:42Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <comment>Holmfridur færði [[1. lota - verkefni 2.1]] á [[1. lota (tákn 2) - verkefni 1.2]]</comment>
+      <origin>61522</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="cmmti6a1txgof2o0nxwmsk9yoj4fqpx" xml:space="preserve">#tilvísun [[1. lota (tákn 2) - verkefni 1.2]]</text>
+      <sha1>cmmti6a1txgof2o0nxwmsk9yoj4fqpx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 1) - bendingar í fleirtölu</title>
+    <ns>0</ns>
+    <id>26174</id>
+    <revision>
+      <id>61422</id>
+      <parentid>61413</parentid>
+      <timestamp>2019-09-27T12:00:21Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <minor/>
+      <comment>Holmfridur færði [[1. lota - bendingar í fleirtölu]] á [[1. lota (tákn 1) - bendingar í fleirtölu]]</comment>
+      <origin>61422</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="8hgc0iedkcevqxyvyf5g6hyu6xaada4" xml:space="preserve">{{Takn1
+|setning=oXQMPBz5h4g
+}}</text>
+      <sha1>8hgc0iedkcevqxyvyf5g6hyu6xaada4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 1) - bendingar sem eignafornöfn</title>
+    <ns>0</ns>
+    <id>26175</id>
+    <revision>
+      <id>61424</id>
+      <parentid>61360</parentid>
+      <timestamp>2019-09-30T08:49:27Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <minor/>
+      <comment>Holmfridur færði [[1. lota - bendingar sem eignafornöfn]] á [[1. lota (tákn 1) - bendingar sem eignafornöfn]]</comment>
+      <origin>61424</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="9205mzr7cm1j5md8l81nb6mbf7m5043" xml:space="preserve">{{Takn1
+|setning=lFviY39E1Og
+}}</text>
+      <sha1>9205mzr7cm1j5md8l81nb6mbf7m5043</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 1) - táknalisti 1</title>
+    <ns>0</ns>
+    <id>26176</id>
+    <revision>
+      <id>61426</id>
+      <parentid>61361</parentid>
+      <timestamp>2019-09-30T08:50:00Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <minor/>
+      <comment>Holmfridur færði [[1. lota - táknalisti 1]] á [[1. lota (tákn 1) - táknalisti 1]]</comment>
+      <origin>61426</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="g5evs41i0csql8aco8asiogkl311kf6" xml:space="preserve">{{Takn1
+|setning=_EFrmOAxUCc
+}}</text>
+      <sha1>g5evs41i0csql8aco8asiogkl311kf6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 1) - verkefni 1.1</title>
+    <ns>0</ns>
+    <id>26177</id>
+    <revision>
+      <id>61428</id>
+      <parentid>61362</parentid>
+      <timestamp>2019-09-30T08:50:22Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <minor/>
+      <comment>Holmfridur færði [[1. lota - verkefni 1.1]] á [[1. lota (tákn 1) - verkefni 1.1]]</comment>
+      <origin>61428</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="59" sha1="31rharowu7e9qreu6ch683ih3vfzqt8" xml:space="preserve">{{Takn1
+|setning=k04ZJ3p8rtA
+}}
+Verkefni 1.1 í Táknmál 1</text>
+      <sha1>31rharowu7e9qreu6ch683ih3vfzqt8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 1) - verkefni 1.2</title>
+    <ns>0</ns>
+    <id>26178</id>
+    <revision>
+      <id>61430</id>
+      <parentid>61363</parentid>
+      <timestamp>2019-09-30T08:50:44Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <minor/>
+      <comment>Holmfridur færði [[1. lota - verkefni 1.2]] á [[1. lota (tákn 1) - verkefni 1.2]]</comment>
+      <origin>61430</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="ctbe0bl69b1ljsa62bhhs15u6mlqdiw" xml:space="preserve">{{Takn1
+|setning=AsCSFfF4ebQ
+}}</text>
+      <sha1>ctbe0bl69b1ljsa62bhhs15u6mlqdiw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 2) - verkefni 1.1</title>
+    <ns>0</ns>
+    <id>26222</id>
+    <revision>
+      <id>61519</id>
+      <parentid>61418</parentid>
+      <timestamp>2019-09-30T09:06:48Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <minor/>
+      <comment>Holmfridur færði [[1. lota - verefni 1.1]] á [[1. lota (tákn 2) - verkefni 1.1]]</comment>
+      <origin>61519</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="3dll1w83l19bpqwvv757638rvyom5e2" xml:space="preserve">{{Takn2
+|setning=OJlR0pTnRzQ
+}}</text>
+      <sha1>3dll1w83l19bpqwvv757638rvyom5e2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 2) - verkefni 1.2</title>
+    <ns>0</ns>
+    <id>26223</id>
+    <revision>
+      <id>61521</id>
+      <parentid>61419</parentid>
+      <timestamp>2019-09-30T09:08:42Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <minor/>
+      <comment>Holmfridur færði [[1. lota - verkefni 2.1]] á [[1. lota (tákn 2) - verkefni 1.2]]</comment>
+      <origin>61521</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="42dvd8kyrg6hqhkcfi8045lhqp5fw3c" xml:space="preserve">{{Takn2
+|setning=0Ltff2gsHgk
+}}</text>
+      <sha1>42dvd8kyrg6hqhkcfi8045lhqp5fw3c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 3) - verkefni 1.1</title>
+    <ns>0</ns>
+    <id>26323</id>
+    <revision>
+      <id>61587</id>
+      <timestamp>2019-09-30T10:57:08Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <comment>Ný síða: {{Takn3 |setning=jbVhfO5_zmk }}</comment>
+      <origin>61587</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="di8db6298428xd424w13mfke3s5xd9w" xml:space="preserve">{{Takn3
+|setning=jbVhfO5_zmk
+}}</text>
+      <sha1>di8db6298428xd424w13mfke3s5xd9w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 3) - verkefni 1.2</title>
+    <ns>0</ns>
+    <id>26324</id>
+    <revision>
+      <id>61588</id>
+      <timestamp>2019-09-30T11:00:03Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <comment>Ný síða: {{Takn3 |setning=37arewgdN_w }}</comment>
+      <origin>61588</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="b54hkkulmw5suf0529k856p0ztlhf6g" xml:space="preserve">{{Takn3
+|setning=37arewgdN_w
+}}</text>
+      <sha1>b54hkkulmw5suf0529k856p0ztlhf6g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 3) - verkefni 1.3</title>
+    <ns>0</ns>
+    <id>26325</id>
+    <revision>
+      <id>61589</id>
+      <timestamp>2019-09-30T11:05:39Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <comment>Ný síða: {{Takn3 |setning=2HR75AkdSuo }}</comment>
+      <origin>61589</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="a9doebnicxlhnow2xirg12c74xtmb39" xml:space="preserve">{{Takn3
+|setning=2HR75AkdSuo
+}}</text>
+      <sha1>a9doebnicxlhnow2xirg12c74xtmb39</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 4) - verkefni 1.1</title>
+    <ns>0</ns>
+    <id>26361</id>
+    <revision>
+      <id>61639</id>
+      <parentid>61627</parentid>
+      <timestamp>2019-10-02T09:12:10Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <minor/>
+      <comment>Holmfridur færði [[4. lota (tákn 3) - verkefni 1.1]] á [[1. lota (tákn 4) - verkefni 1.1]]</comment>
+      <origin>61639</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="e5i4mcg7oictm2moh3gz3tbd9knpr9w" xml:space="preserve">{{Takn4
+|setning=zrSXeNVUev0
+}}</text>
+      <sha1>e5i4mcg7oictm2moh3gz3tbd9knpr9w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 4) - verkefni 1.2</title>
+    <ns>0</ns>
+    <id>26362</id>
+    <revision>
+      <id>61641</id>
+      <parentid>61628</parentid>
+      <timestamp>2019-10-02T09:12:31Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <minor/>
+      <comment>Holmfridur færði [[4. lota (tákn 3) - verkefni 1.2]] á [[1. lota (tákn 4) - verkefni 1.2]]</comment>
+      <origin>61641</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="sfe7hpqsnqifkzdbupqd3ym8sfurlmu" xml:space="preserve">{{Takn4
+|setning=d-LpAHT4N7w
+}}</text>
+      <sha1>sfe7hpqsnqifkzdbupqd3ym8sfurlmu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 4) - verkefni 1.3</title>
+    <ns>0</ns>
+    <id>26363</id>
+    <revision>
+      <id>61643</id>
+      <parentid>61629</parentid>
+      <timestamp>2019-10-02T09:12:50Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <minor/>
+      <comment>Holmfridur færði [[4. lota (tákn 3) - verkefni 1.3]] á [[1. lota (tákn 4) - verkefni 1.3]]</comment>
+      <origin>61643</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="prj31vye81sksygjvld231uiv3n6kh6" xml:space="preserve">{{Takn4
+|setning=gfaouuOHGtQ
+}}</text>
+      <sha1>prj31vye81sksygjvld231uiv3n6kh6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 5) - verkefni 1.1</title>
+    <ns>0</ns>
+    <id>26410</id>
+    <revision>
+      <id>61770</id>
+      <parentid>61695</parentid>
+      <timestamp>2019-10-10T12:45:34Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <origin>61770</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="l8750w3w4sx1ftljivpqozsu4gljo1b" xml:space="preserve">{{Takn5
+|setning=FUrkUSwPGvE
+}}</text>
+      <sha1>l8750w3w4sx1ftljivpqozsu4gljo1b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 5) - verkefni 1.2</title>
+    <ns>0</ns>
+    <id>26411</id>
+    <revision>
+      <id>61696</id>
+      <timestamp>2019-10-08T10:17:49Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <comment>Ný síða: {{Takn5 |setning=gip4bNYnqMs }}</comment>
+      <origin>61696</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="5yqvqj74oksbxfhqbdm5pxn8n20oczn" xml:space="preserve">{{Takn5
+|setning=gip4bNYnqMs
+}}</text>
+      <sha1>5yqvqj74oksbxfhqbdm5pxn8n20oczn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 5) - verkefni 1.3</title>
+    <ns>0</ns>
+    <id>26412</id>
+    <revision>
+      <id>61697</id>
+      <timestamp>2019-10-08T10:18:31Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <comment>Ný síða: {{Takn5 |setning=whhxgV2oxAQ }}</comment>
+      <origin>61697</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="img6caqkvabery6pogi5yboy0tek6br" xml:space="preserve">{{Takn5
+|setning=whhxgV2oxAQ
+}}</text>
+      <sha1>img6caqkvabery6pogi5yboy0tek6br</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 6) - verkefni 1.1</title>
+    <ns>0</ns>
+    <id>26447</id>
+    <revision>
+      <id>61931</id>
+      <timestamp>2019-10-16T10:48:18Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <comment>Ný síða: {{Takn6 |setning=W2s9feR174s }}</comment>
+      <origin>61931</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="a725dysrwmyzh49c4t65ypz14d6cg6h" xml:space="preserve">{{Takn6
+|setning=W2s9feR174s
+}}</text>
+      <sha1>a725dysrwmyzh49c4t65ypz14d6cg6h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. lota (tákn 6) - verkefni 1.2</title>
+    <ns>0</ns>
+    <id>26448</id>
+    <revision>
+      <id>61932</id>
+      <timestamp>2019-10-16T10:49:56Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <comment>Ný síða: {{Takn6 |setning=a5SiVT78aCE }}</comment>
+      <origin>61932</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="db7xv5954og0mzr8s8tkka7tfjq9hl2" xml:space="preserve">{{Takn6
+|setning=a5SiVT78aCE
+}}</text>
+      <sha1>db7xv5954og0mzr8s8tkka7tfjq9hl2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. persóna</title>
+    <ns>0</ns>
+    <id>12813</id>
+    <redirect title="Fyrsta persóna" />
+    <revision>
+      <id>34055</id>
+      <timestamp>2014-01-06T10:46:11Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Arny færði [[1. persóna]] á [[Fyrsta persóna]]</comment>
+      <origin>34055</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30" sha1="jtht7gka0t4pound43903mj1ymlqugy" xml:space="preserve">#tilvísun [[Fyrsta persóna]]</text>
+      <sha1>jtht7gka0t4pound43903mj1ymlqugy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. Regla - Sagan er túlkuð á táknmál</title>
+    <ns>0</ns>
+    <id>25272</id>
+    <revision>
+      <id>59541</id>
+      <timestamp>2018-03-27T08:55:16Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Shortcourses |name=Regla 1 |image=MB900446561.JPG |description=15 principles for reading to deaf children |category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn |relate...</comment>
+      <origin>59541</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3056" sha1="njiis8trou4cxih38dr2gbgmjenatj4" xml:space="preserve">{{Shortcourses
+|name=Regla 1
+|image=MB900446561.JPG
+|description=15 principles for reading to deaf children
+|category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn
+|related2=2. Regla - Bæði táknmálið og ritmálið á að vera sýnilegt
+|copyright=Laurent Clerc National Deaf Education Center
+|link2=http://www.aussiedeafkids.org.au/reading-to-deaf-children-learning-from-deaf-adults.html#01
+|image2=LCC jpeg.jpg
+|link=http://www.gallaudet.edu/Clerc_Center/Information_and_Resources/Info_to_Go/Language_and_Literacy/15_Principles_for_Reading_to_Deaf_Children.html
+|video1=40227859
+}}
+{{Shortcoursesexample
+|title=Rætt er almennt um bókina.
+|video=40722406
+}}
+{{Shortcoursesexample
+|title=Tengja litur og tákn saman
+|video=40725694
+}}
+{{Shortcoursestext
+|title=1. Heyrnarlausir lesendur túlka sögurnar á táknmáli
+|text=Þegar foreldrar lesa sögur fyrir heyrnarlaus börn velta þau oftast fyrir sér hvort rétt sé að segja söguna á táknmáli eða að tákna ritmálið. Þeir óttast að tákni þeir ekki hvert orð textans, í þeirri röð sem það kemur fyrir, muni barnið ekki kynnast ritmálinu og reglum þess.
+
+Rannsóknir á því hvernig heyrnarlausir foreldrar lesa fyrir börn sín sýna að þau nota sitt táknmál til þess að lesa sögur (Lartz &amp; Lestina, 1995; Mather, 1989; Shick &amp; Gale, 1995; Whitesell, 1991). Rannsókn hefur sýnt fram að börnum finnst sögur á táknmáli skemmtilegri og meira grípandi (Shick &amp; Gale, 1995).
+
+*táknmál notað, en ekki táknað ritmál.
+
+* barnið skilur innihaldið þó að hvert einasta orð ritmálisins sé ekki túlkað á táknmál.
+
+
+
+'''Foreldrar og kennarar vilja vita''':
+
+''Hvernig getur barnið lært íslenskuna í textanum ef ég nota táknmál?''
+
+Heyrnarlausir fullorðnir sem lesa upphátt fyrir heyrnarlaus börn bíða eftir því að áhugi barnsins beinist frá „málinu í gegnum loftið“ (táknmálinu) til „prentmálsins“ (íslenskunnar). Með því að lesa fyrir börnin aftur og aftur byrja börnin að átta sig á að orðaröð beggja málanna er ólík, en að sömu hugmyndir er hægt að tjá á báðum málum. Barnið lærir smám saman orðaforða, málfræði og setningafræði íslenskunnar í gegnum táknmálið.
+}}
+{{Shortcoursestext
+|title=Heimildir
+|text=Lartz, M.N., &amp; Lestina, L.J. (1995). Strategies deaf mothers use when reading to their young deaf or hard of hearing children. American Annals of the Deaf, 140(4), 358-362.
+
+Mather, S.A. (1989). Visually oriented teaching strategies with deaf preschool children. In C. 
+Lucas, Ed., The sociolinguistics of the deaf community, pp. 165-187. New York, NY: Academic Press.
+
+Schick, B. &amp; Gale, E. (1995). Preschool deaf and hard of hearing students’ interactions during ASL and English storytelling. American Annals of the Deaf, 140(4), 363-370.
+
+Whitesell, K.M. (1991). Reading between the lines: How one deaf teacher demonstrates the reading process.  Unpublished doctoral dissertation, University of Cincinnati, OH.
+}}
+[[Flokkur:Lestur fyrir döff börn]]</text>
+      <sha1>njiis8trou4cxih38dr2gbgmjenatj4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. þáttur - Álafoss</title>
+    <ns>0</ns>
+    <id>23979</id>
+    <revision>
+      <id>57231</id>
+      <parentid>57230</parentid>
+      <timestamp>2016-10-31T11:54:50Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[1 þáttur - Álafoss]] á [[1. þáttur - Álafoss]] án þess að skilja eftir tilvísun</comment>
+      <origin>57231</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="224" sha1="8jxz7tlo32htmktbf05kvnowxkl283x" xml:space="preserve">{{DeafReykjavik
+|setning=sZo2L3HR4Gs
+}}
+''Kolbrún Völkudóttir'' sýnir okkur Álafoss verslunina í Mosfellsbæ og segir frá því af hverju það er uppáhalds staðurinn hennar.
+
+Þátturinn var birtur 28. ágúst 2010</text>
+      <sha1>8jxz7tlo32htmktbf05kvnowxkl283x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1. þáttur - Hver erum við?</title>
+    <ns>0</ns>
+    <id>23989</id>
+    <revision>
+      <id>57210</id>
+      <timestamp>2016-10-31T11:44:44Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{DoffTV |setning=GgEG2Zcyc2Y }} Þátturinn var sendur út 18. nóvember 2010.</comment>
+      <origin>57210</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="79" sha1="nnghdhyyx14ehtgnshauwavgsr3tt7h" xml:space="preserve">{{DoffTV
+|setning=GgEG2Zcyc2Y
+}}
+Þátturinn var sendur út 18. nóvember 2010.</text>
+      <sha1>nnghdhyyx14ehtgnshauwavgsr3tt7h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>10</title>
+    <ns>0</ns>
+    <id>1075</id>
+    <redirect title="Tíu" />
+    <revision>
+      <id>3331</id>
+      <timestamp>2011-12-15T11:20:18Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <comment>[[10]] færð á [[Tíu]]</comment>
+      <origin>3331</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19" sha1="tdnm3c9ufsc0mfk2sa045xrkny285as" xml:space="preserve">#tilvísun [[Tíu]]</text>
+      <sha1>tdnm3c9ufsc0mfk2sa045xrkny285as</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>10 - 11</title>
+    <ns>0</ns>
+    <id>12301</id>
+    <redirect title="Tíu - ellefu" />
+    <revision>
+      <id>30981</id>
+      <timestamp>2013-08-20T13:32:31Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Arny færði [[10 - 11]] á [[Tíu - ellefu]]</comment>
+      <origin>30981</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28" sha1="8idbnezsm6xv71qtyyu9zk9pa9b8ylm" xml:space="preserve">#tilvísun [[Tíu - ellefu]]</text>
+      <sha1>8idbnezsm6xv71qtyyu9zk9pa9b8ylm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>10. Jólamarkaður</title>
+    <ns>0</ns>
+    <id>25127</id>
+    <revision>
+      <id>59193</id>
+      <parentid>59165</parentid>
+      <timestamp>2017-12-22T13:49:35Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>59193</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="mlydrt59sld1iu4jucd59g2v5l3x1m5" xml:space="preserve">{{Josi-Katla
+|setning=SO62MP7BT44
+}}</text>
+      <sha1>mlydrt59sld1iu4jucd59g2v5l3x1m5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>10. Regla - Mismunandi aðferðir eru notaðar til þess að halda athygli barnsins</title>
+    <ns>0</ns>
+    <id>6337</id>
+    <revision>
+      <id>31442</id>
+      <parentid>18649</parentid>
+      <timestamp>2013-09-17T09:11:40Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>31442</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3776" sha1="98jrgrznjs90mtbhk1nsp2z21pq5c5b" xml:space="preserve">{{Shortcourses
+|name=Regla 10
+|image=Lesa5.JPG
+|description=15 principles for reading to deaf children
+|category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn
+|related2=11. Regla - Augnatillit er notað til að fá fram þátttöku
+|copyright=Laurent Clerc National Deaf Education Center
+|link2=http://www.aussiedeafkids.org.au/reading-to-deaf-children-learning-from-deaf-adults.html
+|image2=LCC jpeg.jpg
+|link=http://www.gallaudet.edu/Clerc_Center/Information_and_Resources/Info_to_Go/Language_and_Literacy/15_Principles_for_Reading_to_Deaf_Children.html
+|video1=40521841
+}}
+{{Shortcoursesexample
+|title=Spurt er um húðlit stelpunnar (Bókin er lesin í fyrsta skipti)
+|video=40722536
+}}
+{{Shortcoursesexample
+|title=Börn skoða ristað brauð (Bókin lesin í annað skipti)
+|video=40722462
+}}
+{{Shortcoursesexample
+|title=Leita orðmynd inn í texta (Bókin lesin í þriðja skipti)
+|video=40725335
+}}
+{{Shortcoursesexample
+|title=Orð sýnt, leitað eftir tákni (Bókin lesin í þriðja skipti)
+|video=40725374
+}}
+{{Shortcoursestext
+|title=10. Heyrnarlausir lesendur nota mismunandi aðferðir til að halda athygli barnsins
+|text=Það er fullkomlega eðlilegt fyrir heyrnarlaust barn að það líti niður eða til hliðar þegar verið er að lesa fyrir það (Akamatsu &amp; Andrews, 1993; Andrews &amp; Taylor, 1987; Lartz &amp; Lestina, 1995; Van der Lem &amp; Timmerman, 1990). Færir lesendur bíða oftast þolinmóðir eftir því að barnið líti upp og þá er haldið áfram með lesturinn. 
+
+Heyrnarlausir lesendur nota ólíkar aðferðir að ná athygli barnanna aftur:
+
+*klappa létt á öxl eða fót; 
+
+*nota svipbrigði;
+
+*augnsamband;
+
+*hnippa í, gefa barni létt olnbogaskot;
+
+*færa bókina;
+
+*nota látbrigði; 
+
+*viðvarandi samband af einhverju tagi virðist vera aðalatriðið;
+
+
+Lesendur átta sig einnig á mikilvægi jaðarsviðs sjónarinnar. Þeir taka eftir því að heyrnarlaus börn ná miklu þrátt fyrir að þau horfi ekki beint á táknarann. Barnið fær tækifæri til að fylla í eyðurnar, þ.e.a.s. að ná því sem það hefur misst við lesturinn, því sama sagan er lesin aftur og aftur.
+
+
+Heyrandi fólk á það til að taka í höku barnsins og reyna að snúa höfðinu í átt að sér, en heyrnarlausir einstaklingar virðast ekki gera slíkt. Þó að ung börn hafi tilhneigingu til að gera slíkt við foreldra sína er þetta ekki æskileg aðferð til að ná athygli. 
+
+
+Það að láta lesa fyrir sig á máltökuskeiðinu (frá fæðingu til 13 ára) er ein leið til að þróa læsi. Kennari nokkur orðaði það þannig: „Það að lesa fyrir nemendur á hverjum degi án þess að bregðast, leggur grunninn að því að nemendur og kennarar eigi eitthvað sameiginlegt og að þeim líði vel, það hjálpar ímyndunaraflinu að fara á flug og ala upp ást gagnvart bókmenntum. Þetta er góð leið til að byrja.“
+}}
+{{Shortcoursestext
+|title=Heimildir
+|text=Akamatsu, C.T., &amp; Andrews, J.F. (1993). It takes two to be literate: Literacy interactions between parent and child. Sign Language Studies, 81,  333-360.
+
+Andrews, J.F., &amp; Taylor, N.E. (1987). From sign to print: A case study of picture book ‘reading’ between mother and child. Sign Language Studies, 56,  261-274.
+
+Lartz, M.N., &amp; Lestina, L.J. (1995). Strategies deaf mothers use when reading to their young deaf or hard of hearing children. American Annals of the Deaf, 140(4), 358-362.
+
+Van der Lem, T., &amp; Timmerman, D. (1990). Joint picture book reading in signs: An interaction between parent and child. In Prillwitz, Siegmund, Vollhaber (Eds.), Sign language research and application: Proceedings of the international congress. Hamburg, March 23-25, 1990. Amsterdam: Signum.
+}}
+[[Flokkur:Lestur fyrir döff börn]]</text>
+      <sha1>98jrgrznjs90mtbhk1nsp2z21pq5c5b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>10. Vindarnir blása</title>
+    <ns>0</ns>
+    <id>25832</id>
+    <revision>
+      <id>60673</id>
+      <timestamp>2019-02-19T14:06:28Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Zeta-sogur |setning=GsP3XKgksg0 }} '''10. Vindarnir blása'''    Vindurinn blés kröftuglega og nú byrjaði að snjóa.    „Ég vil ekki eiga á hættu að hitta þetta snjótr...</comment>
+      <origin>60673</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2162" sha1="03y86jftgqu0kly6kup1deo67u4255y" xml:space="preserve">{{Zeta-sogur
+|setning=GsP3XKgksg0
+}}
+'''10. Vindarnir blása'''
+
+Vindurinn blés kröftuglega og nú byrjaði að snjóa.
+
+„Ég vil ekki eiga á hættu að hitta þetta snjótröll. Förum aftur heim,“ sagði Klaki áhyggjufullur.
+„En þú átt hvergi heima. Auk þess vitum við ekki hvort snjótröllið sé í alvörunni til,“ sagði Zeta. „Góðu fréttirnar eru að þú ert búinn að finna nefið þitt aftur! Við finnum örugglega eitthvað fleira sem þú hefur týnt,“ sagði Zeta bjartsýn og arkaði af stað.
+
+„Jæja, já það er rétt hjá þér,“ sagði Klaki. Hann leit til himins. Það var byrjað að snjóa meira og vindurinn jókst. „Leitum skjóls hjá trjánum þarna,“ sagði hann og benti á nokkur stór tré sem stóðu í hnapp rétt hjá.
+
+„Góð hugmynd hjá þér. Ég tek ullarsokkinn með. Hann gæti komið að góðum notum,“ sagði Zeta og dröslaði ullarsokknum á eftir sér í snjónum.  
+
+Vindurinn blés og blés og snjókoman jókst og það varð sífellt erfiðara að sjá fram fyrir sig. Zeta og Klaki börðust í gegnum hríðina til að komast í skjól hjá trjánum.
+
+„Ég sé ekki hvert við eigum að fara,“ sagði Klaki þegar snjóhríðin var orðin að blindbyl. Zeta greip í höndina á honum.
+
+„Við pössum hvort annað. Þetta verður allt í lagi,“ sagði hún hughreystandi, þrátt fyrir að vera sjálf orðin dálítið hrædd. Þessi leit að jólunum var að breytast í háskalegt ferðalag.
+
+Allt í einu heyrðist tíst í fugli og þau sáu móta fyrir litlum, bláum fugli mitt í snjóhríðinni.
+„Þessa leið,“ sagði litli fuglinn og flögraði við hliðina á þeim. Zetu fannst aðdáunarvert að fuglinn gæti haldið flugi í þessu brjálaða veðri.
+
+Fuglinn leiddi þau að stóru tré. Þar settust þau niður, kúrðu sig saman og vöfðu ulllarsokknum utan um sig til að fá skjól. Fuglinn hvarf sjónum þeirra og þarna sátu þau alveg kyrr og pössuðu upp á hvort annað.
+
+„Æ, þetta er allt of mikill snjór! Við förum á kaf,“ sagði Klaki áhyggjufullur og lokaði augunum. „Ég vil bara fá jólin mín aftur.“</text>
+      <sha1>03y86jftgqu0kly6kup1deo67u4255y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>100</title>
+    <ns>0</ns>
+    <id>2963</id>
+    <redirect title="Hundrað" />
+    <revision>
+      <id>7704</id>
+      <timestamp>2012-01-17T14:10:54Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <comment>[[100]] færð á [[Hundrað]]</comment>
+      <origin>7704</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="mffkj7f1oahese4xcsr818uadsvxh0i" xml:space="preserve">#tilvísun [[Hundrað]]</text>
+      <sha1>mffkj7f1oahese4xcsr818uadsvxh0i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>100 nýjustu táknin</title>
+    <ns>0</ns>
+    <id>7038</id>
+    <revision>
+      <id>19280</id>
+      <parentid>19279</parentid>
+      <timestamp>2012-05-09T12:00:10Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <origin>19280</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="142" sha1="hdwlo4kzqpe6djqt7k8zgrwtdojk0iz" xml:space="preserve">&lt;DPL&gt;
+category=Orðabók A-Ö
+ordermethod=firstedit
+order=descending
+count=100
+addpagecounter=true
+addcategories=true
+addeditdate=true 
+&lt;/DPL&gt;</text>
+      <sha1>hdwlo4kzqpe6djqt7k8zgrwtdojk0iz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1000</title>
+    <ns>0</ns>
+    <id>2965</id>
+    <redirect title="Þúsund" />
+    <revision>
+      <id>7707</id>
+      <timestamp>2012-01-17T14:15:04Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <comment>[[1000]] færð á [[Þúsund]]</comment>
+      <origin>7707</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="nj9qrn6odxmzex88c388dcqi1n5j5oy" xml:space="preserve">#tilvísun [[Þúsund]]</text>
+      <sha1>nj9qrn6odxmzex88c388dcqi1n5j5oy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>11</title>
+    <ns>0</ns>
+    <id>1074</id>
+    <redirect title="Ellefu" />
+    <revision>
+      <id>3329</id>
+      <timestamp>2011-12-15T11:20:05Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <comment>[[11]] færð á [[Ellefu]]</comment>
+      <origin>3329</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="05xslnnoz24npv0cy9rkrqmr11a2top" xml:space="preserve">#tilvísun [[Ellefu]]</text>
+      <sha1>05xslnnoz24npv0cy9rkrqmr11a2top</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>11. Bíbí glókollur</title>
+    <ns>0</ns>
+    <id>25833</id>
+    <revision>
+      <id>60674</id>
+      <timestamp>2019-02-19T14:14:41Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Zeta-sogur |setning=lJgVOH1p-KI }} '''11. Bíbí glókollur'''    Loks lægði vindinn, snjókoman hætti og það sást aftur í sólina.    „Ah, þetta er betra,“ sagði Klaki...</comment>
+      <origin>60674</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2175" sha1="p4wtkda67qxpadtcezjl5l9wqsp8q3i" xml:space="preserve">{{Zeta-sogur
+|setning=lJgVOH1p-KI
+}}
+'''11. Bíbí glókollur'''
+
+Loks lægði vindinn, snjókoman hætti og það sást aftur í sólina.
+
+„Ah, þetta er betra,“ sagði Klaki og kíkti undan ullarsokknum, feginn að hríðinni hafði slotað.
+„Ég vissi að sólin mundi koma fljótt aftur,“ sagði Zeta og var líka fegin. „Sólin kemur alltaf aftur.“
+
+Fyrir ofan þau heyrðist fuglasöngur. Zeta leit upp. Hópur blárra fugla sat hátt uppi í lauflausum trjánum og söng svo fallega. Fleiri fuglar flögruðu í kringum trén. Zeta dáðist að fuglahópnum og horfði dáleidd á þá sýna listir sínar, flögra um og fljúga lágt yfir snævi þakinni jörðinni.
+
+„Halló!“ sagði mjóróma rödd. Fuglinn sem hafði vísað þeim veginn sat á grein fyrir ofan þau. Nú sá Zeta að hann var með gula rönd á höfðinu. „Er allt í lagi með ykkur?“
+
+„Já,“ svaraði Zeta. „Þakka þér fyrir hjálpina.“
+
+„Mín var ánægjan. Ég heiti Bíbí glókollur,“ sagði fuglinn og dillaði stélinu. „Nú vantar okkur hjálp frá ykkur.“ Fuglinn flögraði í nokkra hringi. „Við vorum búin að safna litlu jólaeplunum okkar saman í körfu en eplin duttu í snjóinn þegar karfan fauk í storminum. Getið þið hjálpað okkur að finna eplin og setja í körfu? Þið hafið hendur og eruð fljótari en við,“ sagði Bíbí.
+Klaki horfði á höndina sína. „Ég er reyndar bara með eina hendi,“ sagði hann leiður. 
+
+Zeta klappaði á bakið á Klaka til hughreystingar. „Já auðvitað hjálpum við til,“ kallaði hún til fuglanna. Síðan hófust þau handa.
+
+Allir hjálpuðust að og brátt voru Zeta og Klaki búin að safna öllum eplunum saman í eina hrúgu í snjónum.      
+    
+„Hvað eigum við að gera við eplin?“ hrópaði Klaki til fuglanna.  
+
+Bíbí kom samstundis flögrandi til þeirra. „Setjið þau í svörtu körfuna við tréð,“ svaraði hún.
+Zeta og Klaki klöngruðust með eplin að svörtu körfunni. Þegar þau nálguðust stansaði Klaki og gapti fram fyrir sig. „Heyrðu, þetta er ekki karfa. Þetta er fíni hatturinn minn!“ hrópaði hann upp yfir sig.</text>
+      <sha1>p4wtkda67qxpadtcezjl5l9wqsp8q3i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>11. Grýla og Leppalúði</title>
+    <ns>0</ns>
+    <id>25128</id>
+    <revision>
+      <id>59194</id>
+      <parentid>59166</parentid>
+      <timestamp>2017-12-22T14:00:40Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>59194</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="ezrkvljognyi26pxfxjr5zqsbxiwfzw" xml:space="preserve">{{Josi-Katla
+|setning=G2igtbb5M8g
+}}</text>
+      <sha1>ezrkvljognyi26pxfxjr5zqsbxiwfzw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>11. Regla - Augnatillit er notað til að fá fram þátttöku</title>
+    <ns>0</ns>
+    <id>6339</id>
+    <revision>
+      <id>31443</id>
+      <parentid>19565</parentid>
+      <timestamp>2013-09-17T09:11:55Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>31443</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2425" sha1="mcosblvzxj9y9tyknpievkznfpyc77q" xml:space="preserve">{{Shortcourses
+|name=Regla 11
+|image=MP900409455.jpg.JPG
+|description=15 principles for reading to deaf children
+|category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn
+|related2=12. Regla - Farið í hlutverk til að víkka út hugtök og hugmyndir
+|copyright=Laurent Clerc National Deaf Education Center
+|link2=http://www.aussiedeafkids.org.au/reading-to-deaf-children-learning-from-deaf-adults.html
+|image2=LCC jpeg.jpg
+|link=http://www.gallaudet.edu/Clerc_Center/Information_and_Resources/Info_to_Go/Language_and_Literacy/15_Principles_for_Reading_to_Deaf_Children.html
+|video1=40527581
+}}
+{{Shortcoursesexample
+|title=Hópmiðað augnatillit
+|video=40722418
+}}
+{{Shortcoursesexample
+|title=Einstaklingsmiðað augnatillit
+|video=40722609
+}}
+{{Shortcoursestext
+|title=11. Heyrnarlausir lesendur nota augnatillit til þess að fá fram þátttöku
+|text=Augnatillit – hvert við horfum í frásögn eða samtali – er þýðingarmikill þáttur. Augnatillit er mjög mikilvægt þegar lesið er fyrir heyrnarlaust barn. Rannsókn hefur sýnt að heyrnarlausir kennarar nota tvær tegundir af augnatilliti: „hópmiðað“-augnatillit og „einstaklingsmiðað“-augnatillit (Mather, 1989).
+
+
+''„Hópmiðað“''-augnatillit er notað til að halda athygli allra barnanna en ''„einstaklingsmiðað“''-augnatillit er þegar spurningar eða athugasemdir eru ætlaðar tilteknum einstaklingi úr hópnum. Heyrandi kennarar hafa stundum tilhneigingu til að nota óviðeigandi augnatillit þegar heyrnarlaus börn eru í hópnum sem lesið er fyrir. Þetta leiðir til misskilnings í samskiptum. 
+
+
+*''Dæmi fyrir óviðeigandi augnatillit'': Heyrandi kennari sem kann táknmál les sögu. Þegar hann er búinn segir hann: ,,Sum ykkar þekkja ekki söguna“ og hann notar „einstaklingsmiðað“-augnatillit, þ.e.a.s. horfir á einn ákveðinn nemanda í staðinn fyrir að horfa á hópinn sem heild. Barnið sem horft var á fer í vörn og svarar: ,,Ég veit, ég veit.“ Það er augljóst að augnatillit spilar lykilhlutverk í að halda athygli og fá viðbrögð á meðan lesið er upphátt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+}}
+{{Shortcoursestext
+|title=Heimild
+|text=Mather, S.A. (1989). Visually oriented teaching strategies with deaf preschool children. In C. Lucas, Ed., The sociolinguistics of the deaf community, pp. 165-187. New York, NY: Academic Press.
+}}
+[[Flokkur:Lestur fyrir döff börn]]</text>
+      <sha1>mcosblvzxj9y9tyknpievkznfpyc77q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>112</title>
+    <ns>0</ns>
+    <id>30390</id>
+    <revision>
+      <id>69639</id>
+      <timestamp>2022-06-02T14:41:10Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=1121.PNG |texti=Táknið eru tölurnar  [[1]] [[1]] [[2]] |myndunarstadur=Hlutlaust rými |handform=1 handform |efnisflokkur=Samfélag |efnisflokkur2=Fyrirtæki...</comment>
+      <origin>69639</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="322" sha1="4m1be11ep74a9llg5opid0so1he5eac" xml:space="preserve">{{Infoboxsign
+|Image1=1121.PNG
+|texti=Táknið eru tölurnar  [[1]] [[1]] [[2]]
+|myndunarstadur=Hlutlaust rými
+|handform=1 handform
+|efnisflokkur=Samfélag
+|efnisflokkur2=Fyrirtæki og stofnanir
+|tengsl1=Neyðarlínan
+|tengsl2=Sjúkrabíll
+|tengsl3=Lögregla
+|Image2=112 logo.jpg
+|youtube1=https://youtu.be/9R45-nC6HLM
+}}</text>
+      <sha1>4m1be11ep74a9llg5opid0so1he5eac</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>12</title>
+    <ns>0</ns>
+    <id>1073</id>
+    <redirect title="Tólf" />
+    <revision>
+      <id>3327</id>
+      <timestamp>2011-12-15T11:19:49Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <comment>[[12]] færð á [[Tólf]]</comment>
+      <origin>3327</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" sha1="1zl70a4hb0smg2gxc9bcynnstr4ichp" xml:space="preserve">#tilvísun [[Tólf]]</text>
+      <sha1>1zl70a4hb0smg2gxc9bcynnstr4ichp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>12 spora kerfið</title>
+    <ns>0</ns>
+    <id>27935</id>
+    <revision>
+      <id>65627</id>
+      <timestamp>2020-12-30T11:03:51Z</timestamp>
+      <contributor>
+        <username>Sigurdurv</username>
+        <id>469</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=12 spora kerfið.png |texti=Táknin [[12|12]] , [[spor|SPOR]] og [[kerfi|KERFI]] sett saman. |myndunarstadur=Hlutlaust rými |handform=1 handform |efnisflokkur=H...</comment>
+      <origin>65627</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="335" sha1="j3zuep12yhwotwvo6e1ulkitjeihuom" xml:space="preserve">{{Infoboxsign
+|Image1=12 spora kerfið.png
+|texti=Táknin [[12|12]] , [[spor|SPOR]] og [[kerfi|KERFI]] sett saman.
+|myndunarstadur=Hlutlaust rými
+|handform=1 handform
+|efnisflokkur=Heilsa og líkami
+|twohandforms=Já
+|tengsl1=AA samtökin
+|tengsl2=Alkóhólismi
+|tengsl3=Meðferð
+|Image2=12 spora kerfið.jpg
+|youtube1=Enf2dl0xqz4
+}}</text>
+      <sha1>j3zuep12yhwotwvo6e1ulkitjeihuom</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>12 sporin</title>
+    <ns>0</ns>
+    <id>29010</id>
+    <revision>
+      <id>67762</id>
+      <timestamp>2022-02-02T11:25:32Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{12sporamedferd |setning=Qhcz3fX3HwA  }}    '''&lt;big&gt;12 reynsluspor AA samtakanna&lt;/big&gt;'''  Þýðing: Anna Dagmar Daníelsdóttir  1. Við viðurkenndum vanmátt okkar gagnvart áfen...</comment>
+      <origin>67762</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1558" sha1="s2thp1hup3owafiaszdtxcihxzkusjl" xml:space="preserve">{{12sporamedferd
+|setning=Qhcz3fX3HwA
+
+}}
+
+
+
+'''&lt;big&gt;12 reynsluspor AA samtakanna&lt;/big&gt;'''
+
+Þýðing: Anna Dagmar Daníelsdóttir
+
+1. Við viðurkenndum vanmátt okkar gagnvart áfengi og að við gætum ekki lengur stjórnað eigin lífi.
+
+2. Við fórum að trúa að máttur okkur æðri gæti gert okkur andlega heilbrigð að nýju.
+
+3. Við tókum þá ákvörðun að fela líf okkar og vilja umsjá Guðs, samkvæmt skilningi okkar á honum.
+
+4. Við gerðum rækilega og óttalaust siðferðileg reikningsskil í lífi okkar.
+
+5. Við játuðum misgjörðir okkar fyrir Guði, sjálfum okkur og annarri manneskju og nákvæmlega hvað í þeim fólst.
+
+6. Við vorum þess albúin að láta Guð fjarlægja alla skapgerðarbrestina.
+
+
+7. Við báðum Guð í auðmýkt að losa okkur við brestina.
+
+8. Við skráðum misgjörðir okkar gagnvart náunganum og urðum fús til að bæta fyrir þær.
+
+9. Við bættum fyrir brot okkar milliliðalaust svo framarlega sem það særði engan.
+
+10. Við iðkuðum stöðuga sjálfsrannsókn og þegar út af bar viðurkenndum við yfirsjónir okkar umsvifalaust.
+
+11. Við leituðumst við með bæn og hugleiðslu að styrkja vitundarsamband okkar við Guð, samkvæmt skilningi okkar á honum, og báðum um það eitt að vita vilja hans og hafa mátt til að framkvæma hann.
+
+12. Við urðum fyrir andlegri vakningu er við stigum þessi spor og reyndum því að flytja öðrum alkóhólistum þennan boðskap og fylgja þessum meginreglum í lífi okkar og starfi.
+
+[[Flokkur:12 spora meðferð]]</text>
+      <sha1>s2thp1hup3owafiaszdtxcihxzkusjl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>12. Flottur hattur</title>
+    <ns>0</ns>
+    <id>25834</id>
+    <revision>
+      <id>60676</id>
+      <parentid>60675</parentid>
+      <timestamp>2019-02-19T14:19:21Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>60676</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2289" sha1="b8pm78taccv71rcjn0sr7x2e6xuqvvy" xml:space="preserve">{{Zeta-sogur
+|setning=SmKDmaAqBKs
+}}
+'''12. Flottur hattur'''
+
+Klaki þreif til sín hattinn, sturtaði eplunum úr og setti hann á hausinn. Hann horfði reiðilega á Bíbí sem kom flögrandi til þeirra. Bíbí settist í snjóinn. Hún bar vænginn fyrir gogginn og flissaði dálítið.
+
+„Ó, afsakaðu. Ég sé það núna að þetta er hattur. Mér fannst karfan líka eitthvað skrýtin,“ sagði hún og brosti afsakandi til Klaka.
+
+„Mikið ertu fínn núna,“ sagði Zeta og virti litla snjókarlinn fyrir sér.
+
+Við hrósið hætti Klaki samstundis að vera reiður og brosti út að eyrum.
+
+„Já, þetta er líka uppáhalds hatturinn minn!“ Hann dansaði um í snjónum. „Jólahatturinn minn! Nú verð ég fínn um jólin - það er að segja - ef það verða einhver jól.“ Hann andvarpaði og settist niður.
+
+„Eigið þið nokkuð körfu sem við getum fengið lánaða?“ spurði Bíbí.
+
+„Nei, við erum bara með þennan stóra ullarsokk sem við vitum ekki hver á,“ sagði Zeta. Hún dró ullarsokkinn upp úr snjónum og sýndi Bíbí.
+
+Fuglinn tók andköf. „Snjótröllið!“ tísti Bíbí og flögraði aðeins til baka. „Enginn nema snjótröllið getur átt svona stóran sokk. Það er með svo ógnarstóra fætur og ógurlega stórt nef.“
+Zeta og Klaki horfðu á hvort annað, ullarsokkinn og á fjöllin stóru. Þau fengu bæði kaldan hroll niður bakið. Bíbí flögraði aftur upp í tréð.
+
+„Hvert eruð þið að fara? Þið eruð þó ekki að fara í áttina að Mikilfenglega fjalli?“ spurði Bíbí.
+„Ja, við erum að leita að ýmsum hlutum sem Klaki hefur týnt og viljum komast að því hvers vegna það hefur snjóað og vindurinn blásið svona mikið. Þess vegna ætlum við að hitta gamla refinn,“ útskýrði Zeta.  
+
+Bíbí hugsaði sig um í smá stund. „Við fuglarnir förum aldrei nálægt Mikilfenglega fjalli, en ég vil gjarnan launa ykkur hjálpina fyrir eplatínsluna. Ef þið lendið í vandræðum skuluð þið kalla á mig og ég reyni að bregðast við. Gangi ykkur vel.“ Síðan var hún flogin í burtu.
+
+Klaki og Zeta horfðu hvort á annað og voru bæði djúpt hugsi. Þetta var þá satt sem Maddamma mús sagði um snjótröllið. Það var þá til í alvörunni!</text>
+      <sha1>b8pm78taccv71rcjn0sr7x2e6xuqvvy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>12. Regla - Farið í hlutverk til að víkka út hugtök og hugmyndir</title>
+    <ns>0</ns>
+    <id>6342</id>
+    <revision>
+      <id>31444</id>
+      <parentid>18658</parentid>
+      <timestamp>2013-09-17T09:12:12Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>31444</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2549" sha1="odytfyi9na2yi1ad3gocup42mj6vggp" xml:space="preserve">{{Shortcourses
+|name=Regla 12
+|image=MC900089034.jpg
+|description=15 principles for reading to deaf children
+|category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn
+|related2=13. Regla - Ólík tilbrigði táknmáls eru notuð til að tjá síendurtekna frasa á ritmálinu
+|copyright=Laurent Clerc National Deaf Education Center
+|link2=http://www.aussiedeafkids.org.au/reading-to-deaf-children-learning-from-deaf-adults.html
+|image2=LCC jpeg.jpg
+|link=http://www.gallaudet.edu/Clerc_Center/Information_and_Resources/Info_to_Go/Language_and_Literacy/15_Principles_for_Reading_to_Deaf_Children.html
+|video1=40521898
+}}
+{{Shortcoursesexample
+|title=Að fara í hlutverk
+|video=40852990
+}}
+{{Shortcoursestext
+|title=12. Heyrnarlausir lesendur fara í hlutverk til að víkka út hugtök og hugmyndir
+|text=Rannsóknir hafa bent á að heyrnarlausir lesendur fara í hlutverk til þess að auka við skilning á merkingunni.
+
+
+*''Dæmi'': Móðir og barn eru að lesa saman sögu um apa sem duttu í á og krókódíll át þá. Móðirin leyfir syni sínum að fara í hlutverk apanna. Hann dettur niður fram úr rúminu í hvert skipti sem api dettur niður úr trénu. Svo klifrar hann upp í rúmið og móðir hans heldur áfram að lesa. Sonurinn heldur áfram að leika apana með því að detta fram úr rúminu í hvert skipti.
+
+
+Nokkrar rannsóknir leggja líka áherslu á að heyrnarlausir lesendur leika oft hluta af sögu til þess að styðja við merkinguna (Ewoldt, 1994; Mather, 1989; Rodgers, 1989):
+
+*''Dæmi'': Kennari les fyrir börn og tekur eftir að þau fylgjast ekki með sögunni (saga um kettlinga sem vilja ekki fara inn í hús). Hann ákveður að deila út hlutverkum til barnanna, eitt barn er mamman, og önnur börn eru kettlingar. Með því að gefa þeim hlutverk eru þau hluti af sögunni. Kennarinn nær athygli þeirra og börnin skilja söguna betur.
+}}
+{{Shortcoursestext
+|title=Heimildir
+|text=Ewoldt, C. (1994). Booksharing: Teachers and parents reading to deaf children. In A.D. Flurkey and R.J. Meyers (Eds.), Under the whole language umbrella: Many cultures, many voices, pp. 331-342. Urbana, IL:  National Council of Teachers of English.
+
+Mather, S.A. (1989). Visually oriented teaching strategies with deaf preschool children. In C. Lucas, Ed., The sociolinguistics of the deaf community, pp. 165-187. New York, NY: Academic Press.
+
+Rogers, D. (1989, Sept.–Oct.). Show me bedtime reading. Perspectives for Teachers of the Hearing Impaired, 8(1).
+}}
+[[Flokkur:Lestur fyrir döff börn]]</text>
+      <sha1>odytfyi9na2yi1ad3gocup42mj6vggp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>12. Stekkjastaur</title>
+    <ns>0</ns>
+    <id>25129</id>
+    <revision>
+      <id>59195</id>
+      <parentid>59170</parentid>
+      <timestamp>2017-12-22T14:01:05Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>59195</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="j2rawiiapttarf7cywwg67hmloyakyr" xml:space="preserve">{{Josi-Katla
+|setning=rt8AHu-MTFA
+}}</text>
+      <sha1>j2rawiiapttarf7cywwg67hmloyakyr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>13</title>
+    <ns>0</ns>
+    <id>1072</id>
+    <redirect title="Þrettán" />
+    <revision>
+      <id>3325</id>
+      <timestamp>2011-12-15T11:19:31Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <comment>[[13]] færð á [[Þrettán]]</comment>
+      <origin>3325</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" sha1="mkd0qweztwkty5kanlv12w2dp5q7rqj" xml:space="preserve">#tilvísun [[Þrettán]]</text>
+      <sha1>mkd0qweztwkty5kanlv12w2dp5q7rqj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>13. Giljagaur</title>
+    <ns>0</ns>
+    <id>25130</id>
+    <revision>
+      <id>59197</id>
+      <parentid>59171</parentid>
+      <timestamp>2017-12-22T14:06:05Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>59197</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="jvbh11yi94i37osenqj70aafayu8dli" xml:space="preserve">{{Josi-Katla
+|setning=ksLyyeCDObw
+}}</text>
+      <sha1>jvbh11yi94i37osenqj70aafayu8dli</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>13. Regla - Ólík tilbrigði táknmáls eru notuð til að tjá síendurtekna frasa á ritmálinu</title>
+    <ns>0</ns>
+    <id>6343</id>
+    <revision>
+      <id>31445</id>
+      <parentid>18732</parentid>
+      <timestamp>2013-09-17T09:12:28Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>31445</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4508" sha1="9ol5kycusetwiubrpmmkb1gby9234wb" xml:space="preserve">{{Shortcourses
+|name=Regla 13
+|image=MH900398797.JPG
+|description=15 principles for reading to deaf children
+|category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn
+|related2=14. Regla - Skapið jákvætt og hvetjandi umhverfi
+|copyright=Laurent Clerc National Deaf Education Center
+|link2=http://www.aussiedeafkids.org.au/reading-to-deaf-children-learning-from-deaf-adults.html
+|image2=LCC jpeg.jpg
+|link=http://www.gallaudet.edu/Clerc_Center/Information_and_Resources/Info_to_Go/Language_and_Literacy/15_Principles_for_Reading_to_Deaf_Children.html
+|video1=40521906
+}}
+{{Shortcoursestext
+|title=13. Heyrnarlausir lesendur nota ólík tilbrigði táknmáls til þess að tjá síendurtekna frasa frá ritmálinu
+|text=Í mörgum barnasögum eru einstakir frasar endurteknir. Í sögunni um ''Moldvörpuna sem vildi vita hver skeit á hausinn á henni'' spyr moldvarpan ólík dýr aftur og aftur eftirfarandi spurningar: „Skeist þú á hausinn á mér?" Svarið sem hún fær aftur og aftur er: „Ég? Nei, ertu frá þér? - Svona geri ég!“. Bæði spurningin og svarið í textanum líta eins út á ritmálinu en á táknmáli eru mismunandi leiðir farnar eftir því hvaða dýr er spurt og hverju það kúkar. Þegar heyrnarlausir lesendur lesa slík endurtekin orð þá tákna þeir ekki merkinguna með sömu táknum í hvert skipti. Vísbendingar eru til staðar að heyrnarlausir lesendur nota fjölbreytilegar leiðir til þess að tjá síendurtekin orð frá ritmálinu.
+
+
+Notkun breyttra tilbrigða af táknum hjálpar stundum við að tjá aukna áherslu. Orðið í ritmálinu er alltaf það sama, en heyrnarlaus lesandi notar mismunandi þýðingar á táknmálinu í hvert skipti sem orðið á ritmálinu er endurtekið. Í slíkum tilvikum sjá börnin að orðið á ritmálinu breytist ekki í bókinni á meðan þau sjá líka þýðinguna á mismunandi hátt á táknmáli.
+
+Tilbrigði í notkun táknanna getur einnig verið notað til þess að fanga athygli barnanna. 
+
+
+*''Dæmi'': Í sögunni ''Roll Over! A Counting Song'' er sagnorðið ''roll'' (rúlla) endurtekið 10 sinnum. Heyrnarlaus móðir notar ýmist próform á táknmáli til þess að sýna hvernig hluturinn hefur hreyfst hverju sinni eða annað samheiti á táknmáli fyrir rúlla. En á sama tíma hefur hún vakið athygli sonar sins á orðið breytist ekki og er alltaf roll í textanum þó fleiri tákn og próform séu notuð á táknmáli. Heyrnarlausi lesandinn bendir barni alltaf á að stafsetningin á ritmálinu breytist ekki en það gerist í táknmálinu. Í hvert skipti sem annað tákn var notað er sama ritaða orðið endurtekið. Á þann hátt benda lesendurnir á að eitt orð getur verið þýtt með ólíkum táknum. Á þennan hátt þróast líka orðaforði barnanna þannig að börn skilji ritaða texta. Þessi hæfni er mjög mikilvæg ef haft er í huga að börn byrja smá saman að lesa erfiðari og meira krefjandi texta.
+
+
+
+'''Fingrastöfun'''
+
+Margir foreldrar og kennarar spyrja oft um fingrastöfun orða úr raddmálinu fyrir börn á leikskólaaldri og í fyrstu bekkjum grunnskólans. Fingrastöfun er táknmálum eðlileg (Blumenthal-Kelly, 1994; Maxwell, 1988) og David R Schleper hvetur foreldra og kennara að fingrastafa með börnunum frá unga aldri. Heyrnarlausir einstaklingar fingrastafa orðin í heild sinni en ekki staf fyrir staf, sbr. samlögun bókstafanna þegar fingrastafað er. 
+
+
+*''Dæmi'': Tveggja ára stelpa fær heimsókn frá Mæju vinkonu sinni. Daginn eftir spyr stelpan mömmu sína ,,hvar er...?“ og þó að stelpan nái ekki að stafa nafnið á skýran hátt skilur mamman hana og svarar ,,M-Æ-J-A er heima“ og stafar allt nafnið. Seinna gæti stelpan spurt ,,Hvar er M?“ eða ,,hvar er M-Æ?“ en mamma aðstoðar og stafar allt nafnið. Stelpan lærir fyrst hluta af fingrastafaða nafninu og lærir síðan að stafa allt nafnið með endurtekningum, rétt eins og heyrandi börn læra smátt og smátt að segja orðin rétt.
+}}
+{{Shortcoursestext
+|title=Heimildir
+|text=Blumenthal-Kelly, A.  (1994). Fingerspelling in the interaction between deaf parents and their deaf daughter.  In B. Snider (Ed.) Post-Milan ASL &amp; English Literacy Issues, Trends, and Research, (pp.95-104), Washington, DC: Gallaudet University College for Continuing Education.
+
+Maxwell, M. (1988).  The alphabetic principle and fingerspelling. Sign Language Studies, 44, 199-224.
+}}
+[[Flokkur:Lestur fyrir döff börn]]</text>
+      <sha1>9ol5kycusetwiubrpmmkb1gby9234wb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>13. Undarlegt jólatré</title>
+    <ns>0</ns>
+    <id>25835</id>
+    <revision>
+      <id>60677</id>
+      <timestamp>2019-02-19T14:20:39Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Zeta-sogur |setning=Ri6m7FirPCY }} '''13. Undarlegt jólatré'''    „Við verðum að flýta okkur til gamla refsins,“ sagði Klaki. „Hvað ef Snjótröllið er á ferli að l...</comment>
+      <origin>60677</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2143" sha1="ej2khg5404ngmcezyapxlwadx1cys9r" xml:space="preserve">{{Zeta-sogur
+|setning=Ri6m7FirPCY
+}}
+'''13. Undarlegt jólatré'''
+
+„Við verðum að flýta okkur til gamla refsins,“ sagði Klaki. „Hvað ef Snjótröllið er á ferli að leita að sokknum sínum?“ Hann strauk hendi yfir andlit sitt. Zeta jánkaði. Þau gætu verið í stórhættu. Hún greip sokkinn og þau Klaki hjálpuðust að við að draga hann með sér. Þau flýttu sér eins og þau gátu.
+
+Eftir nokkra stund komu þau að dálitlum hóli, sem var snævi þakinn og á honum var lítil hurð og tveir litlir gluggar.
+
+„Hér býr gamli refurinn,“ sagði Klaki feginn því að vera kominn og bankaði á hurðina.
+„Kom inn,“ heyrðist kallað fyrir innan.
+
+Klaki tók í handfangið og tókst með herkjum að opna hurðina. Fyrir innan var rökkur og kveikt á einu kerti.
+
+„Hver er þar?“ heyrðist sagt í rökkrinu.
+
+„Þetta er ég, Klaki snjókarl og Zeta vinkona mín. Þekkirðu mig ekki, gamli vinur?“
+
+„Ert þetta þú? Vertu velkominn. Ég er víst búinn að týna gleraugunum mínum og sé ekki mjög vel.“ Gamli refurinn gekk hægum skrefum við staf í áttina að Zetu og Klaka sem stóðu enn í dyragættinni.
+
+„Jæja, komið inn fyrir. Ég er aðeins að reyna að snurfusa hérna,“ sagði gamli refurinn. Hann hélt á körfu fullri af könglum. „Ég er að skreyta jólatréð mitt með þessum könglum.“
+
+„En hvað þetta er fallegt heimili sem þú átt,“ sagði Zeta og litaðist um. Þarna var lítið rúm og borð með fallegum kertastjaka og spilastokk.
+
+Klaki andvarpaði. „Þú ert heppinn að eiga jólatré. Mitt tré fauk út í buskann í snjóbylnum.“
+„Ja, jólatréð mitt stóð fagurlega skreytt fyrir utan húsið mitt en það fauk reyndar líka, ásamt gleraugunum mínum. Ég fann þetta ágæta litla tré hérna rétt hjá heimilinu mínu,“ sagði gamli refurinn og benti í áttina að ræfilslegu litlu tré sem stóð úti í horni og búið var að hengja nokkra köngla á.
+
+Klaki horfði á tréð. Eitthvað var það kunnuglegt.
+
+„Bíddu nú við, gamli refur! Þetta er ekki tré. Þetta er höndin mín!“ hrópaði Klaki.</text>
+      <sha1>ej2khg5404ngmcezyapxlwadx1cys9r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>14</title>
+    <ns>0</ns>
+    <id>1894</id>
+    <redirect title="Fjórtán" />
+    <revision>
+      <id>5044</id>
+      <timestamp>2011-12-23T10:29:26Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <comment>[[14]] færð á [[Fjórtán]]</comment>
+      <origin>5044</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" sha1="gmo8skr268f29g7kwnrx160n8mfycju" xml:space="preserve">#tilvísun [[Fjórtán]]</text>
+      <sha1>gmo8skr268f29g7kwnrx160n8mfycju</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>14. Handsamið tröllið</title>
+    <ns>0</ns>
+    <id>25836</id>
+    <revision>
+      <id>60680</id>
+      <parentid>60679</parentid>
+      <timestamp>2019-02-19T14:23:23Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>60680</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3387" sha1="2uii02svpyufjlln64thefzlsc9az9d" xml:space="preserve">{{Zeta-sogur
+|setning=TwEz70E7tcw
+}}
+'''14. Handsamið tröllið'''
+
+Klaki gekk rakleitt að höndinni sinni og hrifsaði hana til sín svo könglarnir duttu í gólfið. Hann stakk hendinni á kaf í litla snjóbúkinn sinn. Þvílíkur léttir!
+
+Gamli refurinn var miður sín. „Æ, kæri vinur. Mér þykir leitt að hafa óvart notað höndina þína sem jólatré. Ég sé bara svo agalega illa án gleraugnanna.“ Gamli refurinn klappaði Klaka á bakið.
+
+„Allt í lagi,“ andvarpaði Klaki, „þetta er miklu betra.“ Hann teygði úr sér. „Nú er ég orðinn heill aftur. Nú gengur betur að faðma vini mína um jólin og baka piparkökur þegar ég hef tvær hendur -  það er að segja - ef það verða einhver jól,“ bætti hann við og varð aftur hnugginn.
+
+„Er þá mikilvægt að faðma aðra á jólunum?“ spurði Zeta.
+
+„Ó já. Það er svo gaman að vera með vinum og fjölskyldu á jólunum og faðmast og hlæja saman,“ sagði Klaki dreyminn. Zeta varð hugsi. Jólin eru þá tími sem maður á með vinum sínum og fjölskyldu. Jólin eru tími sem maður faðmast. Þetta var allt að skýrast í kollinum á henni.
+
+„En af hverju heldurðu að það verði ekki jól?“ spurði gamli refurinn Klaka.
+
+„Af því að allt sem minnir á jólin fauk burt í storminum,“ sagði Klaki. „Húsið mitt, jólatréð og gjafirnar. Það eina sem ég er með er þetta,“ bætti hann við og dró fram stóra ullarsokkinn og sýndi gamla refnum. Refurinn andvarpaði djúpt.
+
+„Já, þetta er eins og mig grunaði,“ sagði gamli refurinn. Hann gekk að borðinu og fékk sér sæti.
+ 
+„Svona snjóhríð hefur ekki sést í Jólalandi í mörg ár og það er bara ein ástæða fyrir því: Snjótröllið ógurlega í fjöllunum. Eigandi ullarsokksins.“ Klaki var byrjaður að skjálfa. Zeta var farin að efast stórlega um að þessi ferð hennar til Jólalandsins hefði verið góð hugmynd og langaði bara heim í hlýjuna á bókasafninu. 
+
+„Snjótröllið er ófrýnilegt í útliti, með lafandi eyru og stóran fót. Eða, svo er sagt. Ég hef reyndar aldrei séð Snjótröll,“ bætti gamli refurinn og gerði smá hlé á máli sínu. „En ég hef heyrt margar sögur af því síðan ég var lítill yrðlingur. Snjótröll geta búið til ægilega snjóbylji sem feykja öllu í burtu. Eina leiðin til að stoppa storminn er að handsama tröllið.“ Refurinn horfði djúpt í augun á Zetu og Klaka. 
+
+„Eruð þið nógu hugrökk til að handsama snjótröllið?“
+
+Klaki fraus eitt andartak. „Ég veit það nú ekki alveg,“ svaraði hann skjálfandi röddu. „Getur þú ekki bara farið?“
+
+„Ég er orðinn allt of gamall til að leggja í svona ævintýraferð. Jólaland þarf á hjálp ykkar að halda,“ bætti gamli refurinn við og horfði vongóður á Klaka og Zetu.
+
+„Já!“ svaraði Zeta. „Saman getum við Klaki handsamað tröllið og bjargað Jólalandi frá storminum.“ Hún dró djúpt andann og setti upp bros. Hún hafði oft lesið bækur um hetjur. Þær láta óttann ekki stoppa sig.
+
+„Gott! Mikilfenglega fjall er ekki langt héðan. Þar er hellirinn,“ svaraði gamli refurinn. Hann benti með stafnum sínum í áttina að glugganum.
+
+„Æ, æ, æ,“ sagði Klaki og hristi hausinn og greip fyrir augun en Zeta bara brosti: „Áttu nokkuð reipi?“</text>
+      <sha1>2uii02svpyufjlln64thefzlsc9az9d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>14. Regla - Skapið jákvætt og hvetjandi umhverfi</title>
+    <ns>0</ns>
+    <id>6344</id>
+    <revision>
+      <id>31446</id>
+      <parentid>18654</parentid>
+      <timestamp>2013-09-17T09:12:46Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>31446</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3063" sha1="mpp1320nkpa2hv7me155pluky9q611l" xml:space="preserve">{{Shortcourses
+|name=Regla 14
+|image=Lestur4.jpg
+|description=15 principles for reading to deaf children
+|category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn
+|related2=15. Regla - Væntið þess að barnið verði læst og skrifandi
+|copyright=Laurent Clerc National Deaf Education Center
+|link2=http://www.aussiedeafkids.org.au/reading-to-deaf-children-learning-from-deaf-adults.html
+|image2=LCC jpeg.jpg
+|link=http://www.gallaudet.edu/Clerc_Center/Information_and_Resources/Info_to_Go/Language_and_Literacy/15_Principles_for_Reading_to_Deaf_Children.html
+|video1=40521915
+}}
+{{Shortcoursesexample
+|title=Endurgjöf
+|video=40722474
+}}
+{{Shortcoursestext
+|title=14. Heyrnarlausir lesendur skapa jákvætt og hvetjandi umhverfi
+|text=Það á að vera gaman að lesa. Lestur á einnig að skapa merkingu í gegnum lifandi samspil lesanda og texta. Rannsóknir sýna að heyrnarlausir foreldrar hafa tilhneigingu til að setja upp jákvætt umverfi sem hvetur til umræðna (Akamatsu &amp; Andrews, 1993; Andrews &amp; Taylor, 1987; Ewoldt, 1994; Rodgers, 1989). Heyrnarlausir foreldrar leita ekki eftir „réttum“ svörum heldur eftir skapandi túlkun á textanum.
+
+
+*''Dæmi'': Heyrnarlaus pabbi les fyrir dóttur sína bókina um Rauðhettu (Schleper, 1995). Allt í einu bankar dóttir hans á hnéð á honum og flettir bókinni til baka og segir „Sjáðu tennurnar.“ „Já, tennurnar eru beittar! Eins og vígtennur“ svarar pabbinn og með því styrkir hann eftirtekt barnsins. „Það er blóð á þeim“ heldur stelpan áfram. „Hvar?“ spyr pabbinn og bendir á myndina. Þau skoða myndina saman. „Kannski það sé rétt hjá þér. Það er blóð á þeim.“
+
+
+Í staðinn fyrir að hunsa svar barnsins eða að segja barninu að það hafi rangt fyrir sér leyfði pabbinn barninu að koma með athugasemd. Jákvæð viðbrögð hans hjálpar báðum að njóta lestursins og meiri líkur eru á að barnið myndi jákvæð tengsl við bækur og lestur.
+}}
+{{Shortcoursestext
+|title=Heimildir
+|text=Akamatsu, C.T., &amp; Andrews, J.F. (1993). It takes two to be literate: Literacy interactions between parent and child. Sign Language Studies, 81,  333-360.
+
+Andrews, J.F., &amp; Taylor, N.E. (1987). From sign to print: A case study of picture book ‘reading’ between mother and child. Sign Language Studies, 56,  261-274.
+
+Ewoldt, C. (1994). Booksharing: Teachers and parents reading to deaf children. In A.D. Flurkey and R.J. Meyers (Eds.), Under the whole language umbrella: Many cultures, many voices, pp. 331-342. Urbana, IL:  National Council of Teachers of English.
+
+Rogers, D. (1989, Sept.–Oct.). Show me bedtime reading. Perspectives for Teachers of the Hearing Impaired, 8(1).
+
+Schleper, D.R. (1995). Reading to deaf children: Learning from Deaf adults. Perspectives in Education and Deafness, 13(4), 4-8.
+
+Whitesell, K.M. (1991). Reading between the lines: How one deaf teacher demonstrates the reading process.  Unpublished doctoral dissertation, University of Cincinnati, OH.
+}}
+[[Flokkur:Lestur fyrir döff börn]]</text>
+      <sha1>mpp1320nkpa2hv7me155pluky9q611l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>14. Stúfur</title>
+    <ns>0</ns>
+    <id>25131</id>
+    <revision>
+      <id>59196</id>
+      <parentid>59172</parentid>
+      <timestamp>2017-12-22T14:05:51Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>59196</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="5385bjutplrt3ka4hr59c9716lkpxpr" xml:space="preserve">{{Josi-Katla
+|setning=bHVrVOiAfL4
+}}</text>
+      <sha1>5385bjutplrt3ka4hr59c9716lkpxpr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>15</title>
+    <ns>0</ns>
+    <id>1897</id>
+    <redirect title="Fimmtán" />
+    <revision>
+      <id>5051</id>
+      <timestamp>2011-12-23T10:32:33Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <comment>[[15]] færð á [[Fimmtán]]</comment>
+      <origin>5051</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="5v9kizyccor5q76260wdgubsqsbp76t" xml:space="preserve">#tilvísun [[Fimmtán]]</text>
+      <sha1>5v9kizyccor5q76260wdgubsqsbp76t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>15. Regla - Væntið þess að barnið verði læst og skrifandi</title>
+    <ns>0</ns>
+    <id>6424</id>
+    <revision>
+      <id>31447</id>
+      <parentid>19623</parentid>
+      <timestamp>2013-09-17T09:13:01Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>31447</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2023" sha1="raw7spsib2lfhcrejdmpiuy3auwh1dz" xml:space="preserve">{{Shortcourses
+|name=Regla 15
+|image=Lestur5.png
+|description=15 principles for reading to deaf children
+|category=15 leiðbeinandi reglur um lestur fyrir heyrnarlaus börn
+|related2=Niðurlag
+|copyright=Laurent Clerc National Deaf Education Center
+|link2=http://www.aussiedeafkids.org.au/reading-to-deaf-children-learning-from-deaf-adults.html
+|image2=LCC jpeg.jpg
+|link=http://www.gallaudet.edu/Clerc_Center/Information_and_Resources/Info_to_Go/Language_and_Literacy/15_Principles_for_Reading_to_Deaf_Children.html
+|video1=40521924
+}}
+{{Shortcoursestext
+|title=15. Heyrnarlausir lesendur vænta þess að barnið verði læst og skrifandi
+|text=Síðast en ekki síst þarf að hafa jákvæða trú á hæfni barnanna. Einn rannsakandi skoðaði heyrnarlausan kennara sem var þekktur fyrir að „framleiða“ góða og áhugasama lesendur  (Whitesell, 1991). Markmið hans var að finna út hvaða námsleiðir og gjörðir kennarans væru mikilvægastar. Eftir að hafa fylgst með kennaranum í langan tíma taldi rannsakandinn sig hafa fundið lykilinn:
+
+	
+''Kennarinn vænti þess að börnin verði læs og skrifandi!''
+
+
+Heyrnarlausir foreldrar hafa jákvæða trú á hæfileika barnsins. Flestir foreldrar lesa ekki fyrir börnin sín vegna þess að þau vilja kenna þeim ritmálið eða hvernig eigi að lesa heldur vilja foreldrarnir deila ást sinni á bókum. Þeir vilja vera nálægt börnunum sínum, eyða góðum tíma með þeim, auka þekkingu þeirra á umheiminum, styðja þroska ímyndunarafls þeirra og í mörgum tilvikum deila ást sinni á bókum. Þegar David R Schleper spurði heyrnarlausa foreldra hvort þeir héldu að börn þeirra yrðu læs á ritmálinu var svarið hjá öllum: „Auðvitað“. Aldrei var vafi á því.
+}}
+{{Shortcoursestext
+|title=Heimilid
+|text=Whitesell, K.M. (1991). Reading between the lines: How one deaf teacher demonstrates the reading process.  Unpublished doctoral dissertation, University of Cincinnati, OH.
+}}
+[[Flokkur:Lestur fyrir döff börn]]</text>
+      <sha1>raw7spsib2lfhcrejdmpiuy3auwh1dz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>15. Upp á fjall</title>
+    <ns>0</ns>
+    <id>25837</id>
+    <revision>
+      <id>60682</id>
+      <parentid>60681</parentid>
+      <timestamp>2019-02-19T14:28:15Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>60682</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1941" sha1="5bfzldtohahky3fmebb4zelxisdpkfq" xml:space="preserve">{{Zeta-sogur
+|setning=rVxNYBYw1GI
+}}
+'''15. Upp á fjall'''
+
+Stuttu seinna voru Zeta og Klaki komin að rótum Mikilfenglega fjalls. Zeta var búin að binda ullarsokkinn á bakið á sér með reipi gamla refsins.
+
+„Ég trúi því ekki að þú hafir sannfært mig um að koma með þér að handsama tröll,“ sagði Klaki og skalf allur af stressi og kvíða.
+
+„Við verðum að vera tvö ef við ætlum að handsama hann og koma aftur á ró í Jólalandi,“ sagði Zeta og bisaði við að klífa upp brattann.
+
+„Hvers vegna geta ekki bara verið venjuleg jól? Ég er engin ofurhetja. Ég er bara lítill snjókarl sem vill halda jólin sín,“ röflaði Klaki á meðan hann fikraði sig áfram á eftir Zetu.
+
+„Allir geta verið hugrakkir og breytt heiminum. Sama þótt þeir séu bara litlir snjókarlar,“ sagði Zeta sem átti fullt í fangi með að halda jafnvægi í bröttum klettunum.
+
+„Ég veit ekki..“ sagði Klaki efins.
+
+Allt í einu hrasaði Zeta um eitthvað sem lá hálfgrafið ofan í snjónum, og hún datt kylliflöt á magann. Klaki flýtti sér til hennar og hjálpaði henni á fætur.
+
+„Það er eitthvað hérna,“ sagði Zeta og gróf hendurnar í snjóinn. Klaki hjálpaði henni. Upp úr snjónum drógu þau annan ullarsokk sem var alveg eins og hinn.
+
+„Við erum greinilega á réttri leið,“ sagði Zeta alvarleg á svip. Á sömu stundu heyrðust ógurlegar drunur ofan úr fjallinu og allt hristist. Snjóskaflar hrundu yfir Zetu og Klaka svo þau urðu að beygja sig niður og hjúfra sig saman.
+
+„Æ, æ, æ,“ hljóðaði Klaki. „Væri ekki skynsamlegt að snúa við núna?“ spurði Klaki skjálfandi röddu.
+
+En Zeta lét sem hún heyrði ekki í Klaka og hélt einbeitt áfram að klífa fjallið og dró stóra ullarsokkinn með sér. Klaki staulaðist á eftir henni. Skyndilega blasti við þeim risastórt hellisop. Þau voru komin að helli snjótröllsins!</text>
+      <sha1>5bfzldtohahky3fmebb4zelxisdpkfq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>15. Þvörusleikir</title>
+    <ns>0</ns>
+    <id>25132</id>
+    <revision>
+      <id>59198</id>
+      <parentid>59173</parentid>
+      <timestamp>2017-12-22T14:09:07Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>59198</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="qxsu7i0xy8rj8fu6epq9koaxg5rve00" xml:space="preserve">{{Josi-Katla
+|setning=B3RL5nG_CrE
+}}</text>
+      <sha1>qxsu7i0xy8rj8fu6epq9koaxg5rve00</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>16</title>
+    <ns>0</ns>
+    <id>1902</id>
+    <redirect title="Sextán" />
+    <revision>
+      <id>5067</id>
+      <timestamp>2011-12-23T10:44:19Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <comment>[[16]] færð á [[Sextán]]</comment>
+      <origin>5067</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" sha1="egqep7gn0bxmwo8qpvs2udtgau6mgc5" xml:space="preserve">#tilvísun [[Sextán]]</text>
+      <sha1>egqep7gn0bxmwo8qpvs2udtgau6mgc5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>16. Inni í hellinum</title>
+    <ns>0</ns>
+    <id>25838</id>
+    <revision>
+      <id>60684</id>
+      <parentid>60683</parentid>
+      <timestamp>2019-02-19T14:52:50Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>60684</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2626" sha1="hrk79xcbdqr4a8izibh3yljp5c6rzry" xml:space="preserve">{{Zeta-sogur
+|setning=lCaVvAfzleQ
+}}
+'''16. Inni í hellinum'''
+
+Zeta og Klaki gægðust inn um hellisopið. Þau voru greinilega á réttum stað. Hér bjó einhver. Einhver stór. Þarna var stórt borð og stór stóll og líka afskaplega stórt rúm. Innst í hellinum var líka stór skápur og hurðin var dálítið opin. Fyrir innan var allt hljótt.
+
+„Það er enginn heima,“ hvíslaði Zeta og settist aftur í snjóinn. Hún leysti af sér ullarsokkinn og skildi báða sokkana eftir við hellisopið. „Við skulum fara inn, fela okkur og bíða eftir því að snjótröllið komi heim. Þá læðumst við fram án þess að hann taki eftir og bindum fæturna á honum saman.“ Zeta var með áætlunina á hreinu.
+
+Klaki horfði hissa á Zetu og fannst hún full örugg með sig. „Ertu viss um að þú hafir ekki gert þetta áður?“
+
+Zeta klifraði á undan inn í hellinn og greip í höndina á Klaka og togaði hann inn fyrir. Inni í hellinum var nokkuð dimmt og kalt. Zeta benti Klaka að koma og fela sig undir borðinu.
+
+„Æ, hann sér okkur áreiðanlega hér. Kannski er betra að fela sig inni í þessum skáp,“ hvíslaði Klaki og færði sig rólega nær skápnum.
+
+„Vertu kyrr hér,“ sagði Zeta. „Við sjáum hann betur héðan þegar hann kemur inn.“
+
+En Klaki var lagður af stað í áttina að skápnum. Ofurvarlega kíkti hann inn um opna hurðina á skápnum. Hann færði sig nær. Síðan stoppaði hann. Honum fannst hann sjá eitthvað þarna inni. 
+
+Gat það verið...? Inni í myrkrinu sá hann móta fyrir öðrum augum - og risastóru nefi! Í nokkrar sekúndur var algjör þögn. Klaki áttaði sig loks á því að það væri einhver stór vera inni í skápnum og hann æpti upp yfir sig svo glumdi í öllum hellinum. Veran í skápnum öskraði á móti. Zeta hrökk svo í kút að hún datt um koll.   
+               
+Klaki kom hlaupandi á hraðaspretti í áttina að Zetu. „Það er einhver inni í skápnum!“ öskraði hann. Síðan tók hann á rás út úr hellinum. 
+
+Skáphurðin opnaðist og stórvaxin vera steig varlega út. Veran var með stór lafandi eyru og stórt nef og var skelkuð á svipinn. Hún hélt höndunum að sér og horfði til skiptis á Zetu og Klaka sem stóð við hellisopið. Zeta skalf inni í sér af ótta en var á sama tíma forvitin. Veran virtist jafn skelkuð og þau. Klaki var farinn að naga á sér fingurna af stressi. „Komdu Zeta!“ hrópaði hann. En Zeta var allt of forvitin til að geta hlaupið í burtu. Þetta ógurlega snjótröll virtist einhvern veginn ekki vera mjög ógurlegt.</text>
+      <sha1>hrk79xcbdqr4a8izibh3yljp5c6rzry</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>16. Pottaskefill</title>
+    <ns>0</ns>
+    <id>25133</id>
+    <revision>
+      <id>59199</id>
+      <parentid>59174</parentid>
+      <timestamp>2017-12-22T14:09:23Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>59199</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="mptjjz8dlyk05cywe54uk0znw4rj4tf" xml:space="preserve">{{Josi-Katla
+|setning=X87vPd18fLc
+}}</text>
+      <sha1>mptjjz8dlyk05cywe54uk0znw4rj4tf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>17</title>
+    <ns>0</ns>
+    <id>1905</id>
+    <redirect title="Sautján" />
+    <revision>
+      <id>5078</id>
+      <timestamp>2011-12-23T10:47:36Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <comment>[[17]] færð á [[Sautján]]</comment>
+      <origin>5078</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="0zgl41r25ry5pmft5l65fhhepi5ttfn" xml:space="preserve">#tilvísun [[Sautján]]</text>
+      <sha1>0zgl41r25ry5pmft5l65fhhepi5ttfn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>17. Askasleikir steliþjófur</title>
+    <ns>0</ns>
+    <id>25134</id>
+    <revision>
+      <id>59200</id>
+      <parentid>59175</parentid>
+      <timestamp>2017-12-22T14:09:42Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>59200</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="rp1dv3xc6uq9ewy8jqb0xryuiq1078p" xml:space="preserve">{{Josi-Katla
+|setning=G5jiE4WfRxw
+}}</text>
+      <sha1>rp1dv3xc6uq9ewy8jqb0xryuiq1078p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>17. Er tröll hér?</title>
+    <ns>0</ns>
+    <id>25839</id>
+    <revision>
+      <id>60685</id>
+      <timestamp>2019-02-19T14:53:57Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Zeta-sogur |setning=PfN0Ywin5G0 }} '''17. Er tröll hér?'''    „Hver eruð þið?“ spurði snjótröllið loks skjálfandi röddu.    „Ég er bókaveran Zeta og þetta er snj...</comment>
+      <origin>60685</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2220" sha1="dxk12tz6f158zycp4tnpfd9k1zwk1zc" xml:space="preserve">{{Zeta-sogur
+|setning=PfN0Ywin5G0
+}}
+'''17. Er tröll hér?'''
+
+„Hver eruð þið?“ spurði snjótröllið loks skjálfandi röddu.
+
+„Ég er bókaveran Zeta og þetta er snjókarlinn Klaki,“ sagði Zeta rólega.
+
+„Komdu!“ kallaði Klaki aftur órólegur. Hann horfði niður brekkuna og bjó sig undir að renna sér niður fjallshlíðina.
+
+„Bíddu aðeins,“ sagði Zeta og sneri sér að snjótröllinu: „Hvers vegna faldir ÞÚ þig inni í skápnum?“
+
+„Ég heyrði einhver hljóð fyrir utan og varð hræddur. Heyrðuð þið þau líka?“ spurði snjótröllið og leit órólegt í kringum sig.
+
+„Það voru líklega hljóðin í okkur,“ sagði Zeta og leit hissa á Klaka.
+
+„Eruð þið nokkuð... hættuleg?“ spurði snjótröllið dálítið skelkað á svip og hvíslaði næstum því síðasta orðið. Zeta kom ekki upp orði, hún var svo hissa.
+
+„Hvers vegna eruð þið hér? Hingað kemur aldrei neinn,“ bætti snjótröllið við.
+
+„Ja, við komum hingað til að handsama tröll,“ sagði Zeta og fannst þetta samtal orðið dálítið skrýtið.
+
+„Ha! Er tröll hér? Hvar? Hvar er það?“ spurði snjótröllið og hnipraði sig saman.
+Zeta og Klaki horfðu á hvort annað og voru greinilega að hugsa það sama. Var þessi stóra ófreskja þá ekki snjótröllið eftir allt saman?  
+
+„Eh, það ert þú sem ert tröllið, er það ekki? Snjótröllið? Ófreskjan í fjöllunum?“ spurði Zeta. Klaki færði sig nær henni. Þetta var allt svo undarlegt.
+
+„Ha! Ég? Ég er engin ófreskja! Ég er bara lítið snjótröll. Ég heiti Tumi. Ég er ekki vondur,“ sagði snjótröllið sem var nú búinn að fá sér sæti á gólfinu. „Er einhver hræddur við mig?“ Hann horfði einlægum augum á Zetu og Klaka.
+
+„Ert það ekki þú sem býrð til snjóbylinn sem hefur geisað í Jólalandi? Vonda veðrið sem er búið að feykja öllu um koll? Jólatrénu mínu og sjálfu húsinu mínu?“ sagði Klaki sem var nú líka sestur á gólfið.
+
+„Snjóbylur sem feykir öllu um koll? Það hljómar hræðilega,“ sagði Tumi snjótröll sorgmæddur á svip. „Ég hef ekki séð neinn snjóbyl. Um hvað eruð þið að tala?“</text>
+      <sha1>dxk12tz6f158zycp4tnpfd9k1zwk1zc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>17. júní</title>
+    <ns>0</ns>
+    <id>12300</id>
+    <redirect title="Sautjándi júní" />
+    <revision>
+      <id>30979</id>
+      <timestamp>2013-08-20T13:32:08Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Arny færði [[17. júní]] á [[Sautjándi júní]]</comment>
+      <origin>30979</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" sha1="lk65v3059yc8y3c1hwziodczxxyhne5" xml:space="preserve">#tilvísun [[Sautjándi júní]]</text>
+      <sha1>lk65v3059yc8y3c1hwziodczxxyhne5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>18</title>
+    <ns>0</ns>
+    <id>1976</id>
+    <redirect title="Átján" />
+    <revision>
+      <id>5208</id>
+      <timestamp>2011-12-27T15:42:39Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <comment>[[18]] færð á [[Átján]]</comment>
+      <origin>5208</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" sha1="a3lpvubjrpzntmi0o5hnrck0vhj7j7e" xml:space="preserve">#tilvísun [[Átján]]</text>
+      <sha1>a3lpvubjrpzntmi0o5hnrck0vhj7j7e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>18. Atsjú!</title>
+    <ns>0</ns>
+    <id>25840</id>
+    <revision>
+      <id>60687</id>
+      <parentid>60686</parentid>
+      <timestamp>2019-02-20T11:39:48Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>60687</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2148" sha1="g889pxelx1y90rreu463moxa70g4oi9" xml:space="preserve">{{Zeta-sogur
+|setning=9EsfpsRsmNg
+}}
+'''18. Atsjú!'''
+
+Tumi snjótröll hélt áfram að tala. „Ég er bara búinn að vera inni í hellinum mínum í marga daga því mér er svo kalt. Ég er nefnilega búinn að týna hlýju ullarsokkunum mínum. Eldurinn minn slokknaði og nú er ég bara alveg að frjósa og kominn með kvef,“ sagði Tumi og saug dálítinn dropa af hori upp í nefið. Zeta stóð á fætur og náði í stóru ullarsokkana sem lágu fyrir utan hellinn.
+„Eru þetta kannski sokkarnir sem þú týndir?“ spurði Zeta og lagði ullarsokkana á gólfið fyrir framan snjótröllið.
+
+„Sokkarnir mínir!“ hrópaði Tumi og hoppaði um af gleði svo að hellirinn hristist.
+
+„Þeir eru reyndar dálítið blautir,“ sagði Zeta afsakandi.
+
+„Það er allt í...,“ Tumi hætti að tala og gretti sig ógurlega, „ah ahh ahh, ATSJÚ!“ hnerraði hann síðan gríðarlega hátt svo að Zeta og Klaki þeyttust út í hinn enda hellisins. 
+
+Tumi snjótröll var hálf vankaður eftir þennan kröftuga hnerra og það heyrðust miklar drunur í hellinum. Nú gerðist dálítið undarlegt. Út frá hnerranum myndaðist lítill hvirfilvindur inni í hellinum. Vindur sem blés í hringi og færðist rólega í áttina að hellisopinu.
+
+„ATSJÚ!“ hnerraði Tumi aftur og annar hvirfilvindur fór af stað inni í hellinum.
+
+„ATSJÚ!“ hnerraði hann í þriðja sinn og enn einn hvirfilvindurinn fór af stað. Zeta trúði ekki sínum eigin augum. Hvað var að gerast? 
+
+Við hellismunnann sameinuðust hvirfilvindarnir og ferðuðust út úr hellinum og þyrluðu upp snjónum fyrir utan. Zeta og Klaki horfðu agndofa á þessa tröllahnerra sem breyttust hægt og rólega í snjóbyl  fyrir utan. Þau færðu sig öll að hellisopinu og horfðu á stormsveipinn stóra ferðast niður fjallshlíðina og feykja burt öllu sem á vegi hans varð í Jólalandi.  
+
+Tumi snjótröll horfði á eftir hnerranum sínum og varð sorgmæddur. „Ó nei,“ sagði hann. „Þetta er allt mér að kenna. Allt er eyðilagt út af mér.“ Hann varð algjörlega miður sín. „Ég hef eyðilagt jólin!“</text>
+      <sha1>g889pxelx1y90rreu463moxa70g4oi9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>18. Hurðaskellir fær makleg málagjöld</title>
+    <ns>0</ns>
+    <id>25135</id>
+    <revision>
+      <id>59201</id>
+      <parentid>59176</parentid>
+      <timestamp>2017-12-22T14:13:14Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>59201</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="3dpebxe2vk43qahx1kixl97qorn8bp4" xml:space="preserve">{{Josi-Katla
+|setning=Ea6eRwMxWXg
+}}</text>
+      <sha1>3dpebxe2vk43qahx1kixl97qorn8bp4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>19</title>
+    <ns>0</ns>
+    <id>1912</id>
+    <redirect title="Nítján" />
+    <revision>
+      <id>5096</id>
+      <timestamp>2011-12-23T10:58:42Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <comment>[[19]] færð á [[Nítján]]</comment>
+      <origin>5096</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="k76sqrzt9r2x46v6ssbrn04w0z08uhz" xml:space="preserve">#tilvísun [[Nítján]]</text>
+      <sha1>k76sqrzt9r2x46v6ssbrn04w0z08uhz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>19. Skyrgámur verður ósköp þyrstur</title>
+    <ns>0</ns>
+    <id>25136</id>
+    <revision>
+      <id>59202</id>
+      <parentid>59177</parentid>
+      <timestamp>2017-12-22T14:14:15Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>59202</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="ocy3dywxbu0fm7m2x6mday5l9nrbdo0" xml:space="preserve">{{Josi-Katla
+|setning=cMKmTwUGDXc
+}}</text>
+      <sha1>ocy3dywxbu0fm7m2x6mday5l9nrbdo0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>19. Það mikilvægasta við jólin</title>
+    <ns>0</ns>
+    <id>25991</id>
+    <revision>
+      <id>60965</id>
+      <parentid>60964</parentid>
+      <timestamp>2019-06-25T11:48:35Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>60965</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2484" sha1="sunvrcalg01ffhlzlrifg2l07u0v8i1" xml:space="preserve">{{Zeta-sogur
+|setning=R7ckZ_-cCrQ
+
+}}
+'''19. Það mikilvægasta við jólin'''
+
+Zeta og Klaki færðu sig nær snjótröllinu, klöppuðu honum á bakið og hugguðu hann.
+
+„Þetta var greinilega aaaalveg óvart,“ sagði Zeta. Klaki andvarpaði. Hann var hvorki leiður yfir storminum og týndu jólunum, né hræddur við snjótröllið lengur. Þau sátu öll saman við hellismunnann, alveg ráðalaus.
+
+„Hvað gerum við nú þegar jólin eru fokin út í veður og vind?“ spurði Klaki. Zeta var djúpt hugsi. Eitthvað hlaut að vera hægt að gera til að gera jólin hátíðleg þó að allt væri breytt.
+
+„Hvað er mikilvægast á jólunum?“ spurði hún Klaka. Hann hugsaði málið. „Eru það piparkökurnar, jólatréð, skrautið eða gjafirnar?“ bætti hún við.
+
+Eftir smá stund svaraði Klaki. „Ja, þetta er allt mikilvægt en ekkert af þessu er skemmtilegt að hafa og gera nema maður hafi vini sína hjá sér.“
+
+Þá var eins og eldingu hafi lostið ofan í kollinn á Zetu. „Ég veit! Við höldum jólagleði hér í hellinum hjá Tuma og bjóðum vinum okkar.“
+
+„Vinir ykkar eru velkomnir til mín... en þorir einhver að koma ef allir eru hræddir við mig?“ spurði Tumi áhyggjufullur.
+
+Klaki og Zeta voru hugsi. „Við útskýrum fyrir þeim að þú sért ekkert ógurlegur,“ sagði Zeta ákveðin og Klaki kinkaði kolli.
+
+Tumi klæddi sig í ullarsokkana og stóð á fætur. „Ég á nóg af mandarínum handa öllum og ég yrði hamingjusamasta snjótröll í heimi ef ég myndi eignast ykkur öll fyrir vini,“ bætti hann við og hoppaði um því hann var svo glaður.
+
+Zeta tók sér stöðu við hellisopið. „Hjálpið mér að kalla á Bíbí,“ sagði hún við Klaka og Tuma. 
+„Bíbí glókollur!“ hrópaði hún eins hátt og hún gat. Klaki og Tumi snjótröll tóku undir.
+
+Eftir smá stund sást lítil doppa á himnum koma fljúgandi í áttina að Mikilfenglega fjalli. Þetta var Bíbí.
+
+„Vantar þig hjálp kæra Zeta?“ spurði Bíbí þegar hún var komin að hellisopinu. Hún hélt sig í hæfilegri fjarlægð þegar hún sá snjótröllið í gættinni.
+
+„Tumi snjótröll býður ykkur í jólaveislu og þú þarft að sækja Maddömmu mús og gamla ref,“ sagði Zeta.
+
+Bíbí horfði hissa á Zetu. Jólaveisla í helli snjótröllsins?
+
+„Treystu mér,“ kallaði Zeta hughreystandi. „Þetta verður allt í lagi“. 
+
+Bíbí blakaði vængjunum og þaut af stað.</text>
+      <sha1>sunvrcalg01ffhlzlrifg2l07u0v8i1</sha1>
+    </revision>

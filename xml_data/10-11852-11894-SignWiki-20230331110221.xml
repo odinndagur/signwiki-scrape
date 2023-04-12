@@ -1,0 +1,1372 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="is">
+  <siteinfo>
+    <sitename>SignWiki</sitename>
+    <dbname>signwiki_mediawiki</dbname>
+    <base>https://is.signwiki.org/index.php/Fors%C3%AD%C3%B0a</base>
+    <generator>MediaWiki 1.35.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Miðill</namespace>
+      <namespace key="-1" case="first-letter">Kerfissíða</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Spjall</namespace>
+      <namespace key="2" case="first-letter">Notandi</namespace>
+      <namespace key="3" case="first-letter">Notandaspjall</namespace>
+      <namespace key="4" case="first-letter">SignWiki</namespace>
+      <namespace key="5" case="first-letter">SignWikispjall</namespace>
+      <namespace key="6" case="first-letter">Mynd</namespace>
+      <namespace key="7" case="first-letter">Myndaspjall</namespace>
+      <namespace key="8" case="first-letter">Melding</namespace>
+      <namespace key="9" case="first-letter">Meldingarspjall</namespace>
+      <namespace key="10" case="first-letter">Snið</namespace>
+      <namespace key="11" case="first-letter">Sniðaspjall</namespace>
+      <namespace key="12" case="first-letter">Hjálp</namespace>
+      <namespace key="13" case="first-letter">Hjálparspjall</namespace>
+      <namespace key="14" case="first-letter">Flokkur</namespace>
+      <namespace key="15" case="first-letter">Flokkaspjall</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="114" case="first-letter">Rule</namespace>
+      <namespace key="115" case="first-letter">Rule talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Súrmatur</title>
+    <ns>0</ns>
+    <id>13316</id>
+    <revision>
+      <id>49911</id>
+      <parentid>35394</parentid>
+      <timestamp>2015-11-16T12:44:25Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>49911</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="339" sha1="re8apa47377ukjxm1riocyo1b21m75x" xml:space="preserve">{{Infoboxsign
+|Image1=Surmatur.PNG
+|texti=samsett orð úr táknunum [[Súr|SÚR]] og [[Matur|MATUR]]
+|myndunarstadur=Höfuð
+|handform=Æ handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Matur
+|twohandforms=Já
+|munnhreyfing=súrmatur
+|tengsl1=glorhungraður
+|tengsl2=lystarlaus
+|tengsl3=Þorri
+|Image2=Súrmatur 2.JPG
+|youtube1=gx6OGw9n2NM
+}}</text>
+      <sha1>re8apa47377ukjxm1riocyo1b21m75x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Súrmjólk</title>
+    <ns>0</ns>
+    <id>4911</id>
+    <revision>
+      <id>49912</id>
+      <parentid>36678</parentid>
+      <timestamp>2015-11-16T12:44:28Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>49912</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="339" sha1="1dye4qvjyuqy2to8u401xrd45bnvhsl" xml:space="preserve">{{Infoboxsign
+|Image1=Súrmjólk.JPG
+|texti=Táknin [[Súr|SÚR]] og [[Mjólk|MJÓLK]] sett saman
+|myndunarstadur=Höfuð
+|handform=Æ handform
+|ordflokkur=Nafnorð
+|efnisflokkur=matur
+|munnhreyfing=súrmjólk
+|tengsl1=Mjólk
+|tengsl2=Léttmjólk
+|tengsl3=fjörmjólk
+|Image2=Buttermilk-(right)-and-Milk-(left).jpg
+|youtube1=2gb0ajHYLcQ
+}}</text>
+      <sha1>1dye4qvjyuqy2to8u401xrd45bnvhsl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svakalegur</title>
+    <ns>0</ns>
+    <id>5315</id>
+    <revision>
+      <id>15473</id>
+      <parentid>15461</parentid>
+      <timestamp>2012-03-21T14:28:51Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>15473</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="300" sha1="c7mhvlonqsxsam2alvoqncu7dho3js7" xml:space="preserve">{{Infoboxsign
+|Image1=Svakalegur.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=5 handform
+|ordflokkur=Lýsingarorð
+|efnisflokkur=Eiginleikar
+|tengsl1=Rosalegur
+|tengsl2=Stór 
+|Image2=மாமல்லபுரம் அல்லது மகாபலிபுரம்.jpg
+|youtube1=FUsRThBQylM
+}}</text>
+      <sha1>c7mhvlonqsxsam2alvoqncu7dho3js7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svalahurð</title>
+    <ns>0</ns>
+    <id>28958</id>
+    <revision>
+      <id>67660</id>
+      <timestamp>2021-12-02T15:08:15Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn svalahurd.PNG |texti=Táknin [[Svalir|SVALIR]] og [[Hurð|HURÐ]] sett saman |myndunarstadur=Hlutlaust rými |handform=B handform |efnisflokkur=Heimili og f...</comment>
+      <origin>67660</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="355" sha1="abkrz62827bl5h7fpnemceze1dqlkcy" xml:space="preserve">{{Infoboxsign
+|Image1=Takn svalahurd.PNG
+|texti=Táknin [[Svalir|SVALIR]] og [[Hurð|HURÐ]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|efnisflokkur=Heimili og fjölskylda
+|tengsl1=Pallur
+|tengsl2=Sólbað
+|tengsl3=Grill
+|Image2=HK Disneyland Hotel Room 陽台 Balcony Glass door 椅子 Armchair in white.JPG
+|youtube1=YaYj6maSynk
+}}</text>
+      <sha1>abkrz62827bl5h7fpnemceze1dqlkcy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svalbarði</title>
+    <ns>0</ns>
+    <id>23958</id>
+    <revision>
+      <id>57154</id>
+      <timestamp>2016-10-21T11:08:28Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Svalbardi.PNG |texti=Stöfun |myndunarstadur=Hlutlaust rými |handform=Vísi handform |efnisflokkur=Lönd og álfur |tengsl1=Noregur |tengsl2=Norður Íshaf |ten...</comment>
+      <origin>57154</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="244" sha1="p1yifb0qgtrix1cxr7bl5cl8it8iagm" xml:space="preserve">{{Infoboxsign
+|Image1=Svalbardi.PNG
+|texti=Stöfun
+|myndunarstadur=Hlutlaust rými
+|handform=Vísi handform
+|efnisflokkur=Lönd og álfur
+|tengsl1=Noregur
+|tengsl2=Norður Íshaf
+|tengsl3=Ísbjörn
+|Image2=Sv-map-de.png
+|youtube1=Ec0m0pB50c0
+}}</text>
+      <sha1>p1yifb0qgtrix1cxr7bl5cl8it8iagm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svali</title>
+    <ns>0</ns>
+    <id>12186</id>
+    <revision>
+      <id>56363</id>
+      <parentid>36679</parentid>
+      <timestamp>2016-07-22T14:15:46Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>56363</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="218" sha1="p798gls0frs7sbbhvunfr5kzoui9vsa" xml:space="preserve">{{Infoboxsign
+|Image1=Mynd svali.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=O handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Drykkur
+|tengsl1=Djús
+|tengsl2=Rör
+|tengsl3=Safi
+|Image2=Svali.jpg
+|youtube1=IbRYxxRjUEU
+}}</text>
+      <sha1>p798gls0frs7sbbhvunfr5kzoui9vsa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svalir</title>
+    <ns>0</ns>
+    <id>5626</id>
+    <revision>
+      <id>70495</id>
+      <parentid>64398</parentid>
+      <timestamp>2022-10-03T15:46:17Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>70495</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="306" sha1="nui0w4zavt7aj2a5ph3hndzmxoow64m" xml:space="preserve">{{Infoboxsign
+|Image1=Takn svalir1.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heimili og fjölskylda
+|tengsl1=Hús
+|tengsl2=Grilla
+|tengsl3=Sólskin
+|Image2=Balconies in Toronto.jpg
+|youtube1=czngRdjJuRo
+|youtube4=kGm6-tzTA8U
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>nui0w4zavt7aj2a5ph3hndzmxoow64m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svalur (lo)</title>
+    <ns>0</ns>
+    <id>13318</id>
+    <revision>
+      <id>49913</id>
+      <parentid>36681</parentid>
+      <timestamp>2015-11-16T12:44:33Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>49913</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="338" sha1="dqxmewrrzyyi2x4p70emr013rd44bb2" xml:space="preserve">{{Infoboxsign
+|Image1=Svalur.PNG
+|myndunarstadur=Höfuð
+|handform=Æ handform
+|ordflokkur=Lýsingarorð
+|efnisflokkur=Veður
+|efnisflokkur2=Umhverfi
+|munnhreyfing=Blásið út um stútinn.
+|tengsl1=Lopapeysa
+|tengsl2=sólbað
+|tengsl3=Snjóa
+|Image2=Bitterly Cold in Little Venice - geograph.org.uk - 1073321.jpg
+|youtube1=wpsdYwFS6V4
+}}</text>
+      <sha1>dqxmewrrzyyi2x4p70emr013rd44bb2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svampur</title>
+    <ns>0</ns>
+    <id>27174</id>
+    <revision>
+      <id>63642</id>
+      <parentid>63641</parentid>
+      <timestamp>2020-05-15T12:25:02Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>63642</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="217" sha1="2obkzb6iyztu613umqa5uauceo1ziam" xml:space="preserve">{{Infoboxsign
+|Image1=Svampur.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=B handform hálf lokað
+|efnisflokkur=Hlutir
+|tengsl1=Fata
+|tengsl2=Vatn
+|tengsl3=Þrífa
+|Image2=Sponge-viscose.jpg
+|youtube1=njKP0IA0NYk
+}}</text>
+      <sha1>2obkzb6iyztu613umqa5uauceo1ziam</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svangur</title>
+    <ns>0</ns>
+    <id>699</id>
+    <revision>
+      <id>36683</id>
+      <parentid>30069</parentid>
+      <timestamp>2014-03-19T11:47:15Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>36683</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="517" sha1="8610fhlbls46rfrrqy917818paacls4" xml:space="preserve">{{Infoboxsign
+|Image1=Takn svangur.PNG 
+|myndunarstadur=Líkami
+|handform=B handform
+|ordflokkur=Lýsingarorð
+|efnisflokkur=Tilfinningar    
+|tengsl1=Matur 
+|tengsl2=Saddur
+|tengsl3=Veisla
+|Image2=Hungry Fox (7469171770).jpg
+|youtube1=0xIXlEiWxPA   
+|utskyring=Með svipbrigðum má sýna hversu svangur viðkomandi er.
+|youtube2=WdzwBwF3_h4  
+|taknmal=Ég, Vera (bidd), Svangur, 
+|islenska=Ég er svandur
+|name={{PAGENAME}}           &lt;!--- Þarf ekki að breyta. Kemur sjálfkrafa frá titli síðu--&gt;
+|samheiti=
+}}</text>
+      <sha1>8610fhlbls46rfrrqy917818paacls4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svanur</title>
+    <ns>0</ns>
+    <id>6247</id>
+    <revision>
+      <id>31094</id>
+      <parentid>17309</parentid>
+      <timestamp>2013-08-27T15:36:56Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>31094</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="231" sha1="dihowuzgfzlby95mr6ags7hx9uwgadi" xml:space="preserve">{{Infoboxsign
+|Image1=Svanur.JPG
+|myndunarstadur=Líkami
+|handform=B handform sveigt
+|ordflokkur=Nafnorð
+|efnisflokkur=Fuglar
+|munnhreyfing=svanur
+|tengsl1=fugl
+|tengsl2=tjörn
+|Image2=Alarch y Gogledd.JPG
+|youtube1=WnzlTvt0yFQ
+}}</text>
+      <sha1>dihowuzgfzlby95mr6ags7hx9uwgadi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svar</title>
+    <ns>0</ns>
+    <id>15774</id>
+    <revision>
+      <id>49914</id>
+      <parentid>39505</parentid>
+      <timestamp>2015-11-16T12:44:55Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>49914</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="357" sha1="l4lfcbj5luh4f3bcjzsgufv8wahadbe" xml:space="preserve">{{Infoboxsign
+|Image1=Takn svar.PNG
+|myndunarstadur=Höfuð
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Samskipti
+|tengsl1=Svara
+|tengsl2=Spyrja
+|tengsl3=Próf
+|Image2=Two people talking.tiff
+|youtube1=gt1HT7AFtMU
+|utskyring=[[Svar]] er áttbeygt tákn og því er hægt að mynda það frá þeim sem er að svara til þess sem svarið fær.
+}}</text>
+      <sha1>l4lfcbj5luh4f3bcjzsgufv8wahadbe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svara</title>
+    <ns>0</ns>
+    <id>5091</id>
+    <revision>
+      <id>49916</id>
+      <parentid>36686</parentid>
+      <timestamp>2015-11-16T12:45:21Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>49916</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="514" sha1="cos9xc2mgt88fly847h3060ce0nb0xf" xml:space="preserve">{{Infoboxsign
+|Image1=Svara.JPG
+|myndunarstadur=Höfuð
+|handform=B handform
+|ordflokkur=Áttbeygð sögn
+|efnisflokkur=Almennt
+|efnisflokkur2=Táknmálsfræði HÍ
+|munnhreyfing=Svara
+|tengsl1=Spyrja
+|tengsl2=Spurning
+|tengsl3=Vitni
+|youtube1=1cMDwLgivxo
+|utskyring=Sögnin er áttbeygð og því er hægt að sýna með tákninu hver svari hverjum.
+|youtube2=vjUpVGhrQwY
+|taknmal=Svara,
+|islenska=Þú svarar mér.
+}}
+{{Annað dæmi um notkun
+|youtube3=dcCPfwqZ9LA
+|taknmal2=Svara,
+|islenska2=Ég svara þér.
+}}</text>
+      <sha1>cos9xc2mgt88fly847h3060ce0nb0xf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svarta kisa - færni 1</title>
+    <ns>0</ns>
+    <id>27285</id>
+    <revision>
+      <id>64614</id>
+      <timestamp>2020-09-04T08:27:15Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Faerni1 |setning=AebManh5AKI }}</comment>
+      <origin>64614</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="33" sha1="gc3ficmx4xum0oqe5agkjor11okkxhp" xml:space="preserve">{{Faerni1
+|setning=AebManh5AKI
+}}</text>
+      <sha1>gc3ficmx4xum0oqe5agkjor11okkxhp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svarta kisa - skemmtilegu smábarnabækurnar</title>
+    <ns>0</ns>
+    <id>23971</id>
+    <revision>
+      <id>57178</id>
+      <timestamp>2016-10-31T11:18:05Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Barnasogurthyddar |setning=AebManh5AKI }} Elsa G. Björnsdóttir segir okkur söguna af litlu svörtu kisu.</comment>
+      <origin>57178</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="109" sha1="e7j6yqynhjrdsknn44j20ehkmifri1x" xml:space="preserve">{{Barnasogurthyddar
+|setning=AebManh5AKI
+}}
+Elsa G. Björnsdóttir segir okkur söguna af litlu svörtu kisu.</text>
+      <sha1>e7j6yqynhjrdsknn44j20ehkmifri1x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svartahaf</title>
+    <ns>0</ns>
+    <id>8236</id>
+    <revision>
+      <id>36687</id>
+      <parentid>28274</parentid>
+      <timestamp>2014-03-19T11:49:04Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>36687</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="319" sha1="r28rprn50n24gdk8d35lobkjfrgybuj" xml:space="preserve">{{Infoboxsign
+|Image1=Svartahaf.JPG
+|texti=Samsett tákn úr [[Svartur]] og [[Haf]]
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Lönd og álfur
+|efnisflokkur2=Örnefni
+|tengsl1=Tyrkland
+|tengsl2=Búlgaría
+|tengsl3=Rússland
+|Image2=Black Sea map.png
+|youtube1=1mI5p3xaNKY
+}}</text>
+      <sha1>r28rprn50n24gdk8d35lobkjfrgybuj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svartaþoka</title>
+    <ns>0</ns>
+    <id>31393</id>
+    <revision>
+      <id>71150</id>
+      <timestamp>2023-01-02T13:29:18Z</timestamp>
+      <contributor>
+        <username>Steinunnbirna</username>
+        <id>472</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Þoka2.PNG |myndunarstadur=Hlutlaust rými |handform=5 handform |efnisflokkur=Náttúra |tengsl1=Rigning |tengsl2=Keyra |tengsl3=Dimmur |Image2=Þoka.jpg |youtub...</comment>
+      <origin>71150</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="200" sha1="dkbv5vtnit3zwp7cyxwm5somdys4a80" xml:space="preserve">{{Infoboxsign
+|Image1=Þoka2.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=5 handform
+|efnisflokkur=Náttúra
+|tengsl1=Rigning
+|tengsl2=Keyra
+|tengsl3=Dimmur
+|Image2=Þoka.jpg
+|youtube1=3hf1ydn286s
+}}</text>
+      <sha1>dkbv5vtnit3zwp7cyxwm5somdys4a80</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svartfjallaland</title>
+    <ns>0</ns>
+    <id>985</id>
+    <revision>
+      <id>49915</id>
+      <parentid>26348</parentid>
+      <timestamp>2015-11-16T12:45:16Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>49915</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="459" sha1="nx2prrmzimar8cf9fz8f06zojp6913p" xml:space="preserve">{{Infoboxsign
+|Image1=Svartfjallaland.jpg  
+|myndunarstadur=Höfuð
+|handform=V handform bogið
+|ordflokkur=Nafnorð
+|efnisflokkur=Lönd og álfur    
+|efnisflokkur2=Örnefni
+|tengsl1=Serbía 
+|tengsl2=Króatía
+|tengsl3=Bosnía og Hersegóvína
+|Image2=Flag of Montenegro svg.png   
+|youtube1=3jnngQGXTew   
+|taknmal=&lt;!--- Setning á táknmáli--&gt;
+|name={{PAGENAME}}           &lt;!--- Þarf ekki að breyta. Kemur sjálfkrafa frá titli síðu--&gt;
+|samheiti=
+}}</text>
+      <sha1>nx2prrmzimar8cf9fz8f06zojp6913p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svarthol</title>
+    <ns>0</ns>
+    <id>23175</id>
+    <revision>
+      <id>69815</id>
+      <parentid>55611</parentid>
+      <timestamp>2022-07-12T15:14:00Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>69815</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="387" sha1="hjel92lwici0ve62etdyqfovzw7q6zc" xml:space="preserve">{{Infoboxsign
+|Image1=Takn svarthol.PNG
+|texti=Táknið [[Svartur|SVARTUR]] og próform fyrir hvernig allt sogast þangað inn
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|efnisflokkur=Náttúra
+|munnhreyfing=Svarthol
+|tengsl1=Alheimur
+|tengsl2=Geimur
+|tengsl3=Þyngdarkraftur
+|Image2=Svarthol mynd.png
+|youtube1=cDdOQuSvcR4
+|youtube4=eUgcVgD8ZSw
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>hjel92lwici0ve62etdyqfovzw7q6zc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svartidauði</title>
+    <ns>0</ns>
+    <id>31733</id>
+    <revision>
+      <id>71729</id>
+      <parentid>71692</parentid>
+      <timestamp>2023-03-09T11:27:33Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>71729</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="333" sha1="9jci94zcrfz3n6txanakhm6vbfql8ji" xml:space="preserve">{{Infoboxsign
+|Image1=Svartidaudi.PNG
+|texti=Táknin [[svartur|SVARTUR]] og [[dauði|DAUÐI]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|efnisflokkur=Sjúkdómar
+|tengsl1=Bólusótt
+|tengsl2=Rauðir hundar
+|tengsl3=Covid-19
+|Image2=Burying Plague Victims of Tournai.jpg
+|youtube1=https://youtu.be/aqqBY6NhFV8
+}}</text>
+      <sha1>9jci94zcrfz3n6txanakhm6vbfql8ji</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svartsýni</title>
+    <ns>0</ns>
+    <id>30568</id>
+    <revision>
+      <id>70070</id>
+      <parentid>69899</parentid>
+      <timestamp>2022-07-26T11:39:27Z</timestamp>
+      <contributor>
+        <username>Jonakristin</username>
+        <id>490</id>
+      </contributor>
+      <origin>70070</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="307" sha1="2dg6bo62kzwddszztpokkl7zew93wjb" xml:space="preserve">{{Infoboxsign
+|Image1=Takn svartsyni.PNG
+|texti=Táknin [[svartur|SVARTUR]] og [[sjón|SJÓN]] sett saman.
+|myndunarstadur=Höfuð
+|handform=B handform
+|efnisflokkur=Eiginleikar
+|efnisflokkur2=Tilfinningar
+|tengsl1=Neikvæður
+|tengsl2=Bjartsýnn
+|tengsl3=Skap
+|Image2=Svartsyni.jpg
+|youtube1=Ox9NPoDrDLc
+}}</text>
+      <sha1>2dg6bo62kzwddszztpokkl7zew93wjb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svartsýnn</title>
+    <ns>0</ns>
+    <id>1049</id>
+    <revision>
+      <id>15170</id>
+      <parentid>11200</parentid>
+      <timestamp>2012-03-19T09:49:58Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <origin>15170</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="829" sha1="hz6d89dssaah64j639ic4wrgur089lt" xml:space="preserve">{{Infoboxsign
+|Image1=Takn svartsynn.PNG          &lt;!--- t.d. sign_epli.jpg--&gt;
+|texti=Táknin [[Svartur|SVARTUR]] og [[Sjá|SJÁ]] sett saman           &lt;!--- lýsið hvernig táknið er myndað--&gt;
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|ordflokkur=Lýsingarorð
+|efnisflokkur=Eiginleikar
+|tengsl1=Bjartsýnn&lt;!--- Önnur svipuð eða tengd tákn--&gt;
+|tengsl2=Sýning
+|tengsl3=Sýna
+|Image2=&lt;!--- Mynd sem tengist merkingu táknsins--&gt;
+|youtube1=SMsEZxpIH0c         &lt;!--- Kóði YouTube myndbands fyrir táknið--&gt;
+|utskyring=&lt;!--- Útskýring á notkun--&gt;
+|youtube2=&lt;!--- Kóði YouTube myndbands fyrir táknið í setningu--&gt;
+|taknmal=&lt;!--- Setning á táknmáli--&gt;
+|islenska=&lt;!--- Setning á táknmáli--&gt;
+|name={{PAGENAME}}           &lt;!--- Þarf ekki að breyta. Kemur sjálfkrafa frá titli síðu--&gt;
+|samheiti=
+}}</text>
+      <sha1>hz6d89dssaah64j639ic4wrgur089lt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svartur</title>
+    <ns>0</ns>
+    <id>1181</id>
+    <revision>
+      <id>36689</id>
+      <parentid>34246</parentid>
+      <timestamp>2014-03-19T11:50:21Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>36689</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="498" sha1="mea9newoklrvuf6ha3ho28b8m1k01hf" xml:space="preserve">{{Infoboxsign
+|Image1=Takn svartur.JPG
+|texti=Dragið flatan lófa yfir fyrir framan andlit.
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|ordflokkur=Lýsingarorð
+|efnisflokkur=Litir
+|tengsl1=Hvítur
+|tengsl2=Litur
+|Image2=Black.png
+|youtube1=4N02C2ZixzQ
+|youtube2=-pm35Wn9fyk
+|taknmal=Ég, Eiga, Sundföt, Litur, Svartur, Rauður, Blanda saman, Appelsínugulur,
+|islenska=Sundfötin mín eru svört og rauð, blandað með appelsínugulum lit
+|name={{PAGENAME}}
+|samheiti=
+}}
+{{colornav}}</text>
+      <sha1>mea9newoklrvuf6ha3ho28b8m1k01hf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svartur listi</title>
+    <ns>0</ns>
+    <id>31805</id>
+    <revision>
+      <id>71786</id>
+      <timestamp>2023-03-23T13:41:59Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Svarturlisti.PNG |texti=Táknin [[svartur|SVARTUR]] og [[listi|LISTI]] sett saman |myndunarstadur=Hlutlaust rými |handform=B handform |efnisflokkur=Hlutir |teng...</comment>
+      <origin>71786</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="325" sha1="8hk9enmqg3v9qybo8qvz29ggp1mgz7d" xml:space="preserve">{{Infoboxsign
+|Image1=Svarturlisti.PNG
+|texti=Táknin [[svartur|SVARTUR]] og [[listi|LISTI]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|efnisflokkur=Hlutir
+|tengsl1=Svartur
+|tengsl2=Dómur
+|tengsl3=Neikvæður
+|Image2=The black list of states LCCN2002719610.jpg
+|youtube1=https://youtu.be/KuMeR7VVajc
+}}</text>
+      <sha1>8hk9enmqg3v9qybo8qvz29ggp1mgz7d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svartþröstur</title>
+    <ns>0</ns>
+    <id>29172</id>
+    <revision>
+      <id>67989</id>
+      <timestamp>2022-02-08T14:12:19Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn svartthrostur.PNG |texti=Táknin [[Svartur|SVARTUR]] og [[Þröstur|ÞRÖSTUR]] sett saman |myndunarstadur=Höfuð |handform=B handform |efnisflokkur=Fuglar...</comment>
+      <origin>67989</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="342" sha1="22ylsrtokg7g1cqjsrpmxquq9bamfng" xml:space="preserve">{{Infoboxsign
+|Image1=Takn svartthrostur.PNG
+|texti=Táknin [[Svartur|SVARTUR]] og [[Þröstur|ÞRÖSTUR]] sett saman
+|myndunarstadur=Höfuð
+|handform=B handform
+|efnisflokkur=Fuglar
+|twohandforms=Já
+|tengsl1=Skógarþröstur
+|tengsl2=Starri
+|tengsl3=Auðnutittlingur
+|Image2=Turdus merula - Common blackbird 01.jpg
+|youtube1=tN_KtP92qTs
+}}</text>
+      <sha1>22ylsrtokg7g1cqjsrpmxquq9bamfng</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svefn</title>
+    <ns>0</ns>
+    <id>10877</id>
+    <revision>
+      <id>49929</id>
+      <parentid>28308</parentid>
+      <timestamp>2015-11-16T12:48:02Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>49929</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="257" sha1="schrsw5e7osymwzlejab099x6keox98" xml:space="preserve">{{Infoboxsign
+|Image1=Takn svefn.PNG
+|texti=Handformið lokast
+|myndunarstadur=Höfuð
+|handform=2 handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Almennt
+|tengsl1=Sofa
+|tengsl2=Vakna
+|tengsl3=Draumur
+|Image2=Passed out (4089072700).jpg
+|youtube1=gRjfKsH9Azs
+}}</text>
+      <sha1>schrsw5e7osymwzlejab099x6keox98</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svefngríma</title>
+    <ns>0</ns>
+    <id>28208</id>
+    <revision>
+      <id>66134</id>
+      <parentid>66132</parentid>
+      <timestamp>2021-03-15T11:32:17Z</timestamp>
+      <contributor>
+        <username>Kristbjörg</username>
+        <id>250</id>
+      </contributor>
+      <origin>66134</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="245" sha1="90zel1tb4lkb3vavncwu7su17basb6z" xml:space="preserve">{{Infoboxsign
+|Image1=Svefngríma.PNG
+|myndunarstadur=Höfuð
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Hlutir
+|efnisflokkur2=almennt
+|tengsl1=Næturkrem
+|tengsl2=Sofa
+|tengsl3=Myrkur
+|Image2=Sleep mask.jpg
+|youtube1=zcbIjwjZIWM
+}}</text>
+      <sha1>90zel1tb4lkb3vavncwu7su17basb6z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svefnherbergi</title>
+    <ns>0</ns>
+    <id>7005</id>
+    <revision>
+      <id>70486</id>
+      <parentid>70372</parentid>
+      <timestamp>2022-10-03T15:41:21Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>70486</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="459" sha1="5es08qg4m9dth3tm2kqejqrrkro8pbu" xml:space="preserve">{{Infoboxsign
+|Image1=Takn svefnherbergi.PNG
+|myndunarstadur=Höfuð
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heimili og fjölskylda
+|munnhreyfing=Svefnherbergi
+|tengsl1=Sofa
+|tengsl2=Vakna
+|tengsl3=Rúm
+|Image2=Red bedroom.jpg
+|youtube1=7PTvUbhDHBg
+|youtube2=4IcvBJQM8J0
+|taknmal=Svefnherbergi,Vera (lalla),Rúm,Skrifborð,Stóll
+|islenska=Í svefnherberginu er rúm, skrifborð og stóll.
+|youtube4=8brNz0Jy-jU
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>5es08qg4m9dth3tm2kqejqrrkro8pbu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svefninn laðar</title>
+    <ns>0</ns>
+    <id>17853</id>
+    <revision>
+      <id>44004</id>
+      <timestamp>2015-04-20T15:20:40Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Sungin lög |setning=q0O5QBMWMl0 }} [[Flokkur:Lög]]</comment>
+      <origin>44004</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="54" sha1="c6jhiewoz04z7f1czf7vz4uwq1x8n5u" xml:space="preserve">{{Sungin lög
+|setning=q0O5QBMWMl0
+}}
+[[Flokkur:Lög]]</text>
+      <sha1>c6jhiewoz04z7f1czf7vz4uwq1x8n5u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svefnleysi</title>
+    <ns>0</ns>
+    <id>20726</id>
+    <revision>
+      <id>50971</id>
+      <timestamp>2016-02-02T14:29:33Z</timestamp>
+      <contributor>
+        <username>Kristbjörg</username>
+        <id>250</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Svefnleysi.PNG |myndunarstadur=Höfuð |handform=Vísi handform lokað |efnisflokkur=Heilsa og líkami |tengsl1=Vakna |tengsl2=Andvaka |tengsl3=Nótt |Image2=Cou...</comment>
+      <origin>50971</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="241" sha1="lgr3ny303elh7jkkqazboerg80omp12" xml:space="preserve">{{Infoboxsign
+|Image1=Svefnleysi.PNG
+|myndunarstadur=Höfuð
+|handform=Vísi handform lokað
+|efnisflokkur=Heilsa og líkami
+|tengsl1=Vakna
+|tengsl2=Andvaka
+|tengsl3=Nótt
+|Image2=Couple sleeping in the street J1.jpg
+|youtube1=c9Y5ZbNOciU
+}}</text>
+      <sha1>lgr3ny303elh7jkkqazboerg80omp12</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svefnlyf</title>
+    <ns>0</ns>
+    <id>18545</id>
+    <revision>
+      <id>49936</id>
+      <parentid>45268</parentid>
+      <timestamp>2015-11-16T12:49:23Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>49936</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="343" sha1="6issa6p8l9mzh08qq3ecei0weg4buow" xml:space="preserve">{{Infoboxsign
+|Image1=Takn svefnlyf.PNG
+|texti=Táknin [[Svefn|SVEFN]] og [[Lyf|LYF]] sett saman
+|myndunarstadur=Höfuð
+|handform=Vísi handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heilsa og líkami
+|munnhreyfing=svefnlyf
+|tengsl1=Sofa
+|tengsl2=Veikur
+|tengsl3=Læknir
+|Image2=Extra Strength Tylenol and Tylenol PM.jpg
+|youtube1=ZdZpAqIU0rA
+}}</text>
+      <sha1>6issa6p8l9mzh08qq3ecei0weg4buow</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svefnpokapláss</title>
+    <ns>0</ns>
+    <id>21623</id>
+    <revision>
+      <id>52596</id>
+      <timestamp>2016-03-14T10:49:57Z</timestamp>
+      <contributor>
+        <username>Svava</username>
+        <id>23</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Svefnpokaplass.PNG |myndunarstadur=Hlutlaust rými |handform=Vísi handform lokað |efnisflokkur=Heilsa og líkami |tengsl1=Svefn |tengsl2=Svefnsófi |tengsl3=Gi...</comment>
+      <origin>52596</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="235" sha1="7a94cp0ifpgeqdk2ud3w9ot36qy3bh9" xml:space="preserve">{{Infoboxsign
+|Image1=Svefnpokaplass.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=Vísi handform lokað
+|efnisflokkur=Heilsa og líkami
+|tengsl1=Svefn
+|tengsl2=Svefnsófi
+|tengsl3=Gisting
+|Image2=Mummy bag.jpg
+|youtube1=ZV28K7FmzWY
+}}</text>
+      <sha1>7a94cp0ifpgeqdk2ud3w9ot36qy3bh9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svefnpoki</title>
+    <ns>0</ns>
+    <id>8054</id>
+    <revision>
+      <id>63639</id>
+      <parentid>23822</parentid>
+      <timestamp>2020-05-15T12:02:15Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>63639</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="315" sha1="nwm12cwv5qfrihenhmsvrrleqs1mmvs" xml:space="preserve">{{Infoboxsign
+|Image1=Takn svefnpoki.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=Vísi handform lokað
+|ordflokkur=Nafnorð
+|efnisflokkur=Hlutir
+|munnhreyfing=Svefnpoka
+|tengsl1=Útilega
+|tengsl2=Sofa
+|tengsl3=Tjald
+|Image2=Mummy bag.jpg
+|youtube1=eGSajDNB1EE
+|youtube4=OsKn56kuyzU
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>nwm12cwv5qfrihenhmsvrrleqs1mmvs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svefnrannsókn</title>
+    <ns>0</ns>
+    <id>7970</id>
+    <revision>
+      <id>49939</id>
+      <parentid>21232</parentid>
+      <timestamp>2015-11-16T12:50:04Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>49939</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="287" sha1="o57u7yqmvqsg1quih23ekgk13i7rfnv" xml:space="preserve">{{Infoboxsign
+|Image1=Svefnrannsokn.JPG
+|texti=Samsett tákn úr [[Sofa]] og [[Rannsókn]]
+|myndunarstadur=Höfuð
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heilsa og líkami
+|tengsl1=Sofna
+|tengsl2=Vakandi
+|tengsl3=Niðurstöður
+|Image2=Sleep.svg
+|youtube1=AtsJZRMFaFw
+}}</text>
+      <sha1>o57u7yqmvqsg1quih23ekgk13i7rfnv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svefnsófi</title>
+    <ns>0</ns>
+    <id>18685</id>
+    <revision>
+      <id>53206</id>
+      <parentid>45528</parentid>
+      <timestamp>2016-04-04T09:41:06Z</timestamp>
+      <contributor>
+        <username>Sigrunarna</username>
+        <id>79</id>
+      </contributor>
+      <origin>53206</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="369" sha1="fk6iq498oz2ppttdtpaw662prfnrj50" xml:space="preserve">{{Infoboxsign
+|Image1=Svefnsof.PNG
+|texti=Táknin [[Sofna|SOFNA]] og [[Sófi|SÓFI]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=2 handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heimili og fjölskylda
+|munnhreyfing=svefnsofi
+|tengsl1=Einbýlishús
+|tengsl2=Fólk
+|tengsl3=Þreyttur
+|Image2=Bäddsoffa, sängläge.JPG
+|youtube1=5K8pMFAMcOQ
+|youtube4=2aE-mqZQ4FA
+}}</text>
+      <sha1>fk6iq498oz2ppttdtpaw662prfnrj50</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svefntafla</title>
+    <ns>0</ns>
+    <id>18687</id>
+    <revision>
+      <id>45529</id>
+      <parentid>45464</parentid>
+      <timestamp>2015-05-21T13:56:09Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>45529</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="324" sha1="htxqvs0gkcrkqymiws4tjsqfe8u29kw" xml:space="preserve">{{Infoboxsign
+|Image1=Svefnt.PNG
+|texti=Táknin [[Sofna|SOFNA]] og [[Lyf|LYF]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=2 handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heilsa og líkami
+|munnhreyfing=svefntöflu
+|tengsl1=Þreyttur
+|tengsl2=Stress
+|tengsl3=Sjúklingur
+|Image2=Tylenolss.jpg
+|youtube1=LybgYRYlgT8
+}}</text>
+      <sha1>htxqvs0gkcrkqymiws4tjsqfe8u29kw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svefntruflanir</title>
+    <ns>0</ns>
+    <id>18968</id>
+    <revision>
+      <id>63620</id>
+      <parentid>54422</parentid>
+      <timestamp>2020-05-15T10:07:12Z</timestamp>
+      <contributor>
+        <username>IdunnB</username>
+        <id>464</id>
+      </contributor>
+      <origin>63620</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="611" sha1="m9a7o3xoqn3xiovvjj62e52mrqkv4wc" xml:space="preserve">{{Infoboxsign
+|Image1=Takn svefntruflun.PNG
+|texti=Samsett úr [[svefn|SVEFN]] og [[trufla|TRUFLA]]
+|myndunarstadur=Höfuð
+|handform=Vísi handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heilsa og líkami
+|efnisflokkur2=Samfélag
+|tengsl1=Svefnlyf
+|tengsl2=Sofa
+|tengsl3=Andvaka
+|Image2=Radio-with-Alarm_clock.jpg
+|youtube1=-CBP-LlSnBM
+|youtube4=bxASOK0i7KQ
+|explain=Eins og fyrsta táknið nema svefn táknað með einni hönd í stað beggja
+|alternativesigntag=Samheiti
+}}
+{{Annað tákn fyrir
+|youtube4=b25Y16C2vS8
+|explain=Táknin [[sofa|SOFA]] og  [[trufla|TRUFLA]] sett saman
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>m9a7o3xoqn3xiovvjj62e52mrqkv4wc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Svefnvenjur</title>
+    <ns>0</ns>
+    <id>30678</id>
+    <revision>
+      <id>70073</id>
+      <parentid>70045</parentid>
+      <timestamp>2022-07-26T11:50:40Z</timestamp>
+      <contributor>
+        <username>Jonakristin</username>
+        <id>490</id>
+      </contributor>
+      <origin>70073</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="j1m1jdymqq9wxsfgrw7t1w9ipevld0g" xml:space="preserve">{{Infoboxsign
+|Image1=Takn svefnvenjur.PNG
+|texti=Táknin [[svefn|SVEFN]] og [[venjur|VENJUR]] sett saman.
+|myndunarstadur=Höfuð
+|handform=B handform
+|efnisflokkur=Heilsa og líkami
+|tengsl1=Orkudrykkur
+|tengsl2=Hátta
+|tengsl3=Búa um rúmið
+|Image2=Svefnvenjur.jpg
+|youtube1=c6-nfh7hhKM
+}}</text>
+      <sha1>j1m1jdymqq9wxsfgrw7t1w9ipevld0g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sveifarás</title>
+    <ns>0</ns>
+    <id>28305</id>
+    <revision>
+      <id>66262</id>
+      <timestamp>2021-03-31T12:11:13Z</timestamp>
+      <contributor>
+        <username>Steinunnbirna</username>
+        <id>472</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Ásar.jpg |myndunarstadur=Hlutlaust rými |handform=O handform |efnisflokkur=Bíltegund |munnhreyfing=sveifarás |tengsl1=Bíll |tengsl2=Verkstæði |tengsl3=Lag...</comment>
+      <origin>66262</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="252" sha1="qmquh8m7ssxsk81kheankclveppk7wz" xml:space="preserve">{{Infoboxsign
+|Image1=Ásar.jpg
+|myndunarstadur=Hlutlaust rými
+|handform=O handform
+|efnisflokkur=Bíltegund
+|munnhreyfing=sveifarás
+|tengsl1=Bíll
+|tengsl2=Verkstæði
+|tengsl3=Laga
+|Image2=Bílaás.jpg
+|youtube1=hwQ44oZqWxM
+|youtube4=n8GZrUQNPY4
+}}</text>
+      <sha1>qmquh8m7ssxsk81kheankclveppk7wz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sveifla</title>
+    <ns>0</ns>
+    <id>5517</id>
+    <revision>
+      <id>19269</id>
+      <parentid>15931</parentid>
+      <timestamp>2012-05-09T11:47:39Z</timestamp>
+      <contributor>
+        <username>Holmfridur</username>
+        <id>18</id>
+      </contributor>
+      <origin>19269</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="187" sha1="du2c9f2f9v9bp3huak1tiu0yo2tp4q0" xml:space="preserve">{{Infoboxsign
+|Image1=Sveifla.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=H handform
+|ordflokkur=Sagnorð
+|efnisflokkur=Athafnir
+|tengsl1=spranga
+|tengsl2=Hanga
+|youtube1=WjgJHSfRNGI
+}}</text>
+      <sha1>du2c9f2f9v9bp3huak1tiu0yo2tp4q0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sveifla (Keila)</title>
+    <ns>0</ns>
+    <id>18590</id>
+    <revision>
+      <id>45397</id>
+      <parentid>45318</parentid>
+      <timestamp>2015-05-20T14:00:58Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>45397</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="282" sha1="7tofkomqcc7ck4h2ck9l50kqv0z5gz5" xml:space="preserve">{{Infoboxsign
+|Image1=Sveifl.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=B handform bogið
+|ordflokkur=Nafnorð
+|efnisflokkur=Keila
+|munnhreyfing=sveifla
+|tengsl1=Feykja (keila)
+|tengsl2=Krossskipti (Keila)
+|tengsl3=Leifar (Keila)
+|Image2=4lamou8a589d.jpg
+|youtube1=iJs-pCBhDmM
+}}</text>
+      <sha1>7tofkomqcc7ck4h2ck9l50kqv0z5gz5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sveigjanleg kynhneigð</title>
+    <ns>0</ns>
+    <id>26563</id>
+    <revision>
+      <id>62266</id>
+      <parentid>62209</parentid>
+      <timestamp>2020-01-06T14:00:22Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>62266</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="211" sha1="ctaax1dzdbrmy1zhb2g1uncywl8y67z" xml:space="preserve">{{Infoboxsign
+|Image1=Sveigjanlegkynhn.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=B handform lokað
+|efnisflokkur=Hinsegin
+|tengsl1=Kynhneigð
+|tengsl2=Kynhegðun
+|tengsl3=Kyntjáning
+|youtube1=CmK8RXiYnUc
+}}</text>
+      <sha1>ctaax1dzdbrmy1zhb2g1uncywl8y67z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sveigjanlegur</title>
+    <ns>0</ns>
+    <id>25890</id>
+    <revision>
+      <id>60807</id>
+      <parentid>60806</parentid>
+      <timestamp>2019-03-13T13:32:34Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>60807</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="202" sha1="81p3knpj5m3qba6hqdexsns0ncpqcqf" xml:space="preserve">{{Infoboxsign
+|Image1=Sveigjanlegur.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=B handform lokað
+|efnisflokkur=Eiginleikar
+|tengsl1=U beygja
+|tengsl2=Breyta
+|tengsl3=Liðugur
+|youtube1=Osbo9ZkVsJg
+}}</text>
+      <sha1>81p3knpj5m3qba6hqdexsns0ncpqcqf</sha1>
+    </revision>

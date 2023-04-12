@@ -1,0 +1,228 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="is">
+  <siteinfo>
+    <sitename>SignWiki</sitename>
+    <dbname>signwiki_mediawiki</dbname>
+    <base>https://is.signwiki.org/index.php/Fors%C3%AD%C3%B0a</base>
+    <generator>MediaWiki 1.35.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Miðill</namespace>
+      <namespace key="-1" case="first-letter">Kerfissíða</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Spjall</namespace>
+      <namespace key="2" case="first-letter">Notandi</namespace>
+      <namespace key="3" case="first-letter">Notandaspjall</namespace>
+      <namespace key="4" case="first-letter">SignWiki</namespace>
+      <namespace key="5" case="first-letter">SignWikispjall</namespace>
+      <namespace key="6" case="first-letter">Mynd</namespace>
+      <namespace key="7" case="first-letter">Myndaspjall</namespace>
+      <namespace key="8" case="first-letter">Melding</namespace>
+      <namespace key="9" case="first-letter">Meldingarspjall</namespace>
+      <namespace key="10" case="first-letter">Snið</namespace>
+      <namespace key="11" case="first-letter">Sniðaspjall</namespace>
+      <namespace key="12" case="first-letter">Hjálp</namespace>
+      <namespace key="13" case="first-letter">Hjálparspjall</namespace>
+      <namespace key="14" case="first-letter">Flokkur</namespace>
+      <namespace key="15" case="first-letter">Flokkaspjall</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="114" case="first-letter">Rule</namespace>
+      <namespace key="115" case="first-letter">Rule talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Opnunarhátíð</title>
+    <ns>0</ns>
+    <id>29910</id>
+    <revision>
+      <id>68957</id>
+      <timestamp>2022-03-29T15:44:28Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn opnunarhatid.PNG |texti=Táknin [[Opna|OPNA]] og [[Hátíð|HÁTÍÐ]] sett saman |myndunarstadur=Hlutlaust rými |handform=B handform |efnisflokkur=Samfél...</comment>
+      <origin>68957</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="339" sha1="fs5kv5hw8tgfvhucoha14ba3njo5z2f" xml:space="preserve">{{Infoboxsign
+|Image1=Takn opnunarhatid.PNG
+|texti=Táknin [[Opna|OPNA]] og [[Hátíð|HÁTÍÐ]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|efnisflokkur=Samfélag
+|twohandforms=Já
+|tengsl1=Lokahóf
+|tengsl2=Byrja
+|tengsl3=Fagna
+|Image2=The opening ceremony of the FIFA World Cup 2014 10.jpg
+|youtube1=1vQlUT70Uik
+}}</text>
+      <sha1>fs5kv5hw8tgfvhucoha14ba3njo5z2f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Opnunartími</title>
+    <ns>0</ns>
+    <id>5361</id>
+    <revision>
+      <id>15612</id>
+      <timestamp>2012-03-22T15:06:27Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn opnunartimi.JPG |texti=Táknin [[Opinn|OPINN]] og [[Tími|TÍMI]] sett saman |myndunarstadur=Hlutlaust rými |handform=B handform |ordflokkur=Nafnorð |efnisfl...</comment>
+      <origin>15612</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="302" sha1="ir6aoa3y4dw8dwl4bmb5rqr65h5poda" xml:space="preserve">{{Infoboxsign
+|Image1=Takn opnunartimi.JPG
+|texti=Táknin [[Opinn|OPINN]] og [[Tími|TÍMI]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Almennt
+|tengsl1=Lokað
+|tengsl2=Opið
+|tengsl3=Vinna
+|Image2=Tesco opening hours.JPG
+|youtube1=nc9nziLKOJs
+}}</text>
+      <sha1>ir6aoa3y4dw8dwl4bmb5rqr65h5poda</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Orð</title>
+    <ns>0</ns>
+    <id>5916</id>
+    <revision>
+      <id>32796</id>
+      <parentid>32795</parentid>
+      <timestamp>2013-12-04T13:49:00Z</timestamp>
+      <contributor>
+        <username>Thora</username>
+        <id>20</id>
+      </contributor>
+      <origin>32796</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="194" sha1="n4h0xcwe40lnpyupjzqxpvgmdrcug5c" xml:space="preserve">{{Infoboxsign
+|Image1=Orð-snap.png
+|myndunarstadur=Hlutlaust rými
+|handform=C handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Menntun
+|tengsl1=Setning
+|tengsl2=Málfræði
+|youtube1=XoChjVNOz2o
+}}</text>
+      <sha1>n4h0xcwe40lnpyupjzqxpvgmdrcug5c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Orð af orði, viðtal við Valgerði Stefánsdóttur, jan 2019</title>
+    <ns>0</ns>
+    <id>26723</id>
+    <revision>
+      <id>62454</id>
+      <parentid>62452</parentid>
+      <timestamp>2020-02-10T11:18:47Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>62454</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="345" sha1="25xp46yc1wd1t1zya9qt2gop7qtns7s" xml:space="preserve">{{ITMutvarp
+|setning=bzahe5QtWI8
+}}
+{{ITMutvarp}}
+{{ITMutvarp}}
+{{ITMutvarp}}
+Þáttarstjórnandi: Anna Sigríður Þráinsdóttir
+
+Viðmælandi: Valgerður Stefánsdóttir
+
+Tæknimaður RUV: Lydía Grétarsdóttir
+
+Túlkur: Árný Guðmundsdóttir
+
+Tæknimaður SHH: Tómas Á. Evertsson
+
+Þátturinn var fluttur á RUV þann 17. febrúar 2019.</text>
+      <sha1>25xp46yc1wd1t1zya9qt2gop7qtns7s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Orð af orði. Viðtal 1 við Auði Sigurðardóttur og Árnýju Guðmundsdóttur, júní 2022</title>
+    <ns>0</ns>
+    <id>30839</id>
+    <revision>
+      <id>71288</id>
+      <parentid>71287</parentid>
+      <timestamp>2023-01-04T13:00:18Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[Orð af orði, þáttur 09 árið 2022. Viðtal 1 við Auði Sigurðardóttur og Árnýju Guðmundsdóttur]] á [[Orð af orði. Viðtal 1 við Auði Sigurðardóttur og Árnýju Guðmundsdóttur, júní 2022]] án þess að skilja eftir tilvísun</comment>
+      <origin>70290</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="351" sha1="73u5epz1c8isgigzmkn981dr4el8y7k" xml:space="preserve">{{ITMutvarp
+|setning=0ynsvzSaiJI
+}}
+{{ITMutvarp}}
+{{ITMutvarp
+|taknmal=true
+}}
+{{ITMutvarp}}
+{{ITMutvarp}}
+Orð af orði, þáttur 9 árið 2022. Viðtal 1 við Auði Sigurðardóttur og Árnýju Guðmundsdóttur
+
+Þátturinn var fluttur í útvarpi í júlí 2022, Auður Sigurðardóttir, Árný Guðmundsdóttir og Eva Rún Guðmundsdóttir túlka.</text>
+      <sha1>73u5epz1c8isgigzmkn981dr4el8y7k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Orð af orði. Viðtal 2 við Auði Sigurðardóttur og Árnýju Guðmundsdóttur, júní 2022</title>
+    <ns>0</ns>
+    <id>30840</id>
+    <revision>
+      <id>71289</id>
+      <parentid>70291</parentid>
+      <timestamp>2023-01-04T13:00:47Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[Orð af orði, þáttur 10 árið 2022. Viðtal 2 við Auði Sigurðardóttur og Árnýju Guðmundsdóttur]] á [[Orð af orði. Viðtal 2 við Auði Sigurðardóttur og Árnýju Guðmundsdóttur, júní 2022]] án þess að skilja eftir tilvísun</comment>
+      <origin>70291</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="352" sha1="dlaswnqzzo1wroxltb7vhgnsjc2xcdm" xml:space="preserve">{{ITMutvarp
+|setning=NnK2s8deydw
+}}
+{{ITMutvarp}}
+{{ITMutvarp
+|taknmal=true
+}}
+{{ITMutvarp}}
+{{ITMutvarp}}
+Orð af orði, þáttur 9 árið 2022. Viðtal 1 við Auði Sigurðardóttur og Árnýju Guðmundsdóttur 
+
+Þátturinn var fluttur í útvarpi í júlí 2022, Auður Sigurðardóttir, Árný Guðmundsdóttir og Eva Rún Guðmundsdóttir túlka.</text>
+      <sha1>dlaswnqzzo1wroxltb7vhgnsjc2xcdm</sha1>
+    </revision>
+  </page>
+</mediawiki>

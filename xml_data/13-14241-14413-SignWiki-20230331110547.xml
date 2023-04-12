@@ -1,0 +1,6056 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="is">
+  <siteinfo>
+    <sitename>SignWiki</sitename>
+    <dbname>signwiki_mediawiki</dbname>
+    <base>https://is.signwiki.org/index.php/Fors%C3%AD%C3%B0a</base>
+    <generator>MediaWiki 1.35.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Miðill</namespace>
+      <namespace key="-1" case="first-letter">Kerfissíða</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Spjall</namespace>
+      <namespace key="2" case="first-letter">Notandi</namespace>
+      <namespace key="3" case="first-letter">Notandaspjall</namespace>
+      <namespace key="4" case="first-letter">SignWiki</namespace>
+      <namespace key="5" case="first-letter">SignWikispjall</namespace>
+      <namespace key="6" case="first-letter">Mynd</namespace>
+      <namespace key="7" case="first-letter">Myndaspjall</namespace>
+      <namespace key="8" case="first-letter">Melding</namespace>
+      <namespace key="9" case="first-letter">Meldingarspjall</namespace>
+      <namespace key="10" case="first-letter">Snið</namespace>
+      <namespace key="11" case="first-letter">Sniðaspjall</namespace>
+      <namespace key="12" case="first-letter">Hjálp</namespace>
+      <namespace key="13" case="first-letter">Hjálparspjall</namespace>
+      <namespace key="14" case="first-letter">Flokkur</namespace>
+      <namespace key="15" case="first-letter">Flokkaspjall</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="114" case="first-letter">Rule</namespace>
+      <namespace key="115" case="first-letter">Rule talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Þögn</title>
+    <ns>0</ns>
+    <id>7446</id>
+    <revision>
+      <id>63406</id>
+      <parentid>49700</parentid>
+      <timestamp>2020-05-12T14:28:31Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>63406</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="453" sha1="8xaz3ohke9iaceic5a0byvw2gq09p1j" xml:space="preserve">{{Infoboxsign
+|Image1=Thogn.JPG
+|myndunarstadur=Höfuð
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Almennt
+|munnhreyfing=þögn
+|tengsl1=Þegja
+|tengsl2=Halda kjafti
+|tengsl3=Hávaði
+|Image2=Pictogramm silence.svg
+|youtube1=9aqdG_Ck50c
+|youtube4=sveryOsdstY
+|alternativesigntag=Samheiti
+}}
+{{Annað tákn fyrir
+|youtube4=KOrdo2AlsLU
+|alternativesigntag=Samheiti
+}}
+{{Annað tákn fyrir
+|youtube4=vb36EIJ_FXU
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>8xaz3ohke9iaceic5a0byvw2gq09p1j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Þögnin</title>
+    <ns>0</ns>
+    <id>25802</id>
+    <revision>
+      <id>66318</id>
+      <parentid>60602</parentid>
+      <timestamp>2021-04-07T10:26:24Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>66318</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="206" sha1="g3b8ptr8p6vlq8le18s3x8nyu1o8kwt" xml:space="preserve">{{VVsogur
+|setning=rrYZ5ThGcyA
+}}
+{{VVsogur}}
+{{VVsogur}}
+{{VVsogur}}
+{{VVsogur}}
+{{VVsogur}}
+{{VVsogur}}
+Kristinn Diego, nemandi í Menningu og sögu II í Háskóla Íslands.
+
+
+[[Flokkur:Nemendaverkefni]]</text>
+      <sha1>g3b8ptr8p6vlq8le18s3x8nyu1o8kwt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Þörungur</title>
+    <ns>0</ns>
+    <id>29655</id>
+    <revision>
+      <id>68649</id>
+      <timestamp>2022-03-24T12:20:19Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Thorungur.PNG |myndunarstadur=Hlutlaust rými |handform=5 handform |efnisflokkur=Náttúra |tengsl1=Gerlar |tengsl2=Þari |tengsl3=Fiskeldi |Image2=Marine_algae_...</comment>
+      <origin>68649</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="242" sha1="jmxwugk7ssd3hm6njc3mgpoensim3ex" xml:space="preserve">{{Infoboxsign
+|Image1=Thorungur.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=5 handform
+|efnisflokkur=Náttúra
+|tengsl1=Gerlar
+|tengsl2=Þari
+|tengsl3=Fiskeldi
+|Image2=Marine_algae_in_Brofjorden.jpg
+|youtube1=https://youtu.be/yQpeBD0qAVE
+}}</text>
+      <sha1>jmxwugk7ssd3hm6njc3mgpoensim3ex</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æ</title>
+    <ns>0</ns>
+    <id>308</id>
+    <revision>
+      <id>40918</id>
+      <parentid>33460</parentid>
+      <timestamp>2014-10-08T09:15:41Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>40918</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="238" sha1="7b60c285vg7vjudkshogc4akxvsqafr" xml:space="preserve">{{Infoboxsign
+|Image1=StafrofAE.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=Æ handform
+|ordflokkur=Bókstafur
+|efnisflokkur=Stafróf
+|tengsl1=Lesa
+|tengsl2=skrifa
+|tengsl3=Ý
+|Image2=Latin Æ.svg
+|youtube1=jQiT2XzFASQ
+}}
+{{stafrofnav}}</text>
+      <sha1>7b60c285vg7vjudkshogc4akxvsqafr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>ÆA - táknalisti</title>
+    <ns>0</ns>
+    <id>25985</id>
+    <revision>
+      <id>62086</id>
+      <parentid>60953</parentid>
+      <timestamp>2019-12-09T11:15:27Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[Elín Bára - táknalisti]] á [[ÆA - táknalisti]] án þess að skilja eftir tilvísun</comment>
+      <origin>62086</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="162" sha1="awton3be675u8u3iuuiya5fr6v65bck" xml:space="preserve">{{Signlistplain
+|title=Maí 2019
+|sign=Mamma, Pabbi, Amma, Afi, Borða, Sofa, Drekka, Mjólk, Brauð, Banani, Epli, Köttur, Hundur, Sund,
+}}
+{{Signlistcategory}}</text>
+      <sha1>awton3be675u8u3iuuiya5fr6v65bck</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æð</title>
+    <ns>0</ns>
+    <id>2309</id>
+    <revision>
+      <id>60301</id>
+      <parentid>60300</parentid>
+      <timestamp>2018-09-06T15:48:27Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>60301</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="532" sha1="1mt3m3bx93iubt6i9snoeyprsam5vw9" xml:space="preserve">{{Infoboxsign
+|Image1=Aed.JPG
+|myndunarstadur=Handleggur
+|handform=Vísi handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heilsa og líkami
+|munnhreyfing=Æð
+|tengsl1=Slagæð
+|tengsl2=Æðahnútar
+|tengsl3=Sprauta
+|Image2=Arm veins - 20090522.jpg
+|youtube1=lBnBnm4SRD4
+|islenska=&lt;!--- Setning á táknmáli--&gt;
+|youtube4=nzP5OedRQmM
+|alternativesigntag=Samheiti
+|name={{PAGENAME}}           &lt;!--- Þarf ekki að breyta. Kemur sjálfkrafa frá titli síðu--&gt;
+}}
+{{Annað tákn fyrir
+|youtube4=5hq5PFpvQzg
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>1mt3m3bx93iubt6i9snoeyprsam5vw9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æða (í auga)</title>
+    <ns>0</ns>
+    <id>25978</id>
+    <revision>
+      <id>60928</id>
+      <parentid>60924</parentid>
+      <timestamp>2019-03-26T09:13:24Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>60928</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="277" sha1="nh9ma7i4ffez2lb9bhk2ibh02zd5jur" xml:space="preserve">{{Infoboxsign
+|Image1=Aedaiauga.PNG
+|myndunarstadur=Höfuð
+|handform=Vísi handform
+|efnisflokkur=Heilsa og líkami
+|efnisflokkur2=Nýyrði
+|tengsl1=Hvíta (í auga)
+|tengsl2=Augasteinn
+|tengsl3=Sjáaldur
+|Image2=Schematic diagram of the human eye.svg
+|youtube1=fKvlUc0ZvRA
+}}</text>
+      <sha1>nh9ma7i4ffez2lb9bhk2ibh02zd5jur</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æðahnútar</title>
+    <ns>0</ns>
+    <id>2318</id>
+    <revision>
+      <id>35307</id>
+      <parentid>33462</parentid>
+      <timestamp>2014-02-14T10:42:50Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>35307</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="477" sha1="1s23dicycf2j3c6fnl1mg46y47a0bce" xml:space="preserve">{{Infoboxsign
+|Image1=Aedhnutar.JPG
+|texti=Táknin [[Æð|ÆÐ]] og [[Hnútur|HNÚTUR]] sett saman&lt;!--- lýsið hvernig táknið er myndað--&gt;
+|myndunarstadur=Handleggur
+|handform=Vísi handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Sjúkdómar
+|munnhreyfing=æðahnút
+|tengsl1=Æð
+|tengsl2=Aðgerð
+|tengsl3=Fótur
+|Image2=Varicose veins pl.jpg
+|youtube1=CbW3_66MCqg
+|name={{PAGENAME}}           &lt;!--- Þarf ekki að breyta. Kemur sjálfkrafa frá titli síðu--&gt;
+|samheiti=
+}}</text>
+      <sha1>1s23dicycf2j3c6fnl1mg46y47a0bce</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æðakölkun</title>
+    <ns>0</ns>
+    <id>9409</id>
+    <revision>
+      <id>59687</id>
+      <parentid>59685</parentid>
+      <timestamp>2018-04-17T12:04:21Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>59687</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="311" sha1="tbdtjcajm0d3jhe26047prq4wvaar1l" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aedakolkun.JPG
+|myndunarstadur=Handleggur
+|handform=Vísi handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heilsa og líkami
+|tengsl1=hjartaáfall
+|tengsl2=Heilablóðfall
+|tengsl3=Aðgerð
+|Image2=IVUS of CAD.png
+|youtube1=ZDpl_JZ5eiA
+|youtube4=JqX5XLQ23zs
+|alternativesigntag=Nýyrði
+}}</text>
+      <sha1>tbdtjcajm0d3jhe26047prq4wvaar1l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æðaleggur</title>
+    <ns>0</ns>
+    <id>20202</id>
+    <revision>
+      <id>50248</id>
+      <timestamp>2015-12-14T11:51:29Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn aedaleggur.PNG |myndunarstadur=Handleggur |handform=Vísi handform |ordflokkur=Nafnorð |efnisflokkur=Heilsa og líkami |tengsl1=Lyfjabrunnur |tengsl2=Lyfja...</comment>
+      <origin>50248</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="265" sha1="d0js8hywvo394f1lkx3ajhlmauk91g1" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aedaleggur.PNG
+|myndunarstadur=Handleggur
+|handform=Vísi handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heilsa og líkami
+|tengsl1=Lyfjabrunnur
+|tengsl2=Lyfjameðferð
+|tengsl3=Meðferð
+|Image2=PICC omläggning.jpg
+|youtube1=y6RyfX5hhrs
+}}</text>
+      <sha1>d0js8hywvo394f1lkx3ajhlmauk91g1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æðarvarp</title>
+    <ns>0</ns>
+    <id>31765</id>
+    <revision>
+      <id>71733</id>
+      <timestamp>2023-03-09T13:36:56Z</timestamp>
+      <contributor>
+        <username>Sigurdurv</username>
+        <id>469</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Æðarvarp.png |myndunarstadur=Líkami |handform=Vísi handform |efnisflokkur=Náttúra |twohandforms=Já |tengsl1=Hreiður |tengsl2=Verpa |tengsl3=Tjaldur |Imag...</comment>
+      <origin>71733</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="6wh0nnd2b5eagptwjbtjuxqbeojybq4" xml:space="preserve">{{Infoboxsign
+|Image1=Æðarvarp.png
+|myndunarstadur=Líkami
+|handform=Vísi handform
+|efnisflokkur=Náttúra
+|twohandforms=Já
+|tengsl1=Hreiður
+|tengsl2=Verpa
+|tengsl3=Tjaldur
+|Image2=Æðarvarps.jpg
+|youtube1=oscbflBT2oo
+}}</text>
+      <sha1>6wh0nnd2b5eagptwjbtjuxqbeojybq4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æðasláttur</title>
+    <ns>0</ns>
+    <id>17007</id>
+    <revision>
+      <id>42035</id>
+      <parentid>41779</parentid>
+      <timestamp>2014-12-01T14:57:57Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>42035</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="269" sha1="njquf8579h41nkavlr4ejz838h663b0" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aedaslattur.PNG
+|myndunarstadur=Líkami
+|handform=Vísi handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heilsa og líkami
+|tengsl1=Hjartsláttur
+|tengsl2=Æðahnútar
+|tengsl3=Lungu
+|Image2=Measurement of radial pulse.jpg
+|youtube1=zKvj6fMMukc
+}}</text>
+      <sha1>njquf8579h41nkavlr4ejz838h663b0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æðislegt</title>
+    <ns>0</ns>
+    <id>28575</id>
+    <revision>
+      <id>66698</id>
+      <parentid>66662</parentid>
+      <timestamp>2021-06-02T11:33:15Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>66698</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="216" sha1="01cqwr93sx1fyoubtm4mxwfo6y3ma68" xml:space="preserve">{{Infoboxsign
+|Image1=Æðislegt.jpg
+|myndunarstadur=Höfuð
+|handform=O handform lokað
+|efnisflokkur=Almennt
+|twohandforms=Já
+|munnhreyfing=Æðislegt
+|tengsl1=Yndislegur
+|tengsl2=Frábær
+|youtube1=2WW1aivNIjs
+}}</text>
+      <sha1>01cqwr93sx1fyoubtm4mxwfo6y3ma68</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æðislegur</title>
+    <ns>0</ns>
+    <id>3906</id>
+    <revision>
+      <id>61259</id>
+      <parentid>33739</parentid>
+      <timestamp>2019-07-29T14:33:24Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>61259</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="478" sha1="8lf4o2bxor5y0y03gj622k2zr0rz4f0" xml:space="preserve">{{Infoboxsign
+|Image1=Æðislegur.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=B handform lokað
+|ordflokkur=Lýsingarorð
+|efnisflokkur=Eiginleikar
+|munnhreyfing=fff
+|tengsl1=Matsalur
+|tengsl2=Matur
+|tengsl3=Eldhús
+|Image2=Restaurant-clip-art-16.jpg
+|youtube1=6AuK2KzP5Gg
+|youtube2=Apdzy33TXK8
+|taknmal=Veitingahús, vera (bidd), æðislegur, matur, þjónusta
+|islenska=Æðislegur matur og þjónusta í veitingahúsinu
+|youtube4=hYtiTeUt8Vs
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>8lf4o2bxor5y0y03gj622k2zr0rz4f0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æðruleysi</title>
+    <ns>0</ns>
+    <id>27409</id>
+    <revision>
+      <id>67745</id>
+      <parentid>64855</parentid>
+      <timestamp>2022-01-31T15:35:36Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>67745</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="198" sha1="14rlxpmgt8bs8jpeqa0rqh8z49lts1q" xml:space="preserve">{{Infoboxsign
+|Image1=Aedruleysu.PNG
+|myndunarstadur=Líkami
+|handform=A handform
+|efnisflokkur=Eiginleikar
+|tengsl1=Auðmjúkur
+|tengsl2=Æðruleysisbæn
+|tengsl3=Fyrirgefa
+|youtube1=q_3YI9H1T_E
+}}</text>
+      <sha1>14rlxpmgt8bs8jpeqa0rqh8z49lts1q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æðruleysisbæn</title>
+    <ns>0</ns>
+    <id>20684</id>
+    <revision>
+      <id>64175</id>
+      <parentid>51129</parentid>
+      <timestamp>2020-07-21T13:56:22Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64175</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="244" sha1="ij9um50dv6tqejuwyo3ey6a86qnsf38" xml:space="preserve">{{Infoboxsign
+|Image1=AEdruleysisbaen.PNG
+|myndunarstadur=Líkami
+|handform=A handform lokað
+|efnisflokkur=Trúartákn
+|tengsl1=Kirkja
+|tengsl2=Meðferð
+|tengsl3=Bæn
+|youtube1=jmZCq8l2FGU
+|youtube4=Tgx-pdGSh5s
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>ij9um50dv6tqejuwyo3ey6a86qnsf38</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æðruleysisbænin</title>
+    <ns>0</ns>
+    <id>29008</id>
+    <revision>
+      <id>67760</id>
+      <parentid>67758</parentid>
+      <timestamp>2022-02-02T11:20:29Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>67760</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="319" sha1="l8mn0k9xizh2gby0e60hm6pvis4yrjp" xml:space="preserve">{{12sporamedferd
+|setning=U2zzcht5YIU
+
+}}
+
+
+
+'''&lt;big&gt;Æðruleysisbænin&lt;/big&gt;'''
+
+Þýðing: Anna Dagmar Daníelsdóttir
+
+Guð gefi mér æðruleysi
+
+til að sætta mig við það sem ég get ekki breytt
+
+kjark til að breyta því sem ég get breytt
+
+og vit til að greina þar á milli
+
+[[Flokkur:12 spora meðferð]]</text>
+      <sha1>l8mn0k9xizh2gby0e60hm6pvis4yrjp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æðstur</title>
+    <ns>0</ns>
+    <id>20333</id>
+    <revision>
+      <id>59885</id>
+      <parentid>50426</parentid>
+      <timestamp>2018-05-03T13:37:56Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>59885</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="199" sha1="8bdwfvazkcze0aeucdcr1yaw84x3wb3" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aedstur.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=1 handform
+|efnisflokkur=Almennt
+|munnhreyfing=Loft í kinn
+|tengsl1=Hæstur
+|tengsl2=Fyrstur
+|youtube1=ZrRbLPim334
+}}</text>
+      <sha1>8bdwfvazkcze0aeucdcr1yaw84x3wb3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æfa</title>
+    <ns>0</ns>
+    <id>5347</id>
+    <revision>
+      <id>15581</id>
+      <timestamp>2012-03-22T12:02:40Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn aefa.JPG |myndunarstadur=Handleggur |handform=B handform |ordflokkur=Sagnorð |efnisflokkur=Heilsa og líkami |tengsl1=Hjóla |tengsl2=Hlaupa |tengsl3=Vöðvar...</comment>
+      <origin>15581</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="252" sha1="7etnqq834mwvl3sunveij2irp1b9015" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aefa.JPG
+|myndunarstadur=Handleggur
+|handform=B handform
+|ordflokkur=Sagnorð
+|efnisflokkur=Heilsa og líkami
+|tengsl1=Hjóla
+|tengsl2=Hlaupa
+|tengsl3=Vöðvar
+|Image2=Barbell Group Fitness Class2.JPG
+|youtube1=HPuNpyiOIYU
+}}</text>
+      <sha1>7etnqq834mwvl3sunveij2irp1b9015</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æfing</title>
+    <ns>0</ns>
+    <id>8403</id>
+    <revision>
+      <id>21945</id>
+      <parentid>21902</parentid>
+      <timestamp>2012-08-30T11:08:06Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>21945</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="218" sha1="7qpkzaw36db7vc254l7mk2saktmvi7j" xml:space="preserve">{{Infoboxsign
+|Image1=Aefig.JPG
+|myndunarstadur=Handleggur
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Almennt
+|tengsl1=Próf
+|tengsl2=skóli
+|tengsl3=Íþróttir
+|Image2=1234ee.jpg
+|youtube1=1j9v7fzfXLI
+}}</text>
+      <sha1>7qpkzaw36db7vc254l7mk2saktmvi7j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æfing í aflestri erlendra nafna</title>
+    <ns>0</ns>
+    <id>26364</id>
+    <revision>
+      <id>61630</id>
+      <timestamp>2019-10-01T12:41:03Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{TulkunHI1 |setning=Ifs5QM6uGUA }}</comment>
+      <origin>61630</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="9etdky1hnrj70ffx1murhk2ch2tf88e" xml:space="preserve">{{TulkunHI1
+|setning=Ifs5QM6uGUA
+}}</text>
+      <sha1>9etdky1hnrj70ffx1murhk2ch2tf88e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æfing í aflestri íslenskra nafna</title>
+    <ns>0</ns>
+    <id>26365</id>
+    <revision>
+      <id>61631</id>
+      <timestamp>2019-10-01T12:41:34Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{TulkunHI1 |setning=4GWAudCZqME }}</comment>
+      <origin>61631</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="9mkbf1z3ehxrw5vmh39t64bkgl2tros" xml:space="preserve">{{TulkunHI1
+|setning=4GWAudCZqME
+}}</text>
+      <sha1>9mkbf1z3ehxrw5vmh39t64bkgl2tros</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æfing í aflestri nafna í setningum</title>
+    <ns>0</ns>
+    <id>26366</id>
+    <revision>
+      <id>61632</id>
+      <timestamp>2019-10-01T12:44:49Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{TulkunHI1 |setning=0Gvv_-xpL_I }}</comment>
+      <origin>61632</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="1398ujv7jidl5ummnd5errwmyy6j3mc" xml:space="preserve">{{TulkunHI1
+|setning=0Gvv_-xpL_I
+}}</text>
+      <sha1>1398ujv7jidl5ummnd5errwmyy6j3mc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æfing í aflestri ruglorða án munnhreyfinga</title>
+    <ns>0</ns>
+    <id>26367</id>
+    <revision>
+      <id>61633</id>
+      <timestamp>2019-10-01T12:45:22Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{TulkunHI1 |setning=0Gvv_-xpL_I }}</comment>
+      <origin>61633</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="1398ujv7jidl5ummnd5errwmyy6j3mc" xml:space="preserve">{{TulkunHI1
+|setning=0Gvv_-xpL_I
+}}</text>
+      <sha1>1398ujv7jidl5ummnd5errwmyy6j3mc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æfing í aflestri ruglorða í setningum</title>
+    <ns>0</ns>
+    <id>26368</id>
+    <revision>
+      <id>61634</id>
+      <timestamp>2019-10-01T12:49:39Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{TulkunHI1 |setning=kT37Lr-weKo }}</comment>
+      <origin>61634</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="e3rbxmd0hbm94knh4bi9f5avi8bxevp" xml:space="preserve">{{TulkunHI1
+|setning=kT37Lr-weKo
+}}</text>
+      <sha1>e3rbxmd0hbm94knh4bi9f5avi8bxevp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æfing í aflestri ruglorða með munnhreyfingum</title>
+    <ns>0</ns>
+    <id>26369</id>
+    <revision>
+      <id>61635</id>
+      <timestamp>2019-10-01T12:50:12Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{TulkunHI1 |setning=y72zica3HFg }}</comment>
+      <origin>61635</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="mydupgxkrrar2izmbz9c9pzb6r28aoe" xml:space="preserve">{{TulkunHI1
+|setning=y72zica3HFg
+}}</text>
+      <sha1>mydupgxkrrar2izmbz9c9pzb6r28aoe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æfing í aflestri talna</title>
+    <ns>0</ns>
+    <id>26371</id>
+    <revision>
+      <id>61637</id>
+      <timestamp>2019-10-01T12:51:29Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{TulkunHI1 |setning=z_ZERE6h9Ko }}</comment>
+      <origin>61637</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="0jwofp6ccq92c4ciip9zjh9v5i8mzqa" xml:space="preserve">{{TulkunHI1
+|setning=z_ZERE6h9Ko
+}}</text>
+      <sha1>0jwofp6ccq92c4ciip9zjh9v5i8mzqa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æfing í aflestri talna í setningum</title>
+    <ns>0</ns>
+    <id>26370</id>
+    <revision>
+      <id>61636</id>
+      <timestamp>2019-10-01T12:50:37Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{TulkunHI1 |setning=mzObTcUjgtI }}</comment>
+      <origin>61636</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="ctpfgwxm5iln5lswnzi1wh1lfdipv70" xml:space="preserve">{{TulkunHI1
+|setning=mzObTcUjgtI
+}}</text>
+      <sha1>ctpfgwxm5iln5lswnzi1wh1lfdipv70</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æfing í fingrastöfun</title>
+    <ns>0</ns>
+    <id>2896</id>
+    <revision>
+      <id>14278</id>
+      <parentid>14277</parentid>
+      <timestamp>2012-03-05T14:27:49Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <origin>14278</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="536" sha1="b5oyeq3dg1tmbkssvml0mvb2sfrhj2m" xml:space="preserve">{{#widget:Vimeo|id=35189628}}
+
+Þessi æfing tengist [[Örnámskeið 1, lota 2 - Fingrastafróf]]
+
+&lt;quiz display=simple&gt;
+{Reynið að skilja orðin í myndbandinu án þess að kíkja á listann. Æfið ykkur í að stafa þessi nöfn og merkið við 10 nöfn sem að táknarinn segir. 
+|type="[]"}
+- Dúi 
++ Ása 
+- Sif
+- Örn
++ Nói
+- Rut
+- Þór
+- Jói
+- Rán
++ Búi
+- Jón
++ Ási
++ Amy
+- Mel
+- Rós
++ Ari
+- Lóa
++ Ína
++ Már
+- Ósk
+- Eva
+- Rún
++ Una
++ Sól
+&lt;/quiz&gt;
+[[Flokkur:Æfingar]]
+[[Örnámskeið 1, lota 2 - Fingrastafróf]]</text>
+      <sha1>b5oyeq3dg1tmbkssvml0mvb2sfrhj2m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æfingabók</title>
+    <ns>0</ns>
+    <id>19227</id>
+    <revision>
+      <id>46160</id>
+      <timestamp>2015-06-02T15:03:32Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn aefingabok.PNG |texti=Samsett úr tveimur táknum [[æfing|ÆFING]] og [[bók|BÓK]] |myndunarstadur=Handleggur |handform=B handform |ordflokkur=Nafnorð |e...</comment>
+      <origin>46160</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="290" sha1="o4ourlfkeq2a2ckppnkiongg2bcfcct" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aefingabok.PNG
+|texti=Samsett úr tveimur táknum [[æfing|ÆFING]] og [[bók|BÓK]]
+|myndunarstadur=Handleggur
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Menntun
+|twohandforms=Já
+|tengsl1=Æfing
+|tengsl2=Bók
+|tengsl3=Læra
+|youtube1=Cx2fiKtwaWQ
+}}</text>
+      <sha1>o4ourlfkeq2a2ckppnkiongg2bcfcct</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ægilegur</title>
+    <ns>0</ns>
+    <id>5529</id>
+    <revision>
+      <id>33464</id>
+      <parentid>15952</parentid>
+      <timestamp>2013-12-16T09:25:23Z</timestamp>
+      <contributor>
+        <username>Iðunn</username>
+        <id>191</id>
+      </contributor>
+      <origin>33464</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="259" sha1="junpbdpwhf01pksbydmw8rojhu6a48i" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aegilegur.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=5 handform
+|ordflokkur=Lýsingarorð
+|efnisflokkur=Eiginleikar
+|tengsl1=Svakalegur
+|tengsl2=Merkilegur
+|tengsl3=Ótrúlegur
+|Image2=Jau lec leciens.jpg
+|youtube1=zwzmFMRPxKw
+}}</text>
+      <sha1>junpbdpwhf01pksbydmw8rojhu6a48i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æojnojn</title>
+    <ns>0</ns>
+    <id>26077</id>
+    <revision>
+      <id>61162</id>
+      <timestamp>2019-07-25T15:28:16Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Floknarsetningar2 |taknmal=lk, lkoókn }} {{Floknarsetningar2}} {{Floknarsetningar2}} {{Floknarsetningar2}} kjnkjb æikjjki</comment>
+      <origin>61162</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="125" sha1="cv9fguyuv37nyq1iffpzl7obv31527b" xml:space="preserve">{{Floknarsetningar2
+|taknmal=lk, lkoókn
+}}
+{{Floknarsetningar2}}
+{{Floknarsetningar2}}
+{{Floknarsetningar2}}
+kjnkjb æikjjki</text>
+      <sha1>cv9fguyuv37nyq1iffpzl7obv31527b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æpa</title>
+    <ns>0</ns>
+    <id>11206</id>
+    <revision>
+      <id>49614</id>
+      <parentid>29090</parentid>
+      <timestamp>2015-11-13T11:29:31Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>49614</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="215" sha1="gyrrordyd6wb9ob1ii34vyxxst76j28" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aepa.PNG
+|myndunarstadur=Höfuð
+|handform=B handform
+|ordflokkur=Sagnorð
+|efnisflokkur=Almennt
+|munnhreyfing=aaa
+|tengsl1=Öskra
+|tengsl2=Læti
+|tengsl3=Hávaði
+|youtube1=yz45gadQorA
+}}</text>
+      <sha1>gyrrordyd6wb9ob1ii34vyxxst76j28</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æsingur</title>
+    <ns>0</ns>
+    <id>27153</id>
+    <revision>
+      <id>63405</id>
+      <parentid>63299</parentid>
+      <timestamp>2020-05-12T14:25:06Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>63405</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="193" sha1="2jm63rm0422rfqpynbd6y6aqa2pg3tq" xml:space="preserve">{{Infoboxsign
+|Image1=Aesingur.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=Æ handform
+|efnisflokkur=Tilfinningar
+|tengsl1=Æstur
+|tengsl2=Róandi lyf
+|tengsl3=Hlæja
+|youtube1=5_ae2cAlcwA
+}}</text>
+      <sha1>2jm63rm0422rfqpynbd6y6aqa2pg3tq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æska</title>
+    <ns>0</ns>
+    <id>1148</id>
+    <revision>
+      <id>10134</id>
+      <parentid>10133</parentid>
+      <timestamp>2012-02-01T14:31:58Z</timestamp>
+      <contributor>
+        <username>Svava</username>
+        <id>23</id>
+      </contributor>
+      <origin>10134</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="789" sha1="3yd4k6i4u5zkhbd6czp0ktdi4s54zbe" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aeska.PNG          &lt;!--- t.d. sign_epli.jpg--&gt;
+|texti=&lt;!--- lýsið hvernig táknið er myndað--&gt;
+|myndunarstadur=Hlutlaust rými
+|handform=A handform
+|efnisflokkur=Almennt               &lt;!--- Flokkur  --&gt;
+|munnhreyfing=Æska
+|tengsl1=Unglingur    &lt;!--- Önnur svipuð eða tengd tákn--&gt;
+|tengsl2=Ungur
+|tengsl3=Ættleiða
+|Image2=&lt;!--- Mynd sem tengist merkingu táknsins--&gt;
+|youtube1=VowWTdcH3To          &lt;!--- Kóði YouTube myndbands fyrir táknið--&gt;
+|utskyring=&lt;!--- Útskýring á notkun--&gt;
+|youtube2=&lt;!--- Kóði YouTube myndbands fyrir táknið í setningu--&gt;
+|taknmal=&lt;!--- Setning á táknmáli--&gt;
+|islenska=&lt;!--- Setning á táknmáli--&gt;
+|name={{PAGENAME}}           &lt;!--- Þarf ekki að breyta. Kemur sjálfkrafa frá titli síðu--&gt;
+|samheiti=
+}}</text>
+      <sha1>3yd4k6i4u5zkhbd6czp0ktdi4s54zbe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æskuheimili</title>
+    <ns>0</ns>
+    <id>31768</id>
+    <revision>
+      <id>71736</id>
+      <timestamp>2023-03-09T13:42:23Z</timestamp>
+      <contributor>
+        <username>Sigurdurv</username>
+        <id>469</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Æskuheimili.png |texti=Táknin [[alast upp|ALAST UPP]], [[heimili|HEIMILI]] og [[svæði|SVÆÐI]] sett saman |myndunarstadur=Hlutlaust rými |handform=B handfo...</comment>
+      <origin>71736</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="336" sha1="je355f2tllaixsydnqmfw4qmnjwhqe0" xml:space="preserve">{{Infoboxsign
+|Image1=Æskuheimili.png
+|texti=Táknin [[alast upp|ALAST UPP]], [[heimili|HEIMILI]] og [[svæði|SVÆÐI]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|efnisflokkur=Heimili og fjölskylda
+|twohandforms=Já
+|tengsl1=Heimili
+|tengsl2=Borg
+|tengsl3=Ungur
+|Image2=Æskuheimili.jpg
+|youtube1=KFQTGnaq1yE
+}}</text>
+      <sha1>je355f2tllaixsydnqmfw4qmnjwhqe0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æskulýðsmót</title>
+    <ns>0</ns>
+    <id>17577</id>
+    <revision>
+      <id>71780</id>
+      <parentid>43050</parentid>
+      <timestamp>2023-03-23T13:22:02Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>71780</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="408" sha1="2wuk96oor05t2ec32rctuez0p3leson" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aeskulydsmot.PNG
+|texti=Táknin [[Unglingur|UNGLINGUR]] og [[Mót (Íþrótta/keppnis)|MÓT (ÍÞRÓTTA/KEPPNIS)]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=A handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Samfélag
+|tengsl1=Norræn samvinna
+|tengsl2=Útilega
+|tengsl3=Vinur
+|Image2=Youth Winter WikiCamp 2019, Tsaghkadzor, Wikimedia Armenia 01.jpg
+|youtube1=Ialq8QqahOI
+}}</text>
+      <sha1>2wuk96oor05t2ec32rctuez0p3leson</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æskuvinur</title>
+    <ns>0</ns>
+    <id>20335</id>
+    <revision>
+      <id>50428</id>
+      <timestamp>2016-01-12T12:15:38Z</timestamp>
+      <contributor>
+        <username>Sara</username>
+        <id>389</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn Aeskuvinir.PNG |texti=Táknin [[Uppeldi|UPPELDI]] og [[Vinur|VINUR]] |myndunarstadur=Hlutlaust rými |handform=B handform |efnisflokkur=Heimili og fjölskyl...</comment>
+      <origin>50428</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="289" sha1="jb0oxbwx58ibba2e6ivfw3o96d5qf22" xml:space="preserve">{{Infoboxsign
+|Image1=Takn Aeskuvinir.PNG
+|texti=Táknin [[Uppeldi|UPPELDI]] og [[Vinur|VINUR]]
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|efnisflokkur=Heimili og fjölskylda
+|tengsl1=Barn
+|tengsl2=Vinur
+|tengsl3=Leika
+|Image2=Hermandad_-_friendship.jpg
+|youtube1=afWVt3kP6q0
+}}</text>
+      <sha1>jb0oxbwx58ibba2e6ivfw3o96d5qf22</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æstur</title>
+    <ns>0</ns>
+    <id>464</id>
+    <revision>
+      <id>33465</id>
+      <parentid>11857</parentid>
+      <timestamp>2013-12-16T09:28:36Z</timestamp>
+      <contributor>
+        <username>Iðunn</username>
+        <id>191</id>
+      </contributor>
+      <origin>33465</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="434" sha1="f922n20eb9399i5jrqiyxceat61g7n3" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aestur.PNG          
+|texti=5 handform breytist í Æ handformið lokast             &lt;!--- lýsið hvernig táknið er myndað--&gt;
+|myndunarstadur=Hlutlaust rými
+|handform=5 handform
+|ordflokkur=Lýsingarorð
+|efnisflokkur=Tilfinningar               
+|twohandforms=Já
+|tengsl1=Brjálaður    
+|tengsl2=Pirraður
+|tengsl3=Þolinmóður
+|Image2=Upset.JPG
+|youtube1=2DxRgL645Ow           
+|name=
+|samheiti=
+}}</text>
+      <sha1>f922n20eb9399i5jrqiyxceat61g7n3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ætandi</title>
+    <ns>0</ns>
+    <id>25770</id>
+    <revision>
+      <id>60498</id>
+      <timestamp>2018-11-19T10:56:07Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Aetandi.PNG |myndunarstadur=Hlutlaust rými |handform=B handform lokað |efnisflokkur=Eiginleikar |tengsl1=Eitur |tengsl2=Hættulegur |tengsl3=Efni |youtube1=9lj...</comment>
+      <origin>60498</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="194" sha1="hxcwtykzad5tfj59vb93bf00ebzgw6u" xml:space="preserve">{{Infoboxsign
+|Image1=Aetandi.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=B handform lokað
+|efnisflokkur=Eiginleikar
+|tengsl1=Eitur
+|tengsl2=Hættulegur
+|tengsl3=Efni
+|youtube1=9ljq2AS9qtk
+}}</text>
+      <sha1>hxcwtykzad5tfj59vb93bf00ebzgw6u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ætla</title>
+    <ns>0</ns>
+    <id>12721</id>
+    <redirect title="Ætlar" />
+    <revision>
+      <id>33738</id>
+      <timestamp>2013-12-17T13:53:03Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Arny færði [[Ætla]] á [[Ætlar]]</comment>
+      <origin>33738</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="cqy6aend5pne3ss8o17t86ti1gt7rgf" xml:space="preserve">#tilvísun [[Ætlar]]</text>
+      <sha1>cqy6aend5pne3ss8o17t86ti1gt7rgf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ætlaði</title>
+    <ns>0</ns>
+    <id>3880</id>
+    <revision>
+      <id>70235</id>
+      <parentid>49615</parentid>
+      <timestamp>2022-09-01T14:04:23Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>70235</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="539" sha1="tuexvoqq04jhnqnek9bmr7rej335wkj" xml:space="preserve">{{Infoboxsign
+|Image1=Mynd - ætlaði.PNG
+|myndunarstadur=Höfuð
+|handform=B handform bogið
+|ordflokkur=Sagnorð
+|efnisflokkur=Athafnir
+|efnisflokkur2=Döff tákn (fjöltákn)
+|tengsl1=Ætla
+|tengsl2=Fresta
+|tengsl3=Gera
+|youtube1=EI8RJ5l0O_4
+|youtube2=GrIVDqSOMaA
+|taknmal=Gær,Ég,ætlaði,kaupa,Bíll
+|islenska=Í gær ætlaði ég að kaupa bíl
+}}
+{{Annað dæmi um notkun
+|youtube3=3G4aDyyxaWI
+|taknmal2=Ætlaði,bær,á sama tíma,systir,Heimsókn
+|islenska2=Þegar ég ætlaði að fara í bæinn kom systir mín í heimsókn.
+}}</text>
+      <sha1>tuexvoqq04jhnqnek9bmr7rej335wkj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ætlar</title>
+    <ns>0</ns>
+    <id>3288</id>
+    <revision>
+      <id>33737</id>
+      <parentid>33736</parentid>
+      <timestamp>2013-12-17T13:53:03Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[Ætla]] á [[Ætlar]]</comment>
+      <origin>33737</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="489" sha1="2iuxyvvim0sbcjgrd8u9g20ypsswr2z" xml:space="preserve">{{Infoboxsign
+|Image1=AEtla.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|ordflokkur=Sagnorð
+|efnisflokkur=Athafnir
+|tengsl1=Ætlaði
+|tengsl2=langa
+|tengsl3=Gera
+|youtube1=pBkj9XwfueU
+|youtube2=VyUVCex_edk
+|taknmal=í kvöld, Ég, ætla, heima,
+|islenska=Ég ætla að vera heima í kvöld
+|youtube4=rGw9xbuPsfI
+|alternativesigntag=Samheiti
+}}
+{{Annað dæmi um notkun
+|youtube3=_7IUAAwCOT4
+|taknmal2=núna, Við öll, ætla, borða
+|islenska2=Við ætlum að borða núna
+}}</text>
+      <sha1>2iuxyvvim0sbcjgrd8u9g20ypsswr2z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ætt</title>
+    <ns>0</ns>
+    <id>19265</id>
+    <revision>
+      <id>46206</id>
+      <timestamp>2015-06-03T09:42:42Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn aett.PNG |myndunarstadur=Hlutlaust rými |handform=B handform bogið |ordflokkur=Nafnorð |efnisflokkur=Heimili og fjölskylda |tengsl1=Líkur |tengsl2=Ætt...</comment>
+      <origin>46206</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="259" sha1="cu1d5ye8ls2l7moqiii5gac7lzyh8yq" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aett.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=B handform bogið
+|ordflokkur=Nafnorð
+|efnisflokkur=Heimili og fjölskylda
+|tengsl1=Líkur
+|tengsl2=Ættarmót
+|tengsl3=Frændi
+|Image2=Coloured-family.jpg
+|youtube1=8KfzIIRG_cg
+}}</text>
+      <sha1>cu1d5ye8ls2l7moqiii5gac7lzyh8yq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ættarhöfðingi</title>
+    <ns>0</ns>
+    <id>21053</id>
+    <revision>
+      <id>51627</id>
+      <parentid>51511</parentid>
+      <timestamp>2016-02-18T12:38:57Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>51627</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="323" sha1="dvyrx99vcctnrecxmdgxqq2c4nqswtv" xml:space="preserve">{{Infoboxsign
+|Image1=Aettarhofdingi.PNG
+|texti=Táknin [[Ætt|ÆTT]] og [[Höfðingi|HÖFÐINGI]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=B handform bogið
+|efnisflokkur=Heimili og fjölskylda
+|tengsl1=Fjölskylda
+|tengsl2=Ættingi
+|tengsl3=Ættarmót
+|Image2=The Sheik (1921) - 4.jpg
+|youtube1=-Atxl0iZZ2w
+}}</text>
+      <sha1>dvyrx99vcctnrecxmdgxqq2c4nqswtv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ættarmót</title>
+    <ns>0</ns>
+    <id>8052</id>
+    <revision>
+      <id>21331</id>
+      <timestamp>2012-06-29T08:57:50Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn aettermot.JPG |myndunarstadur=Hlutlaust rými |handform=B handform |ordflokkur=Nafnorð |efnisflokkur=Heimili og fjölskylda |munnhreyfing=Ættarmót |tengs...</comment>
+      <origin>21331</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="282" sha1="f3lni4dwv2mjujb190zxmkgzfz8guya" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aettermot.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heimili og fjölskylda
+|munnhreyfing=Ættarmót
+|tengsl1=Fjölskylda
+|tengsl2=Útilega
+|tengsl3=Gaman
+|Image2=Tasca Family 2.jpg
+|youtube1=HR23sdZQ3yA
+}}</text>
+      <sha1>f3lni4dwv2mjujb190zxmkgzfz8guya</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ættarnafn</title>
+    <ns>0</ns>
+    <id>19239</id>
+    <revision>
+      <id>46173</id>
+      <parentid>46172</parentid>
+      <timestamp>2015-06-02T15:30:17Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>46173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="307" sha1="dpv9h8mx9nlqem4od8louqydwybxslb" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aettarnafn.PNG
+|texti=Samsett úr tveimur táknum [[ætt|ÆTT]] og [[nafn|NAFN]]
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heimili og fjölskylda
+|twohandforms=Já
+|tengsl1=Ætt
+|tengsl2=Ættingi
+|tengsl3=Nafn
+|youtube1=O0pfyImh8a4
+}}</text>
+      <sha1>dpv9h8mx9nlqem4od8louqydwybxslb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ættaróðal</title>
+    <ns>0</ns>
+    <id>21058</id>
+    <revision>
+      <id>51631</id>
+      <parentid>51517</parentid>
+      <timestamp>2016-02-18T12:41:16Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>51631</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="341" sha1="j0d50b4o3mf58kzp2wzfe1np6jwsxjt" xml:space="preserve">{{Infoboxsign
+|Image1=Aettarodal.PNG
+|texti=Táknin [[Ætt|ÆTT]] og [[Svæði|SVÆÐI]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=B handform bogið
+|efnisflokkur=Heimili og fjölskylda
+|tengsl1=Ættingi
+|tengsl2=Ættartré
+|tengsl3=Fjölskylduhátíð
+|Image2=McCook Family Estate 2012-09-23 11-28-12.jpg
+|youtube1=QvTccevPy7I
+}}</text>
+      <sha1>j0d50b4o3mf58kzp2wzfe1np6jwsxjt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ættartré</title>
+    <ns>0</ns>
+    <id>19922</id>
+    <revision>
+      <id>47403</id>
+      <timestamp>2015-10-13T10:12:14Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn aettartre.PNG |texti=Táknin [[Ætt|ÆTT]] og próform fyrir hvernig tréð greinist niður |myndunarstadur=Hlutlaust rými |handform=B handform bogið |ord...</comment>
+      <origin>47403</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="319" sha1="rk6yq7rbkcu4qgdsk0l0su0yf1huyao" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aettartre.PNG
+|texti=Táknin [[Ætt|ÆTT]] og próform fyrir hvernig tréð greinist niður
+|myndunarstadur=Hlutlaust rými
+|handform=B handform bogið
+|ordflokkur=Nafnorð
+|efnisflokkur=Heimili og fjölskylda
+|tengsl1=Fjölskylda
+|tengsl2=Ættarmót
+|tengsl3=skyldur
+|youtube1=MgKI-xH8Ga0
+}}</text>
+      <sha1>rk6yq7rbkcu4qgdsk0l0su0yf1huyao</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ættgengt</title>
+    <ns>0</ns>
+    <id>15597</id>
+    <revision>
+      <id>39218</id>
+      <timestamp>2014-06-11T14:05:47Z</timestamp>
+      <contributor>
+        <username>Gerdur</username>
+        <id>309</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn aettgengt.PNG |myndunarstadur=Hlutlaust rými |handform=B handform bogið |ordflokkur=Nafnorð |efnisflokkur=Sjúkdómar |efnisflokkur2=Heimili og fjölskyl...</comment>
+      <origin>39218</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="313" sha1="h5ap5ddk6v2coomp14omyrodvkj3gwh" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aettgengt.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=B handform bogið
+|ordflokkur=Nafnorð
+|efnisflokkur=Sjúkdómar
+|efnisflokkur2=Heimili og fjölskylda
+|munnhreyfing=ættgeng
+|tengsl1=Sjúkdómur
+|tengsl2=Fjölskylda
+|Image2=Distance-hereditary graph.svg
+|youtube1=wkfMT_Xy3ic
+}}</text>
+      <sha1>h5ap5ddk6v2coomp14omyrodvkj3gwh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ættingi</title>
+    <ns>0</ns>
+    <id>19242</id>
+    <revision>
+      <id>69215</id>
+      <parentid>52883</parentid>
+      <timestamp>2022-04-12T15:48:23Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>69215</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="521" sha1="m7my9m1i5awacfg93tfeo6ik2qy0nxx" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aettingi.PNG
+|texti=Samsett úr táknunum [[fjölskylda|FJÖLSKYLDA]] og [[persóna|PERSÓNA]]
+|myndunarstadur=Hlutlaust rými
+|handform=O handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heimili og fjölskylda
+|twohandforms=Já
+|tengsl1=Fjölskylda
+|tengsl2=Ætt
+|tengsl3=Systkini
+|Image2=US Navy 081202-N-8933S-064 Aviation Warfare Systems Operator 2nd Class Aaron Stagg greets his family during a homecoming ceremony.jpg
+|youtube1=W6kPwCAgaZ8
+|youtube4=7u1fivQd9OE
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>m7my9m1i5awacfg93tfeo6ik2qy0nxx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ættleiddur</title>
+    <ns>0</ns>
+    <id>19244</id>
+    <revision>
+      <id>67089</id>
+      <parentid>46212</parentid>
+      <timestamp>2021-06-22T15:26:19Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>67089</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="360" sha1="lit648g1xurc8t6118aa4zg4xd1fyhk" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aetleiddur.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=Æ handform
+|ordflokkur=Lýsingarorð
+|efnisflokkur=Heimili og fjölskylda
+|twohandforms=Já
+|tengsl1=Ætt
+|tengsl2=Fjölskylda
+|tengsl3=Tengsl
+|Image2=Mary Slessor and Four Children, Old Calabar, late 19th century (imp-cswc-GB-237-CSWC47-LS2-036).jpg
+|youtube1=jiNVO76NvIc
+}}</text>
+      <sha1>lit648g1xurc8t6118aa4zg4xd1fyhk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ættleiða</title>
+    <ns>0</ns>
+    <id>4899</id>
+    <revision>
+      <id>33469</id>
+      <parentid>14833</parentid>
+      <timestamp>2013-12-16T09:52:40Z</timestamp>
+      <contributor>
+        <username>Iðunn</username>
+        <id>191</id>
+      </contributor>
+      <origin>33469</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="266" sha1="2vtpj8p4tan12hrqowsro6h3oz8265y" xml:space="preserve">{{Infoboxsign
+|Image1=Ættleiða.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=5 handform
+|ordflokkur=Sagnorð
+|efnisflokkur=Heimili og fjölskylda
+|twohandforms=Já
+|munnhreyfing=ættleiða
+|tengsl1=börn
+|tengsl2=Fóstur
+|tengsl3=Foreldrar
+|youtube1=B1bCEN3If8g
+}}</text>
+      <sha1>2vtpj8p4tan12hrqowsro6h3oz8265y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ævi</title>
+    <ns>0</ns>
+    <id>16800</id>
+    <revision>
+      <id>41253</id>
+      <timestamp>2014-11-03T11:25:39Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn aevi.PNG |myndunarstadur=Hlutlaust rými |handform=5 handform |ordflokkur=Nafnorð |efnisflokkur=Náttúra |tengsl1=Ungabarn |tengsl2=Gamall |tengsl3=Lifa |...</comment>
+      <origin>41253</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="299" sha1="qus152344kyk9yl9tem1ksrgsbi4cvk" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aevi.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=5 handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Náttúra
+|tengsl1=Ungabarn
+|tengsl2=Gamall
+|tengsl3=Lifa
+|Image2=US Army 50752 CO commends centenarian, veteran for lifetime of service to nation.jpg
+|youtube1=J0n0M6WK0eY
+}}</text>
+      <sha1>qus152344kyk9yl9tem1ksrgsbi4cvk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ævilangt</title>
+    <ns>0</ns>
+    <id>31575</id>
+    <revision>
+      <id>71421</id>
+      <timestamp>2023-01-12T13:30:07Z</timestamp>
+      <contributor>
+        <username>Steinunnbirna</username>
+        <id>472</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Ævilangtt.PNG |myndunarstadur=Óvirk hönd |handform=5 handform |efnisflokkur=Tímatákn |tengsl1=Lengi |tengsl2=Æska |tengsl3=Fullorðinn |Image2=Klukka.jpg |...</comment>
+      <origin>71421</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="206" sha1="mu56fi481ft7vkvxp110xonxpw0lpbb" xml:space="preserve">{{Infoboxsign
+|Image1=Ævilangtt.PNG
+|myndunarstadur=Óvirk hönd
+|handform=5 handform
+|efnisflokkur=Tímatákn
+|tengsl1=Lengi
+|tengsl2=Æska
+|tengsl3=Fullorðinn
+|Image2=Klukka.jpg
+|youtube1=WH7AoTehNu0
+}}</text>
+      <sha1>mu56fi481ft7vkvxp110xonxpw0lpbb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ævintýraferð</title>
+    <ns>0</ns>
+    <id>23604</id>
+    <revision>
+      <id>56459</id>
+      <timestamp>2016-09-19T10:24:53Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Aevintyraferd.PNG |texti=Táknin [[ævintýri|ÆVINTÝRI]] og [[ferð|FERÐ]] sett saman |myndunarstadur=Hlutlaust rými |handform=V handform bogið |efnisflokku...</comment>
+      <origin>56459</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="340" sha1="swwila9ty6e5zy3dagx9m1qkmf5rqnv" xml:space="preserve">{{Infoboxsign
+|Image1=Aevintyraferd.PNG
+|texti=Táknin [[ævintýri|ÆVINTÝRI]] og [[ferð|FERÐ]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=V handform bogið
+|efnisflokkur=Samfélag
+|tengsl1=Ævintýri
+|tengsl2=Skemmtiferðaskip
+|tengsl3=Góða skemmtun!
+|Image2=Endless Possibilities (11533326155).jpg
+|youtube1=3hGeEboc8pI
+}}</text>
+      <sha1>swwila9ty6e5zy3dagx9m1qkmf5rqnv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ævintýri</title>
+    <ns>0</ns>
+    <id>5201</id>
+    <revision>
+      <id>25206</id>
+      <parentid>15081</parentid>
+      <timestamp>2012-11-23T14:34:33Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>25206</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="257" sha1="6ub23qqjhdfa9krmcwcj738yyio6lhd" xml:space="preserve">{{Infoboxsign
+|Image1=Adwent.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=V handform bogið
+|ordflokkur=Nafnorð
+|efnisflokkur=Menning og listir
+|tengsl1=Ofvirkur
+|tengsl2=Fjallganga
+|tengsl3=Stökkva
+|Image2=Fairy Tale Toronto.jpg
+|youtube1=2lstfNArrIs
+}}</text>
+      <sha1>6ub23qqjhdfa9krmcwcj738yyio6lhd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ævisaga Júlíu</title>
+    <ns>0</ns>
+    <id>24512</id>
+    <revision>
+      <id>58205</id>
+      <parentid>58198</parentid>
+      <timestamp>2017-04-27T13:04:20Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>58205</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="198" sha1="8gfutjxq1qoh784vfxsou9yx33nv8vy" xml:space="preserve">{{Ymsarsogurmedtexta
+|setning=dsm2McS5EHs
+}}
+Táknari: Júlía G. Hreinsdóttir
+
+Íslensk þýðing: Vilborg Friðriksdóttir
+
+Textinn sést þegar ýtt er á cc neðst í hægra horni myndbandsins.</text>
+      <sha1>8gfutjxq1qoh784vfxsou9yx33nv8vy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æxli</title>
+    <ns>0</ns>
+    <id>19246</id>
+    <revision>
+      <id>46215</id>
+      <parentid>46182</parentid>
+      <timestamp>2015-06-03T09:53:18Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>46215</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="302" sha1="g2v3zxy23ifmi35j2inc86f96ehww8t" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aexli.PNG
+|texti=Stafað [[Æ]] [[X]] [[L]] [[I]]
+|myndunarstadur=Hlutlaust rými
+|handform=Æ handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heilsa og líkami
+|twohandforms=Já
+|munnhreyfing=æxli
+|tengsl1=Krabbamein
+|tengsl2=Veikindi
+|tengsl3=Aðgerð
+|youtube1=gZd9M84zWS4
+}}</text>
+      <sha1>g2v3zxy23ifmi35j2inc86f96ehww8t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æxlun</title>
+    <ns>0</ns>
+    <id>20387</id>
+    <revision>
+      <id>64066</id>
+      <parentid>50496</parentid>
+      <timestamp>2020-07-15T11:31:27Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64066</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="203" sha1="itxg2et22fdbqzsv9ccfkypbskurt5z" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aexlun.PNG
+|myndunarstadur=Óvirk hönd
+|handform=O handform
+|efnisflokkur=Heilsa og líkami
+|tengsl1=Eggjastokkar
+|tengsl2=Sáðfruma
+|tengsl3=Fóstur
+|youtube1=KiEj0K95nso
+}}</text>
+      <sha1>itxg2et22fdbqzsv9ccfkypbskurt5z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Æxlunarfæri</title>
+    <ns>0</ns>
+    <id>25422</id>
+    <revision>
+      <id>59860</id>
+      <timestamp>2018-05-02T15:05:26Z</timestamp>
+      <contributor>
+        <username>Sigrunarna1</username>
+        <id>426</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Aexlun.PNG |myndunarstadur=Óvirk hönd |handform=O handform |efnisflokkur=Líkami |munnhreyfing=æxlunarfæri |tengsl1=Typpi |tengsl2=Píka |tengsl3=Líkami |yo...</comment>
+      <origin>59860</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="204" sha1="9z8agyherxpzezr8cufonwnu8jm58fi" xml:space="preserve">{{Infoboxsign
+|Image1=Aexlun.PNG
+|myndunarstadur=Óvirk hönd
+|handform=O handform
+|efnisflokkur=Líkami
+|munnhreyfing=æxlunarfæri
+|tengsl1=Typpi
+|tengsl2=Píka
+|tengsl3=Líkami
+|youtube1=PqrOnwo8jLQ
+}}</text>
+      <sha1>9z8agyherxpzezr8cufonwnu8jm58fi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ææ</title>
+    <ns>0</ns>
+    <id>28814</id>
+    <revision>
+      <id>67351</id>
+      <timestamp>2021-07-22T13:58:57Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn aeae.PNG |myndunarstadur=Hlutlaust rými |handform=Æ handform |efnisflokkur=Samskipti |tengsl1=Meiða sig |tengsl2=Plástur |tengsl3=Gráta |Image2=Ouch! (...</comment>
+      <origin>67351</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="214" sha1="omigvwlqy3ksdqey2de17g0r5xz6x9d" xml:space="preserve">{{Infoboxsign
+|Image1=Takn aeae.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=Æ handform
+|efnisflokkur=Samskipti
+|tengsl1=Meiða sig
+|tengsl2=Plástur
+|tengsl3=Gráta
+|Image2=Ouch! (1).jpg
+|youtube1=bud2i4ZG27A
+}}</text>
+      <sha1>omigvwlqy3ksdqey2de17g0r5xz6x9d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>ÆÖ - táknalisti</title>
+    <ns>0</ns>
+    <id>25776</id>
+    <revision>
+      <id>62092</id>
+      <parentid>60627</parentid>
+      <timestamp>2019-12-09T11:18:09Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <minor/>
+      <comment>Arny færði [[Ísabella Ósk (táknalisti)]] á [[ÆÖ - táknalisti]] án þess að skilja eftir tilvísun</comment>
+      <origin>62092</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1293" sha1="amgnlumi8xlydesvb4oga6a9bm4c4ok" xml:space="preserve">{{Signlistplain
+|title=Nóvember 2018
+|sign=Mamma, Pabbi,ég, þú, við öll, við tvö, þið öll, Þið tvö, hæ, góðan daginn, borða, drekka, sofa, skóli, vinna, leika, flokkur:jól,
+}}
+{{Signlistplain
+|title=22.11 2018
+|sign=prinsessa, prins, dúkka, föt, bók, litabók, varalitur, pensill, sjónvarp, tölva, Ipad, hús, leika, bíll, elda, hundur, klósett, stóll, borð, fara, koma, hjól, út, inni, rúm, ísskápur, eldavél, hurð, þvottavél, skápur
+}}
+{{Signlistplain
+|title=22.11 2018
+|sign=klæða sig í, Klæða sig úr, lesa, Snyrtitaska, Maskari, Varalitur, Kinnalitur, Krem, Lengi, Mjög lengi, Þarf að, Viltu, vil ekki, Biðröð, gera, Gera, Hvað er að gerast, Hjálpa, Fá, Einmitt,
+}}
+{{Signlistplain
+|title=06.12 2018
+|sign=dýr, Sveit, bóndabær, hestur, köttur, hundur, Kind, Kýr, Fugl, Fiskur, Mús, Rotta, svín, refur, hreindýr, Fiðrildi, Fluga, api, ljón, fíll, gíraffi, önd, selur, hvalur, Slanga, Könguló, Sebrahestur,
+}}
+{{Signlistplain
+|title=14.01 2019
+|sign=sjálfur, bráðum, verða, klára, meira, hlaupabóla, veikur, ráða, ákveða, Sammála, Mikið, Mikilvægur, Mjög, Fyrir, Eftir, Gulur, Rauður, Grænn, Blár, Svartur, Hvítur, Fjólublár, Brúnn, Bleikur, Appelsínugulur,
+}}
+{{Signlistplain}}
+{{Signlistcategory}}</text>
+      <sha1>amgnlumi8xlydesvb4oga6a9bm4c4ok</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ö</title>
+    <ns>0</ns>
+    <id>309</id>
+    <revision>
+      <id>40917</id>
+      <parentid>33471</parentid>
+      <timestamp>2014-10-08T09:14:40Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>40917</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="248" sha1="g23lm54z7j9jqmvn977albt9idsciud" xml:space="preserve">{{Infoboxsign
+|Image1=StafrofOOO.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=O handform
+|ordflokkur=Bókstafur
+|efnisflokkur=Stafróf
+|tengsl1=Lesa
+|tengsl2=skrifa
+|tengsl3=Þ
+|Image2=Latin letter Ő ő.svg
+|youtube1=mcoqnnYFaOI
+}}
+{{stafrofnav}}</text>
+      <sha1>g23lm54z7j9jqmvn977albt9idsciud</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öðruvísi</title>
+    <ns>0</ns>
+    <id>641</id>
+    <revision>
+      <id>39892</id>
+      <parentid>33718</parentid>
+      <timestamp>2014-07-04T08:46:08Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>39892</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="347" sha1="rszh7pick7vixw91n865k6l1h2350yd" xml:space="preserve">{{Infoboxsign
+|Image1=Öðruvísi.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=Vísi handform
+|ordflokkur=Lýsingarorð
+|efnisflokkur=Almennt
+|munnhreyfing=BHP
+|tengsl1=Eins
+|tengsl2=Gjörólíkur
+|tengsl3=Misjafn
+|youtube1=TyiEd4rVsSs
+|name={{PAGENAME}}           &lt;!--- Þarf ekki að breyta. Kemur sjálfkrafa frá titli síðu--&gt;
+|samheiti=
+}}</text>
+      <sha1>rszh7pick7vixw91n865k6l1h2350yd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öfgar</title>
+    <ns>0</ns>
+    <id>30374</id>
+    <revision>
+      <id>69821</id>
+      <parentid>69621</parentid>
+      <timestamp>2022-07-12T15:23:58Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>69821</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="248" sha1="7wrb6277994905nkrh1u799flciwgk6" xml:space="preserve">{{Infoboxsign
+|Image1=Ofgar.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=5 handform
+|efnisflokkur=Samfélag
+|tengsl1=Feminismi
+|tengsl2=Jafnrétti
+|tengsl3=Óraunverulegur
+|youtube1=Irc_H2elrBI
+|youtube4=Uq7nk-qHW0U
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>7wrb6277994905nkrh1u799flciwgk6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öflugur</title>
+    <ns>0</ns>
+    <id>24366</id>
+    <revision>
+      <id>64174</id>
+      <parentid>57886</parentid>
+      <timestamp>2020-07-21T13:48:35Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64174</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="213" sha1="enkhcgiwsfsphmtcrztg6re739jfiah" xml:space="preserve">{{Infoboxsign
+|Image1=Oflugur.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=A handform lokað
+|efnisflokkur=Eiginleikar
+|munnhreyfing=brr
+|tengsl1=Kraftur
+|tengsl2=Sterkur
+|tengsl3=Styrkur
+|youtube1=U5e1FIUH7RI
+}}</text>
+      <sha1>enkhcgiwsfsphmtcrztg6re739jfiah</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öfugt</title>
+    <ns>0</ns>
+    <id>12722</id>
+    <redirect title="Öfugur" />
+    <revision>
+      <id>33741</id>
+      <timestamp>2013-12-17T13:53:48Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Arny færði [[Öfugt]] á [[Öfugur]]</comment>
+      <origin>33741</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" sha1="b5fk8b5j2a23r4tbplu11li1la9sn22" xml:space="preserve">#tilvísun [[Öfugur]]</text>
+      <sha1>b5fk8b5j2a23r4tbplu11li1la9sn22</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öfugur</title>
+    <ns>0</ns>
+    <id>11602</id>
+    <revision>
+      <id>64173</id>
+      <parentid>33740</parentid>
+      <timestamp>2020-07-21T13:44:18Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="217" sha1="381irpenwy0csr2jgp18lqq96trwiw5" xml:space="preserve">{{Infoboxsign
+|Image1=Ofugt.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=A handform lokað
+|ordflokkur=Lýsingarorð
+|efnisflokkur=Almennt
+|munnhreyfing=öfugt
+|tengsl1=Rétt
+|tengsl2=Tilbaka
+|youtube1=C6l4KVJ5Mr0
+}}</text>
+      <sha1>381irpenwy0csr2jgp18lqq96trwiw5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öfund</title>
+    <ns>0</ns>
+    <id>661</id>
+    <revision>
+      <id>47521</id>
+      <parentid>30072</parentid>
+      <timestamp>2015-10-22T12:03:20Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>47521</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="428" sha1="m394d6debs00muvhi60axtz00suflrb" xml:space="preserve">{{Infoboxsign
+|Image1=Takn ofund.PNG 
+|myndunarstadur=Óvirk hönd
+|handform=A handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Tilfinningar  
+|munnhreyfing=Fff
+|tengsl1=Frekur  
+|tengsl2=Tilfinning
+|tengsl3=Afbrýðisamur
+|Image2=Giusto Le Court Zawisc.jpg
+|youtube1=mi82PB6F1MY   
+|taknmal=&lt;!--- Setning á táknmáli--&gt;
+|name={{PAGENAME}}           &lt;!--- Þarf ekki að breyta. Kemur sjálfkrafa frá titli síðu--&gt;
+|samheiti=
+}}</text>
+      <sha1>m394d6debs00muvhi60axtz00suflrb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öfunda</title>
+    <ns>0</ns>
+    <id>10968</id>
+    <revision>
+      <id>47522</id>
+      <parentid>28528</parentid>
+      <timestamp>2015-10-22T12:03:40Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>47522</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="245" sha1="sbbrm45hf9wf3begblkczgswiahorzd" xml:space="preserve">{{Infoboxsign
+|Image1=Ofunda.PNG
+|myndunarstadur=Óvirk hönd
+|handform=A handform
+|ordflokkur=Sagnorð
+|efnisflokkur=Almennt
+|tengsl1=Öfund
+|tengsl2=Öfundsjúkur
+|tengsl3=Afbrýðisamur
+|Image2=Angelo Bronzino 003.jpg
+|youtube1=V-u1s6nLW-I
+}}</text>
+      <sha1>sbbrm45hf9wf3begblkczgswiahorzd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öfundsjúkur</title>
+    <ns>0</ns>
+    <id>4051</id>
+    <revision>
+      <id>25177</id>
+      <parentid>25175</parentid>
+      <timestamp>2012-11-22T09:25:44Z</timestamp>
+      <contributor>
+        <username>Svava</username>
+        <id>23</id>
+      </contributor>
+      <origin>25177</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="442" sha1="0s4vucveya71pk4lkp7pkrm54zdomxj" xml:space="preserve">{{Infoboxsign
+|Image1=Ofundsjukur.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=5 handform
+|ordflokkur=Lýsingarorð
+|efnisflokkur=Tilfinningar
+|twohandforms=Já
+|munnhreyfing=brrr
+|tengsl1=Afbrýðisamur
+|tengsl2=Geta ekki
+|tengsl3=Erfitt
+|Image2=Angelo Bronzino 003.jpg
+|youtube1=aqUYXigEIG0
+|youtube2=bL0e7wCk4BY
+|taknmal=hann, lottó, vinna, vinna, vinna, ég, öfundsjúkur
+|islenska=Hann vinnur og vinnur í lottó ég er öfundsjúk
+}}</text>
+      <sha1>0s4vucveya71pk4lkp7pkrm54zdomxj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ögri</title>
+    <ns>0</ns>
+    <id>4124</id>
+    <revision>
+      <id>54939</id>
+      <parentid>26427</parentid>
+      <timestamp>2016-05-12T14:05:40Z</timestamp>
+      <contributor>
+        <username>Sara</username>
+        <id>389</id>
+      </contributor>
+      <origin>54939</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="253" sha1="b0cbn7x5fal664nfiuy613hn8i1miso" xml:space="preserve">{{Infoboxsign
+|Image1=Ögri.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=O handform lokað
+|ordflokkur=Nafnorð
+|efnisflokkur=Íþróttir
+|efnisflokkur2=Sérnöfn
+|munnhreyfing=Ögri
+|tengsl1=Handbolti
+|tengsl2=Fh
+|tengsl3=Fram
+|youtube1=5fNBGYzxzf4
+}}</text>
+      <sha1>b0cbn7x5fal664nfiuy613hn8i1miso</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ökkli</title>
+    <ns>0</ns>
+    <id>19248</id>
+    <revision>
+      <id>46184</id>
+      <timestamp>2015-06-02T15:45:58Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn okkli.PNG |myndunarstadur=Hlutlaust rými |handform=B handform |ordflokkur=Nafnorð |efnisflokkur=Heilsa og líkami |efnisflokkur2=Líkami |tengsl1=Fótur |...</comment>
+      <origin>46184</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="264" sha1="87dixdcl0tqawclxoafrpyohl6ak6ys" xml:space="preserve">{{Infoboxsign
+|Image1=Takn okkli.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heilsa og líkami
+|efnisflokkur2=Líkami
+|tengsl1=Fótur
+|tengsl2=Hné
+|tengsl3=Rist
+|Image2=Ankle highlighted.png
+|youtube1=lFKbK0V4KB4
+}}</text>
+      <sha1>87dixdcl0tqawclxoafrpyohl6ak6ys</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ökumaður</title>
+    <ns>0</ns>
+    <id>30565</id>
+    <revision>
+      <id>70072</id>
+      <parentid>69893</parentid>
+      <timestamp>2022-07-26T11:46:43Z</timestamp>
+      <contributor>
+        <username>Jonakristin</username>
+        <id>490</id>
+      </contributor>
+      <origin>70072</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="311" sha1="rm9bjrpmak4318jzihdgel94yzui2k8" xml:space="preserve">{{Infoboxsign
+|Image1=Takn okumadur.PNG
+|texti=Táknin [[keyra|KEYRA]] og [[stjóri|STJÓRI]] sett saman.
+|myndunarstadur=Hlutlaust rými
+|handform=A handform lokað
+|efnisflokkur=Farartæki
+|efnisflokkur2=Almennt
+|tengsl1=Bíll
+|tengsl2=Umferð
+|tengsl3=Kappakstur
+|Image2=Okumadur.jpg
+|youtube1=BCzPQHr6l8c
+}}</text>
+      <sha1>rm9bjrpmak4318jzihdgel94yzui2k8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ökuskírteini</title>
+    <ns>0</ns>
+    <id>7067</id>
+    <revision>
+      <id>64172</id>
+      <parentid>39178</parentid>
+      <timestamp>2020-07-21T13:35:46Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64172</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="355" sha1="rd0trr612jq9onsq7s6jykkic3jfmqr" xml:space="preserve">{{Infoboxsign
+|Image1=Ökuskírteini.PNG
+|texti=Samsett tákn: [[bíll]]    [[skírteini]]
+|myndunarstadur=Hlutlaust rými
+|handform=A handform lokað
+|ordflokkur=Nafnorð
+|efnisflokkur=Samfélag
+|tengsl1=Bíll
+|tengsl2=Bílpróf
+|tengsl3=Umferðarreglur
+|Image2=Okuskirteini.png
+|youtube1=CDQnDbC3oi0
+|youtube4=ovGwdcU0StY
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>rd0trr612jq9onsq7s6jykkic3jfmqr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ökuskóli</title>
+    <ns>0</ns>
+    <id>17008</id>
+    <revision>
+      <id>42036</id>
+      <parentid>41785</parentid>
+      <timestamp>2014-12-01T14:59:08Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>42036</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="356" sha1="jo3a1h8sgszu536sfgxfavjx4xzpctz" xml:space="preserve">{{Infoboxsign
+|Image1=Okuskoli.PNG
+|texti=Táknin [[Keyra|KEYRA]] og [[Skóli|SKÓLI]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=A handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Menntun
+|tengsl1=Meirapróf
+|tengsl2=Ökuskírteini
+|tengsl3=Stöðvunarskylda
+|Image2=2009-03-11 Student driver SB on N Gregson St in Durham.jpg
+|youtube1=XUxE82bHeM4
+}}</text>
+      <sha1>jo3a1h8sgszu536sfgxfavjx4xzpctz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öld</title>
+    <ns>0</ns>
+    <id>8186</id>
+    <revision>
+      <id>55993</id>
+      <parentid>55992</parentid>
+      <timestamp>2016-07-04T14:09:08Z</timestamp>
+      <contributor>
+        <username>Svava</username>
+        <id>23</id>
+      </contributor>
+      <origin>55993</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="279" sha1="gqbjosd6l5bt6o1olpzixrab1ck2yde" xml:space="preserve">{{Infoboxsign
+|Image1=Old.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Tímatákn
+|tengsl1=Ár
+|tengsl2=Vika
+|tengsl3=Gamall
+|Image2=Ol.JPG
+|youtube1=ON6rH-XJesU
+|youtube4=F-4OE0NL4U0
+}}
+{{Annað tákn fyrir
+|youtube4=fzCfVtkJoyc
+}}</text>
+      <sha1>gqbjosd6l5bt6o1olpzixrab1ck2yde</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öldrunarlækningar</title>
+    <ns>0</ns>
+    <id>19250</id>
+    <revision>
+      <id>49618</id>
+      <parentid>46217</parentid>
+      <timestamp>2015-11-13T11:30:09Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>49618</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="365" sha1="t3pvfpfiwcuo8r08cnphbgc5koi3aue" xml:space="preserve">{{Infoboxsign
+|Image1=Takn ol.PNG
+|texti=Samsett úr táknunum [[gamall|GAMALL]] og [[lækna|LÆKNA]]
+|myndunarstadur=Höfuð
+|handform=Vísi handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heilsa og líkami
+|tengsl1=Gamall
+|tengsl2=Læknir
+|tengsl3=Dvalarheimili aldraðra
+|Image2=Dr. Danny Sands with his patient e-Patient Dave deBronkart.jpg
+|youtube1=9n9D06PJNWc
+}}</text>
+      <sha1>t3pvfpfiwcuo8r08cnphbgc5koi3aue</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öldungadeild</title>
+    <ns>0</ns>
+    <id>15600</id>
+    <revision>
+      <id>49622</id>
+      <parentid>39281</parentid>
+      <timestamp>2015-11-13T11:54:50Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>49622</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="371" sha1="komd08fvxf865gweykbdkpcrq8pmw8z" xml:space="preserve">{{Infoboxsign
+|Image1=Takn oldungadeild.PNG
+|texti=Táknin [[Gamall|GAMALL]] og [[Deild|DEILD]]  sett saman
+|myndunarstadur=Höfuð
+|handform=Vísi handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Skólatákn - framhaldsskóli
+|efnisflokkur2=stjórnmál
+|munnhreyfing=öldungadeild
+|tengsl1=Framhaldsskóli
+|tengsl2=Stjórnmál
+|Image2=Iowa Senate.JPG
+|youtube1=RQLJnjdTG-o
+}}</text>
+      <sha1>komd08fvxf865gweykbdkpcrq8pmw8z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öldungaráð</title>
+    <ns>0</ns>
+    <id>19252</id>
+    <revision>
+      <id>49619</id>
+      <parentid>46219</parentid>
+      <timestamp>2015-11-13T11:30:36Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>49619</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="299" sha1="sky6pddtvci189t84y96x1gejd4o9y3" xml:space="preserve">{{Infoboxsign
+|Image1=Takn rads.PNG
+|texti=Táknin [[Gamall|GAMALL]] og [[Ráð|RÁÐ]] sett saman
+|myndunarstadur=Höfuð
+|handform=Vísi handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Samfélag
+|tengsl1=Öldungur
+|tengsl2=Ráð
+|tengsl3=Ákveða
+|Image2=SAS first meeting.jpg
+|youtube1=NuN_D7gtRBU
+}}</text>
+      <sha1>sky6pddtvci189t84y96x1gejd4o9y3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öldungur</title>
+    <ns>0</ns>
+    <id>20337</id>
+    <revision>
+      <id>50430</id>
+      <timestamp>2016-01-12T12:23:27Z</timestamp>
+      <contributor>
+        <username>Sara</username>
+        <id>389</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn oldungur.PNG |myndunarstadur=Höfuð |handform=Vísi handform |efnisflokkur=Heimili og fjölskylda |munnhreyfing=Loft í kinn |tengsl1=Unglingur |tengsl2=Ba...</comment>
+      <origin>50430</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="284" sha1="6blr4ke4sivtdx2y5smbvgfbvr11lc9" xml:space="preserve">{{Infoboxsign
+|Image1=Takn oldungur.PNG
+|myndunarstadur=Höfuð
+|handform=Vísi handform
+|efnisflokkur=Heimili og fjölskylda
+|munnhreyfing=Loft í kinn
+|tengsl1=Unglingur
+|tengsl2=Barn
+|tengsl3=Ellilífeyrisþegi
+|Image2=Old-fashioned person (2836017672).jpg
+|youtube2=M5qnOQeZRbY
+}}</text>
+      <sha1>6blr4ke4sivtdx2y5smbvgfbvr11lc9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ölvunarakstur</title>
+    <ns>0</ns>
+    <id>7514</id>
+    <revision>
+      <id>20464</id>
+      <parentid>20449</parentid>
+      <timestamp>2012-05-29T15:59:05Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>20464</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="283" sha1="9v23fnhih5couj4d0bjybsenyqbrmxw" xml:space="preserve">{{Infoboxsign
+|Image1=Olvunarakstur-snap.png
+|texti=Táknin [[Drukkinn|DRUKKINN]] og [[Keyra|KEYRA]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=5 handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Athafnir
+|tengsl1=Fullur
+|tengsl2=Keyra
+|tengsl3=Árekstur
+|youtube1=TTl0t61ZDV0
+}}</text>
+      <sha1>9v23fnhih5couj4d0bjybsenyqbrmxw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ömurlegur</title>
+    <ns>0</ns>
+    <id>692</id>
+    <revision>
+      <id>65373</id>
+      <parentid>63291</parentid>
+      <timestamp>2020-11-20T09:54:59Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>65373</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="377" sha1="led6toilv4hxs5530g935v2n22w3ut7" xml:space="preserve">{{Infoboxsign
+|Image1=Takn omurlegur.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=1 handform
+|ordflokkur=Lýsingarorð
+|efnisflokkur=Tilfinningar
+|tengsl1=Ógeðslegur
+|tengsl2=Lélegur
+|tengsl3=Frábær
+|youtube1=uBOHlenJ2mU
+|youtube4=jnY2tJpsGPI
+|alternativesigntag=Samheiti
+|name={{PAGENAME}}           &lt;!--- Þarf ekki að breyta. Kemur sjálfkrafa frá titli síðu--&gt;
+}}</text>
+      <sha1>led6toilv4hxs5530g935v2n22w3ut7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Önd</title>
+    <ns>0</ns>
+    <id>3169</id>
+    <revision>
+      <id>63265</id>
+      <parentid>49620</parentid>
+      <timestamp>2020-04-29T08:25:42Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>63265</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="276" sha1="ek6aein8r9ga167bzhxsuh6nowrd3b2" xml:space="preserve">{{Infoboxsign
+|Image1=Takn ond.PNG
+|texti=Handformið opnast og lokast
+|myndunarstadur=Höfuð
+|handform=B handform hálf lokað
+|ordflokkur=Nafnorð
+|efnisflokkur=Fuglar
+|twohandforms=Já
+|tengsl1=Fugl
+|tengsl2=Synda
+|tengsl3=Svanur
+|Image2=Duck3.jpg
+|youtube1=X-s93ZcfR9E
+}}</text>
+      <sha1>ek6aein8r9ga167bzhxsuh6nowrd3b2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öndun</title>
+    <ns>0</ns>
+    <id>2254</id>
+    <revision>
+      <id>59862</id>
+      <parentid>59861</parentid>
+      <timestamp>2018-05-02T15:10:33Z</timestamp>
+      <contributor>
+        <username>Sigrunarna1</username>
+        <id>426</id>
+      </contributor>
+      <origin>59862</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="895" sha1="39fba6k2vzsvzb2scnpz9y5y93nmwmq" xml:space="preserve">{{Infoboxsign
+|Image1=Öndun.jpg          &lt;!--- t.d. sign_epli.jpg--&gt;
+|texti=&lt;!--- lýsið hvernig táknið er myndað--&gt;
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heilsa og líkami               &lt;!--- Flokkur  --&gt;
+|tengsl1=Öndunarvegur    &lt;!--- Önnur svipuð eða tengd tákn--&gt;
+|tengsl2=Lungu
+|tengsl3=Súrefni
+|Image2=Flag of the Red Cross.svg
+|youtube1=Cm6GC1foy7c           &lt;!--- Kóði YouTube myndbands fyrir táknið--&gt;
+|utskyring=&lt;!--- Útskýring á notkun--&gt;
+|youtube2=&lt;!--- Kóði YouTube myndbands fyrir táknið í setningu--&gt;
+|taknmal=&lt;!--- Setning á táknmáli--&gt;
+|islenska=&lt;!--- Setning á táknmáli--&gt;
+|youtube4=1rTU-rsmARY
+|alternativesigntag=Samheiti
+|name={{PAGENAME}}           &lt;!--- Þarf ekki að breyta. Kemur sjálfkrafa frá titli síðu--&gt;
+}}
+{{Annað tákn fyrir
+|youtube4=gNO63BjuRL4
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>39fba6k2vzsvzb2scnpz9y5y93nmwmq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öndunarfæri</title>
+    <ns>0</ns>
+    <id>25424</id>
+    <revision>
+      <id>62820</id>
+      <parentid>59864</parentid>
+      <timestamp>2020-03-31T10:37:33Z</timestamp>
+      <contributor>
+        <username>Annadagmar</username>
+        <id>68</id>
+      </contributor>
+      <origin>62820</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="296" sha1="7a118ppim4x267xyoxkmqxfpkhld9to" xml:space="preserve">{{Infoboxsign
+|Image1=Ondunarf.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=5 handform
+|efnisflokkur=Líkami
+|munnhreyfing=öndunlíffæri
+|tengsl1=Öndunarmæling
+|tengsl2=Astmi
+|tengsl3=Lungu
+|Image2=Lung_(PSF).png
+|youtube1=8ElK6RkVif0
+|youtube4=https://www.youtube.com/watch?v=5XyZiX-UWDI
+}}</text>
+      <sha1>7a118ppim4x267xyoxkmqxfpkhld9to</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öndunarmæling</title>
+    <ns>0</ns>
+    <id>7707</id>
+    <revision>
+      <id>48928</id>
+      <parentid>20728</parentid>
+      <timestamp>2015-11-11T08:29:44Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>48928</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="414" sha1="2qh63gxgxvvlkq3ru3wwedg4ktfdorv" xml:space="preserve">{{Infoboxsign
+|Image1=Ondunarmaeling.JPG
+|texti=Samsett tákn úr [[Anda]] og [[Mæling]]
+|myndunarstadur=Líkami
+|handform=5 handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heilsa og líkami
+|tengsl1=Lungu
+|tengsl2=Lasinn
+|tengsl3=Öndunarvegur
+|Image2=EMPHYSEMA PATIENT MR. GEORGE LEWIS USES A LUNG FUNCTION TESTING MACHINE TO MEASURE HIS BREATHING CAPACITY. MR. LEWIS... - NARA - 545485.tif
+|youtube1=jOHAwqpIXPw
+}}</text>
+      <sha1>2qh63gxgxvvlkq3ru3wwedg4ktfdorv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öndunarvegur</title>
+    <ns>0</ns>
+    <id>2257</id>
+    <revision>
+      <id>20549</id>
+      <parentid>11861</parentid>
+      <timestamp>2012-06-01T10:15:07Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>20549</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="837" sha1="d78tmy276mkcc39mg543s854hf16z6o" xml:space="preserve">{{Infoboxsign
+|Image1=Öndunarvegur.jpg          &lt;!--- t.d. sign_epli.jpg--&gt;
+|texti=Táknið byrjar á B handformi og endar á C handformi           &lt;!--- lýsið hvernig táknið er myndað--&gt;
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heilsa og líkami               &lt;!--- Flokkur  --&gt;
+|tengsl1=Öndun    &lt;!--- Önnur svipuð eða tengd tákn--&gt;
+|tengsl2=Anda
+|tengsl3=Lungu
+|Image2=Respirasjonsorgan.png
+|youtube1=ABio4Qjmuvs           &lt;!--- Kóði YouTube myndbands fyrir táknið--&gt;
+|utskyring=&lt;!--- Útskýring á notkun--&gt;
+|youtube2=&lt;!--- Kóði YouTube myndbands fyrir táknið í setningu--&gt;
+|taknmal=&lt;!--- Setning á táknmáli--&gt;
+|islenska=&lt;!--- Setning á táknmáli--&gt;
+|name={{PAGENAME}}           &lt;!--- Þarf ekki að breyta. Kemur sjálfkrafa frá titli síðu--&gt;
+|samheiti=
+}}</text>
+      <sha1>d78tmy276mkcc39mg543s854hf16z6o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öndunarvél</title>
+    <ns>0</ns>
+    <id>20204</id>
+    <revision>
+      <id>62810</id>
+      <parentid>62785</parentid>
+      <timestamp>2020-03-31T09:09:37Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>62810</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="439" sha1="cudmypagjx25vhofeqr5thksw57p1un" xml:space="preserve">{{Infoboxsign
+|Image1=Takn ondunarvel.PNG
+|texti=Táknin [[Anda|ANDA]] og [[Vél|VÉL]] sett saman
+|myndunarstadur=Líkami
+|handform=B handform
+|efnisflokkur=Heilsa og líkami
+|efnisflokkur2=COVID-19
+|tengsl1=Lungu
+|tengsl2=Gjörgæsludeild
+|tengsl3=Lífsgæði
+|Image2=Respirator icu.JPG
+|youtube1=_VcZUsbniec
+|youtube4=5Yl2ep-d4KQ
+|alternativesigntag=Samheiti
+}}
+{{Annað tákn fyrir
+|youtube4=e7ocSQDOMzk
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>cudmypagjx25vhofeqr5thksw57p1un</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öndunaræfing</title>
+    <ns>0</ns>
+    <id>20389</id>
+    <revision>
+      <id>50498</id>
+      <timestamp>2016-01-14T14:22:46Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn ondunaraefing.PNG |texti=Táknin [[Anda|ANDA]] og [[Æfing|ÆFING]] sett saman |myndunarstadur=Líkami |handform=B handform |efnisflokkur=Heilsa og líkami ...</comment>
+      <origin>50498</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="262" sha1="rb15p6c5qlvhfq6e5t73k0552jypmyy" xml:space="preserve">{{Infoboxsign
+|Image1=Takn ondunaraefing.PNG
+|texti=Táknin [[Anda|ANDA]] og [[Æfing|ÆFING]] sett saman
+|myndunarstadur=Líkami
+|handform=B handform
+|efnisflokkur=Heilsa og líkami
+|tengsl1=Fæðing
+|tengsl2=Jóga
+|tengsl3=Líkamsrækt
+|youtube1=Vg96C4bTXzs
+}}</text>
+      <sha1>rb15p6c5qlvhfq6e5t73k0552jypmyy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öngull</title>
+    <ns>0</ns>
+    <id>3131</id>
+    <revision>
+      <id>11862</id>
+      <parentid>8228</parentid>
+      <timestamp>2012-02-16T13:35:04Z</timestamp>
+      <contributor>
+        <username>Svava</username>
+        <id>23</id>
+      </contributor>
+      <origin>11862</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="257" sha1="m1shes0lv57duqqhjlvk6cseh75ebna" xml:space="preserve">{{Infoboxsign
+|Image1=Takn ongull.PNG
+|texti=Handformið bognar
+|myndunarstadur=Hlutlaust rými
+|handform=Vísi handform
+|ordflokkur=Nafnorð
+|twohandforms=Já
+|tengsl1=Fiskur
+|tengsl2=Sporður
+|tengsl3=Veiða
+|Image2=Fish hooks.jpg
+|youtube1=8eE6DU3nNFI
+}}</text>
+      <sha1>m1shes0lv57duqqhjlvk6cseh75ebna</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Önn</title>
+    <ns>0</ns>
+    <id>21658</id>
+    <revision>
+      <id>59911</id>
+      <parentid>59910</parentid>
+      <timestamp>2018-05-03T14:19:22Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>59911</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="348" sha1="gzmxidn31cnd5bjfujcmd48w1ehqz1m" xml:space="preserve">{{Infoboxsign
+|Image1=Onn.PNG
+|texti=Stafað
+|myndunarstadur=Hlutlaust rými
+|handform=O handform
+|efnisflokkur=Tímatákn
+|efnisflokkur2=Menntun
+|tengsl1=Vika
+|tengsl2=Vorönn
+|tengsl3=Haustönn
+|Image2=Braille_calendar_cs.jpg
+|youtube1=hHeMfOZ34-0
+|youtube2=xi023KLQw68
+|taknmal=Síðastur, Önn, Skóli,
+|islenska=Síðustu önn í skólanum.
+}}</text>
+      <sha1>gzmxidn31cnd5bjfujcmd48w1ehqz1m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Önnur hæð</title>
+    <ns>0</ns>
+    <id>9038</id>
+    <revision>
+      <id>34757</id>
+      <parentid>33742</parentid>
+      <timestamp>2014-02-04T15:13:45Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>34757</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="221" sha1="8ylyxbdd1ybflv9oofvr2flii270pjn" xml:space="preserve">{{Infoboxsign
+|Image1=Onnur haed.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=2 handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Húsnæði
+|tengsl1=Fyrsta hæð
+|tengsl2=Fjórða hæð
+|tengsl3=Blokk
+|youtube1=I_eJhGeJkvs
+}}</text>
+      <sha1>8ylyxbdd1ybflv9oofvr2flii270pjn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Önnur persóna</title>
+    <ns>0</ns>
+    <id>12697</id>
+    <revision>
+      <id>47523</id>
+      <parentid>34056</parentid>
+      <timestamp>2015-10-22T12:04:03Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>47523</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="402" sha1="fyr8zwr4jl88478z8s09kaixukud4n1" xml:space="preserve">{{Infoboxsign
+|Image1=2. persona.JPG
+|texti=Táknin [[2|2]] og [[persóna|PERSÓNA]] sett saman           &lt;!--- lýsið hvernig táknið er myndað--&gt;
+|myndunarstadur=Óvirk hönd
+|handform=Vísi handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Skólatákn - framhaldsskóli
+|twohandforms=Já
+|tengsl1=Saga
+|tengsl2=Aðalpersóna
+|tengsl3=Aukapersóna
+|Image2=Emblem-person-blue.svg
+|youtube1=yGSqejRPGtg
+}}</text>
+      <sha1>fyr8zwr4jl88478z8s09kaixukud4n1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Önnur verðlaun</title>
+    <ns>0</ns>
+    <id>21794</id>
+    <revision>
+      <id>52846</id>
+      <parentid>52845</parentid>
+      <timestamp>2016-03-21T15:21:32Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>52846</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="687" sha1="ghhttv4pfd6y3971u4csuwj7ludc076" xml:space="preserve">{{Infoboxsign
+|Image1=Onnurverdlaun.PNG
+|texti=Táknin [[tveir|TVEIR]] og [[sæti|SÆTI]]
+|myndunarstadur=Hlutlaust rými
+|handform=2 handform
+|efnisflokkur=Íþróttir
+|tengsl1=Silfur
+|tengsl2=Vinningur
+|tengsl3=Keppni
+|Image2=Silver Medal 4th IJSO.JPG
+|youtube1=W6S9YtZnh7o
+|youtube4=z6WITRexdus
+|explain=Hér er notað táknið [[silfur|SILFUR]] og [[verðlaunapeningur|VERÐLAUNAPENINGUR]]
+|alternativesigntag=Samheiti
+}}
+{{Annað tákn fyrir
+|youtube4=rWV7pg1f17U
+|explain=Hér er annað tákn fyrir [[silfur|SILFUR]] ásamt tákninu [[verðlaunapeningur|VERÐLAUNAPENINGUR]]
+|alternativesigntag=Samheiti
+}}
+{{Annað tákn fyrir
+|youtube4=8lUschQRANw
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>ghhttv4pfd6y3971u4csuwj7ludc076</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ör</title>
+    <ns>0</ns>
+    <id>23233</id>
+    <revision>
+      <id>55705</id>
+      <timestamp>2016-06-21T14:49:57Z</timestamp>
+      <contributor>
+        <username>Kristbjörg</username>
+        <id>250</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Or.PNG |texti=Táknari líkir eftir því þegar ör er skotið af boga |myndunarstadur=Hlutlaust rými |handform=O handform lokað |efnisflokkur=Áhugamál |efn...</comment>
+      <origin>55705</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="339" sha1="s957qkvmp1lv6m145lbrbul908pnw9p" xml:space="preserve">{{Infoboxsign
+|Image1=Or.PNG
+|texti=Táknari líkir eftir því þegar ör er skotið af boga
+|myndunarstadur=Hlutlaust rými
+|handform=O handform lokað
+|efnisflokkur=Áhugamál
+|efnisflokkur2=Leikföng
+|twohandforms=Já
+|munnhreyfing=Ör
+|tengsl1=Bogi
+|tengsl2=Hrói höttur
+|tengsl3=Skotfimi
+|Image2=Or mynd.JPG
+|youtube1=Cnlxt8EenXI
+}}</text>
+      <sha1>s957qkvmp1lv6m145lbrbul908pnw9p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öráreitni</title>
+    <ns>0</ns>
+    <id>26582</id>
+    <revision>
+      <id>62274</id>
+      <parentid>62233</parentid>
+      <timestamp>2020-01-06T14:28:08Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>62274</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="194" sha1="krdklkunipr4r4bur27dwb1xdsy71zf" xml:space="preserve">{{Infoboxsign
+|Image1=Orareiti.PNG
+|myndunarstadur=Höfuð
+|handform=1 handform
+|efnisflokkur=Hinsegin
+|tengsl1=Áreiti
+|tengsl2=Kynferðisbrot
+|tengsl3=Hatursorðræða
+|youtube1=Niygji1PLic
+}}</text>
+      <sha1>krdklkunipr4r4bur27dwb1xdsy71zf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örbylgjuofn</title>
+    <ns>0</ns>
+    <id>3728</id>
+    <revision>
+      <id>63290</id>
+      <parentid>14378</parentid>
+      <timestamp>2020-04-30T13:50:09Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>63290</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="286" sha1="6g7pi9zg1tnyh05djass95gn80gffgj" xml:space="preserve">{{Infoboxsign
+|Image1=Örbylgjuofn.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Eldhús og eldamennska
+|tengsl1=Ísskápur
+|tengsl2=Bakaraofn
+|Image2=Microwave.jpg
+|youtube1=0C_P6J9MIy0
+|youtube4=wShGNIJY9EM
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>6g7pi9zg1tnyh05djass95gn80gffgj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örðugleiki</title>
+    <ns>0</ns>
+    <id>30378</id>
+    <revision>
+      <id>69626</id>
+      <timestamp>2022-06-02T14:22:52Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Ordugleiki.PNG |texti=Hér er notað sama tákn og fyrir [[erfitt|ERFITT]] |myndunarstadur=Hlutlaust rými |handform=Æ handform |efnisflokkur=Eiginleikar |tengs...</comment>
+      <origin>69626</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="273" sha1="qewrre368wyarwzd3a9gvo1hoftfhik" xml:space="preserve">{{Infoboxsign
+|Image1=Ordugleiki.PNG
+|texti=Hér er notað sama tákn og fyrir [[erfitt|ERFITT]]
+|myndunarstadur=Hlutlaust rými
+|handform=Æ handform
+|efnisflokkur=Eiginleikar
+|tengsl1=Erfitt
+|tengsl2=Ómögulegur
+|tengsl3=Hindrun
+|youtube1=https://youtu.be/tFVjCT06FSs
+}}</text>
+      <sha1>qewrre368wyarwzd3a9gvo1hoftfhik</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örebro</title>
+    <ns>0</ns>
+    <id>8036</id>
+    <revision>
+      <id>64834</id>
+      <parentid>64833</parentid>
+      <timestamp>2020-10-26T13:29:56Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>64834</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="423" sha1="0xmqxb4h6ucgprl58j1ehygzvur2tmo" xml:space="preserve">{{Infoboxsign
+|Image1=Orebro.JPG
+|texti=Handformið lokast í A handform
+|myndunarstadur=Líkami
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Borgir og staðir
+|efnisflokkur2=Örnefni
+|twohandforms=Já
+|tengsl1=Svíþjóð
+|tengsl2=Umeå
+|tengsl3=Malmö
+|Image2=Örebro in Sweden.png
+|youtube1=b175ZB4PlX8
+|youtube4=jiaaPxXV3fc
+|explain=Staðsetning táknsins má líka vera svona
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>0xmqxb4h6ucgprl58j1ehygzvur2tmo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örlítið</title>
+    <ns>0</ns>
+    <id>12299</id>
+    <redirect title="Örlítill" />
+    <revision>
+      <id>30973</id>
+      <timestamp>2013-08-20T13:22:57Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Arny færði [[Örlítið]] á [[Örlítill]]</comment>
+      <origin>30973</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25" sha1="l2x4l6hhcui5sv2093zc88ovbgik138" xml:space="preserve">#tilvísun [[Örlítill]]</text>
+      <sha1>l2x4l6hhcui5sv2093zc88ovbgik138</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örlítill</title>
+    <ns>0</ns>
+    <id>4057</id>
+    <revision>
+      <id>49621</id>
+      <parentid>33686</parentid>
+      <timestamp>2015-11-13T11:30:42Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>49621</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="246" sha1="ql3b783g8ms8jfsvpz6rodn1kkvwsnu" xml:space="preserve">{{Infoboxsign
+|Image1=Orlitid.PNG
+|texti=Mælieining í matargerð
+|myndunarstadur=Höfuð
+|handform=1 handform
+|ordflokkur=Lýsingarorð
+|efnisflokkur=Matur
+|munnhreyfing=bd
+|tengsl1=Salt
+|tengsl2=Krydd
+|tengsl3=Teskeið
+|youtube1=OpnEsI1JtZg
+}}</text>
+      <sha1>ql3b783g8ms8jfsvpz6rodn1kkvwsnu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örlyndi</title>
+    <ns>0</ns>
+    <id>30381</id>
+    <revision>
+      <id>69629</id>
+      <timestamp>2022-06-02T14:24:55Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Orlyndi.PNG |myndunarstadur=Hlutlaust rými |handform=2 handform |efnisflokkur=Sjúkdómar |tengsl1=Hverflyndi |tengsl2=Geðhvörf |tengsl3=Æstur |youtube1=http...</comment>
+      <origin>69629</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="210" sha1="a07a0xym88v4vvraghvb1zn26v3lvyq" xml:space="preserve">{{Infoboxsign
+|Image1=Orlyndi.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=2 handform
+|efnisflokkur=Sjúkdómar
+|tengsl1=Hverflyndi
+|tengsl2=Geðhvörf
+|tengsl3=Æstur
+|youtube1=https://youtu.be/wq5Qc4-EoIQ
+}}</text>
+      <sha1>a07a0xym88v4vvraghvb1zn26v3lvyq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örmagna</title>
+    <ns>0</ns>
+    <id>21791</id>
+    <revision>
+      <id>64171</id>
+      <parentid>52840</parentid>
+      <timestamp>2020-07-21T13:16:42Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64171</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="286" sha1="t7x3a8j5jakjiv3d37u84io0n1mlhwe" xml:space="preserve">{{Infoboxsign
+|Image1=Ormagna.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=A handform lokað
+|efnisflokkur=Tilfinningar
+|tengsl1=Þreyttur
+|tengsl2=Uppgefinn
+|tengsl3=Gefast upp
+|Image2=2009 Taipei 101 Run Up Thomas Dold tired down after finishing his race.jpg
+|youtube1=NjRlAH8xi6E
+}}</text>
+      <sha1>t7x3a8j5jakjiv3d37u84io0n1mlhwe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örn</title>
+    <ns>0</ns>
+    <id>22741</id>
+    <revision>
+      <id>54693</id>
+      <timestamp>2016-05-09T13:45:24Z</timestamp>
+      <contributor>
+        <username>Eyglo</username>
+        <id>223</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn orn.PNG |texti=Próform fyrir gogginn á erni |myndunarstadur=Höfuð |handform=Vísi handform bogið |ordflokkur=Nafnorð |efnisflokkur=Fuglar |munnhreyfin...</comment>
+      <origin>54693</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="303" sha1="qf0xuow6j5gagzxm2wijwdibfoco0zz" xml:space="preserve">{{Infoboxsign
+|Image1=Takn orn.PNG
+|texti=Próform fyrir gogginn á erni
+|myndunarstadur=Höfuð
+|handform=Vísi handform bogið
+|ordflokkur=Nafnorð
+|efnisflokkur=Fuglar
+|munnhreyfing=örn
+|tengsl1=Rándýr
+|tengsl2=Fugl
+|tengsl3=Hreiður
+|Image2=Golden Eagle in flight - 3.jpg
+|youtube1=DBgGPDeZr7g
+}}</text>
+      <sha1>qf0xuow6j5gagzxm2wijwdibfoco0zz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 1</title>
+    <ns>0</ns>
+    <id>3127</id>
+    <revision>
+      <id>10744</id>
+      <parentid>9436</parentid>
+      <timestamp>2012-02-07T15:57:22Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>Verndaði „[[Örnámskeið 1]]“ ([edit=sysop] (ótiltekinn) [move=sysop] (ótiltekinn))</comment>
+      <origin>10744</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="889" sha1="2caab6lz8wshvzpf8kz45a0jnsqs56r" xml:space="preserve">{{Testthumbnail
+|mynd=Samskipti.jpg
+|taknid=Örnámskeið 1, lota 1 - Samskipti
+}} {{Testthumbnail
+|mynd=a.jpg
+|taknid=Örnámskeið 1, lota 2 - Fingrastafróf
+}}{{Testthumbnail
+|mynd=Commonsentences.JPG
+|taknid=Örnámskeið 1, lota 3 - Algengar setningar
+}}{{Testthumbnail
+|mynd=Lips Silhouette.svg
+|taknid=Örnámskeið 1, lota 4 - Munnhreyfingar
+}}{{Testthumbnail
+|mynd=Numbers.JPG
+|taknid=Örnámskeið 1, lota 5 - Tölur
+}}{{Testthumbnail
+|mynd=Whattimeisit.JPG
+|taknid=Örnámskeið 1, lota 6 - Klukkan
+}}{{Testthumbnail
+|mynd=Timescale.png
+|taknid=Örnámskeið 1, lota 7 - Tímalína A
+}}{{Testthumbnail
+|mynd=Ordarod.JPG
+|taknid=Örnámskeið 1, lota 8 - Orðaröð
+}}{{Testthumbnail
+|mynd=Pointing.JPG
+|taknid=Örnámskeið 1, lota 9 - Persónubendingar
+}}{{Testthumbnail
+|mynd=Hvadheitirdu.jpg
+|taknid=Örnámskeið 1, lota 10 - HV Spurnarfornöfn
+}}
+&lt;div class="clboth"&gt;&lt;/div&gt;</text>
+      <sha1>2caab6lz8wshvzpf8kz45a0jnsqs56r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 1 - Lota 5</title>
+    <ns>0</ns>
+    <id>3123</id>
+    <redirect title="Örnámskeið 1, lota 10 - HV Spurnarfornöfn" />
+    <revision>
+      <id>8202</id>
+      <timestamp>2012-01-23T15:09:56Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <comment>[[Örnámskeið 1 - Lota 5]] færð á [[Örnámskeið 1, lota 10 - HV Spurnarfornöfn]]</comment>
+      <origin>8202</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="60" sha1="4dry4l7a3ljr5dq2zvyen0q58jq42s8" xml:space="preserve">#tilvísun [[Örnámskeið 1, lota 10 - HV Spurnarfornöfn]]</text>
+      <sha1>4dry4l7a3ljr5dq2zvyen0q58jq42s8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 1 - Lota 7</title>
+    <ns>0</ns>
+    <id>3124</id>
+    <redirect title="Örnámskeið 1, lota 7 - Tímalína A" />
+    <revision>
+      <id>8208</id>
+      <timestamp>2012-01-23T15:15:35Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <comment>[[Örnámskeið 1 - Lota 7]] færð á [[Örnámskeið 1, lota 7 - Tímalína A]]</comment>
+      <origin>8208</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="53" sha1="fr6c39r3s7dayng5saharaolwj79g8b" xml:space="preserve">#tilvísun [[Örnámskeið 1, lota 7 - Tímalína A]]</text>
+      <sha1>fr6c39r3s7dayng5saharaolwj79g8b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 1, lota 1 - Samskipti</title>
+    <ns>0</ns>
+    <id>3119</id>
+    <revision>
+      <id>61324</id>
+      <parentid>61323</parentid>
+      <timestamp>2019-09-23T08:37:32Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>61324</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1050" sha1="0wq6nit7d92sornv8etjwjbyvbd6o2u" xml:space="preserve">{{Infoboxkennsla
+| name=Samskipti við heyrnarlausa
+| Image=Samskipti.jpg  
+| texti=Markmið: Að átta sig á mikilvægum atriðum í samskiptum við heyrnarlausa  og læra að kynna sig á táknmáli.          
+| video1=mpkk0PCskqE
+| video2=   
+| tema=Samskipti
+| efnisflokkur=Örnámskeið 1
+| tengsl1= 
+| tengsl2= 
+| tengsl3=  
+    
+}}
+
+
+*Í þessari fyrstu lotu er farið yfir helstu atriði samskipta heyrandi og heyrnarlausra. 
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+== Táknalistar og dæmi ==
+
+*[[Hæ]]
+
+*[[Döff]]
+
+*[[Heyrandi]]
+
+*[[Samskipti]]
+
+*[[Augnsamband]]
+
+*[[Táknmál]]
+
+*[[Tala táknmál]]
+
+*[[Takk]]
+
+
+== Tengt efni ==
+
+Kynntu þér einnig eftirfarandi greinar og kennsluefni. 
+
+*[[Hvað er táknmál?]]
+
+*[[Saga táknmála]]
+
+*[[Heilræði í samskiptum við heyrnarlausa]]
+
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingar þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Samskipti æfing 1]]
+
+
+Halda áfram: [[Örnámskeið 1, lota 2 - Fingrastafróf]]
+
+[[Flokkur:Örnámskeið 1]]</text>
+      <sha1>0wq6nit7d92sornv8etjwjbyvbd6o2u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 1, lota 10 - HV Spurnarfornöfn</title>
+    <ns>0</ns>
+    <id>2442</id>
+    <revision>
+      <id>34411</id>
+      <parentid>9858</parentid>
+      <timestamp>2014-01-21T09:42:38Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>34411</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="949" sha1="gqucm5p791w3sj7o690dpbo8wfd4li0" xml:space="preserve">{{Infoboxkennsla
+| name=Spurnarfornöfn
+| Image=Hvadheitirdu.jpg 
+| texti=Að læra spurnarfornöfn og stöðu þeirra í setningu ásamt því að æfa svipbrigði.       
+| video1=tHbkMicmjLM
+| video2=   
+| tema=[[:Flokkur:Spurningar|Spurningar]]
+| efnisflokkur=Örnámskeið 1
+| tengsl1=  
+| tengsl2= 
+| tengsl3=        
+}}
+*Í þessari lotu er farið yfir helstu spurnarfornöfn og notkun þeirra í táknmáli. 
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.
+
+== Táknalisti og dæmi ==
+*[[Hvað]]
+*[[Hver]]
+*[[Hvar]] 
+*[[Hvernig]]
+*[[Hvenær]]
+*[[Af hverju]]
+
+== Æfingar ==
+[[Spurnarfornöfn - Æfing 1]]
+
+== Tákn sem tengjast efni þessarar lotu ==
+{{Testthumbnail
+|mynd=Takn_tu.JPG
+|taknid=Þú
+}}{{Testthumbnail
+|mynd=Takn bua.PNG
+|taknid=Búa
+}}{{Testthumbnail
+|mynd=Takn litur.JPG
+|taknid=Litur
+}}
+&lt;div class="clboth"&gt;&lt;/div&gt;
+
+Halda áfram: [[Örnámskeið 2, lota 1 - Lalla og bidd]]
+
+[[Flokkur:Örnámskeið 1]]</text>
+      <sha1>gqucm5p791w3sj7o690dpbo8wfd4li0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 1, lota 2 - Fingrastafróf</title>
+    <ns>0</ns>
+    <id>3121</id>
+    <revision>
+      <id>8193</id>
+      <parentid>8185</parentid>
+      <timestamp>2012-01-23T15:01:23Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <origin>8193</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1009" sha1="0jwnn7jc1fzbqnn1x2zd5j1t8fvwk68" xml:space="preserve">{{Infoboxkennsla
+| name=Fingrastafróf
+| Image=a.jpg  
+| texti=Markmið: Að átta sig á hvenær fingrastafróf er notað í táknmáli, í hvernig rými það er táknað, og læra táknin fyrir stafina.           
+| video1=J0YeXbyB0jQ
+| video2=   
+| tema=Fingrastafróf
+| efnisflokkur=Örnámskeið 1
+| tengsl1=   
+| tengsl2= 
+| tengsl3=        
+}}
+
+*Í annari lotu er farið yfir fingarstafrófið. 
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+{{stafrofnav}}
+
+'''Kynntu þér alla stafina í fingrastafrófinu og æfðu þig að mynda táknin. 
+'''
+
+== Táknalistar og dæmi ==
+
+*[[Nafn]]
+
+*[[Nafnatákn]]
+
+*[[Heita]]
+
+*[[Fingrastafróf]]
+
+*[[Útskýra]]
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingar þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Fingrastafróf - Æfing 1]]
+*[[Fingrastafróf - Æfing 2]]
+*[[Fingrastafróf - Æfing 3]]
+*[[Æfing í fingrastöfun]]
+
+
+Halda áfram: [[Örnámskeið 1, lota 3 - Algengar setningar]]
+
+[[Flokkur:Örnámskeið 1]]</text>
+      <sha1>0jwnn7jc1fzbqnn1x2zd5j1t8fvwk68</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 1, lota 3 - Algengar setningar</title>
+    <ns>0</ns>
+    <id>3144</id>
+    <revision>
+      <id>9733</id>
+      <parentid>8297</parentid>
+      <timestamp>2012-01-30T17:50:36Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <origin>9733</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="946" sha1="9dkql84vbtpg7wi9s2qwxor5kfjv7tm" xml:space="preserve">{{Infoboxkennsla
+| name=Algengar setningar
+| Image=Commonsentences.JPG  
+| texti=Að læra einfaldar setningar til samskipta.          
+| video1=uOGmcJrHhLY
+| video2=   
+| tema=Algengar setningar
+| efnisflokkur=Örnámskeið 1
+| tengsl1=   
+| tengsl2= 
+| tengsl3=        
+}}
+
+*Í þessari lotu er farið yfir nokkrar algengar og gagnlegar setningar
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+== Táknalistar og dæmi ==
+
+*[[Góðan daginn]]
+
+*[[Hvað heitir þú?]]
+
+*[[Hvað heitir þú?|Ég heiti]]
+
+*[[Hvað segir þú gott?]]
+
+*[[Hvað segir þú gott?|Ég segi allt gott]]
+
+*[[Hvað ertu gamall?]]
+
+*[[Hvað ertu gamall?|Ég er 25 ára]]
+
+*[[Sjáumst á morgun]]
+
+*[[Góða helgi]]
+
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingar þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Algengar setningar - æfing]]
+
+
+Halda áfram: [[Örnámskeið 1, lota 4 - Munnhreyfingar]]
+
+[[Flokkur:Örnámskeið 1]]</text>
+      <sha1>9dkql84vbtpg7wi9s2qwxor5kfjv7tm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 1, lota 4 - Munnhreyfingar</title>
+    <ns>0</ns>
+    <id>3325</id>
+    <revision>
+      <id>9257</id>
+      <parentid>9256</parentid>
+      <timestamp>2012-01-27T14:37:58Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <origin>9257</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="774" sha1="cjo0ydp01zxo094m17nt1ncolaxkfpx" xml:space="preserve">{{Infoboxkennsla
+| name=Munnhreyfingar
+| Image=Lips Silhouette.svg  
+| texti=Að átta sig á munnhreyfingum í myndun nafnorða og sagnorða        
+| video1=qojQVqKOh8E
+| video2=   
+| tema=Munnhreyfingar
+| efnisflokkur=Örnámskeið 1
+| tengsl1=   
+| tengsl2= 
+| tengsl3=        
+}}
+
+*Í þessari lotu er farið yfir mikilvægi munnhreyfinga í myndun nafnorða og sagnorða.
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+== Táknalistar og dæmi ==
+
+*[[Flugvél]]
+
+*[[Fljúga]]
+
+*[[Hamar]]
+
+*[[Smíða]]
+
+*[[Bíll]]
+
+*[[Keyra]]
+
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingu þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Munnhreyfingar - Æfing]]
+
+
+Halda áfram: [[Örnámskeið 1, lota 5 - Tölur]]
+
+[[Flokkur:Örnámskeið 1]]</text>
+      <sha1>cjo0ydp01zxo094m17nt1ncolaxkfpx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 1, lota 5 - Tölur</title>
+    <ns>0</ns>
+    <id>3178</id>
+    <revision>
+      <id>8362</id>
+      <parentid>8361</parentid>
+      <timestamp>2012-01-25T11:04:04Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <origin>8362</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="637" sha1="tca9g1fo7v9lj0op36q8o19tfzcmqta" xml:space="preserve">{{Infoboxkennsla
+| name=Lærðu að telja
+| Image=Numbers.JPG 
+| texti=Að læra tölurnar frá 1 til 20 og næstu tugi          
+| video1=RNqmpSRUoZc
+| video2=   
+| tema=Tölur
+| efnisflokkur=Örnámskeið 1
+| tengsl1=   
+| tengsl2= 
+| tengsl3=        
+}}
+
+*Í annari lotu er farið yfir hvernig á að telja á táknmáli. 
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+{{snið:tölustafir}}
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingu þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Tölur - Æfing 1]]
+
+
+'''Halda áfram:''' [[Örnámskeið 1, lota 6 - Klukkan]]
+
+[[Flokkur:Örnámskeið 1]]</text>
+      <sha1>tca9g1fo7v9lj0op36q8o19tfzcmqta</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 1, lota 6 - Klukkan</title>
+    <ns>0</ns>
+    <id>3179</id>
+    <revision>
+      <id>8387</id>
+      <parentid>8381</parentid>
+      <timestamp>2012-01-25T13:04:30Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <origin>8387</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="767" sha1="ofrbt9g5hkx4p07f8615zidi55itqy5" xml:space="preserve">{{Infoboxkennsla
+| name=Hvað er klukkan?
+| Image=Whattimeisit.JPG
+| texti=Að læra að spyrja hvað klukkan er og svara          
+| video1=ZNEr_PwVTJw
+| video2=   
+| tema=Tími og tölur
+| efnisflokkur=Örnámskeið 1
+| tengsl1=   
+| tengsl2= 
+| tengsl3=        
+}}
+
+*Í þessari lotu er farið yfir tákn tengd klukkunni og tíma.  
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+== Táknalistar og dæmi ==
+
+*[[Hvað er klukkan?]]
+
+*[[Klukka]]
+
+*[[Úr]]
+
+*[[Tími]]
+
+*[[Á eftir]]
+
+*[[Mínúta]]
+
+*[[Sekúnda]]
+
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingar þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Hvað er klukkan? - Æfing]]
+
+
+Halda áfram: [[Örnámskeið 1, lota 7 - Tímalína A]]
+
+[[Flokkur:Örnámskeið 1]]</text>
+      <sha1>ofrbt9g5hkx4p07f8615zidi55itqy5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 1, lota 7 - Tímalína A</title>
+    <ns>0</ns>
+    <id>2512</id>
+    <revision>
+      <id>15966</id>
+      <parentid>13738</parentid>
+      <timestamp>2012-03-27T08:38:52Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>15966</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1032" sha1="plsrwg8tz0kpn2hrbyjv0ine9l62lxk" xml:space="preserve">{{Infoboxkennsla
+| name=Tímalína A
+| Image=Timescale.png          
+| video1=6B3-XsZsbOw
+| video2=
+| texti=Að átta sig á hvernig nútíð, þátíð og framtíð eru táknuð, og læra helstu tákn þeim tengd. 
+| tema=[[:Flokkur:Tímatákn|Tímatákn]]
+| efnisflokkur=Örnámskeið 1    
+}}
+*Í þessari lotu er farið yfir tímalínu A og notkun hennar ásamt helstu táknum.  
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.
+
+== Táknalisti og dæmi ==
+*[[Í dag]] 
+*[[Gær]]
+*[[Á morgun]]
+*[[Fyrradag]]
+*[[Hinn daginn]]
+*[[Fyrir þremur dögum]]
+*[[Fyrir stuttu síðan]]
+*[[Fyrir löngu síðan]]
+*[[Langt þangað til]]
+
+== Æfingar ==
+*[[Tímalína A - Æfing]]
+
+== Fleiri tákn sem tengjast efni þessarar lotu ==
+{{Testthumbnail
+|mynd=Takn midvikudagur.PNG
+|taknid=Miðvikudagur
+}} {{Testthumbnail
+|mynd=Takn fara.JPG
+|taknid=Fara
+}}{{Testthumbnail
+|mynd=Takn fot.PNG
+|taknid=Föt
+}}
+&lt;div class="clboth"&gt;&lt;/div&gt;
+
+Halda áfram: [[Örnámskeið 1, lota 8 - Orðaröð]]
+
+[[Flokkur:Örnámskeið 1]]</text>
+      <sha1>plsrwg8tz0kpn2hrbyjv0ine9l62lxk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 1, lota 8 - Orðaröð</title>
+    <ns>0</ns>
+    <id>3332</id>
+    <revision>
+      <id>9766</id>
+      <parentid>9765</parentid>
+      <timestamp>2012-01-30T18:25:16Z</timestamp>
+      <contributor>
+        <username>David Bjarnason</username>
+        <id>1</id>
+      </contributor>
+      <origin>9766</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="733" sha1="j2q5r34xd5o6chfzwbvdigatd70fmvd" xml:space="preserve">{{Infoboxkennsla
+| name=Orðröð
+| Image=Ordarod.JPG
+| texti=Að átta sig á orðaröð í táknmáli og mynda einfaldar setningar.         
+| video1=qWU_e52XIbI
+| video2=   
+| tema=Orðaröð
+| efnisflokkur=Örnámskeið 1
+| tengsl1=   
+| tengsl2= 
+| tengsl3=        
+}}
+
+*Í þessari lotu er farið yfir ólíka orðaröð í táknmáli og íslensku. 
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+== Táknalistar og dæmi ==
+
+*[[Sumar]]
+*[[Vetur]]
+*[[Borða]]
+*[[Gamlársdagur]]
+*[[Hvað heitir þú?]]
+
+
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingu þegar þú hefur kynnt þér efni þessarar lotu. 
+
+
+Halda áfram: [[Örnámskeið 1, lota 9 - Persónubendingar]]
+
+[[Flokkur:Örnámskeið 1]]</text>
+      <sha1>j2q5r34xd5o6chfzwbvdigatd70fmvd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 1, lota 9 - Persónubendingar</title>
+    <ns>0</ns>
+    <id>3333</id>
+    <revision>
+      <id>65037</id>
+      <parentid>9857</parentid>
+      <timestamp>2020-11-09T09:08:29Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>65037</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="873" sha1="7jym12sq3an9rgjaapz2i61zo1vq4i6" xml:space="preserve">{{Infoboxkennsla
+| name=Persónubendingar
+| Image=Pointing.JPG 
+| texti=Að læra bendingar og helstu tákn þeim tengd svo sem ég, þú, við og þið.        
+| video1=XcBdwcX95CU
+| video2=   
+| tema=Bendingar
+| efnisflokkur=Örnámskeið 1
+| tengsl1=   
+| tengsl2= 
+| tengsl3=        
+}}
+
+*Í þessari lotu er farið yfir mikilvægi bendinga í stað persónufornafna.
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+== Táknalistar og dæmi ==
+
+*[[Ég]]
+
+*[[Þú]]
+
+*[[Hann]] (Hún og Það eru sama táknið)
+
+*[[Við tvö]]
+
+*[[Við öll]]
+
+*[[Þið tvö]]
+
+*[[Þau öll]]
+
+*[[Þessi]]
+
+*[[Minn]]
+
+*[[Þinn]]
+
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingu þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Persónubendingar - Æfing]]
+
+
+Halda áfram: [[Örnámskeið 1, lota 10 - HV Spurnarfornöfn]]
+
+[[Flokkur:Örnámskeið 1]]</text>
+      <sha1>7jym12sq3an9rgjaapz2i61zo1vq4i6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 2</title>
+    <ns>0</ns>
+    <id>13193</id>
+    <revision>
+      <id>35115</id>
+      <timestamp>2014-02-11T09:58:45Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Testthumbnail |mynd=Commonsentences.JPG |taknid=Örnámskeið 2, lota 1 - Lalla og bidd }} {{Testthumbnail |mynd=Cappadocia Balloon Inflating Wikimedia Commons.JPG |taknid=Örnámsk...</comment>
+      <origin>35115</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="957" sha1="my9721e0gk6qwssu0ai86jq69jv609t" xml:space="preserve">{{Testthumbnail
+|mynd=Commonsentences.JPG
+|taknid=Örnámskeið 2, lota 1 - Lalla og bidd
+}} {{Testthumbnail
+|mynd=Cappadocia Balloon Inflating Wikimedia Commons.JPG
+|taknid=Örnámskeið 2, lota 2 - Lýsingarorð
+}}{{Testthumbnail
+|mynd=All directions.png
+|taknid=Örnámskeið 2, lota 3 - Áttbeyging
+}}{{Testthumbnail
+|mynd=Mapeando p2p.jpg
+|taknid=Örnámskeið 2, lota 4 - Staðsetningar í rými
+}}{{Testthumbnail
+|mynd=FAMILIA 777.jpg
+|taknid=Örnámskeið 2, lota 5 - Fjölskylda
+}}{{Testthumbnail
+|mynd=Angizia.jpg
+|taknid=Örnámskeið 2, lota 6 - Einmitt og auðvitað
+}}{{Testthumbnail
+|mynd=Timescale.png
+|taknid=Örnámskeið 2, lota 7 - Tímalína C
+}}{{Testthumbnail
+|mynd=Year.JPG
+|taknid=Örnámskeið 2, lota 8 - Tímatákn
+}}{{Testthumbnail
+|mynd=Numbers.JPG
+|taknid=Örnámskeið 2, lota 9 - Raðtölur
+}}{{Testthumbnail
+|mynd=English word order chart.PNG
+|taknid=Örnámskeið 2, lota 10 - Algengar sagnir
+}}
+&lt;div class="clboth"&gt;&lt;/div&gt;</text>
+      <sha1>my9721e0gk6qwssu0ai86jq69jv609t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 2, lota 1 - Lalla og bidd</title>
+    <ns>0</ns>
+    <id>12910</id>
+    <revision>
+      <id>34413</id>
+      <parentid>34398</parentid>
+      <timestamp>2014-01-21T09:43:02Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>34413</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="981" sha1="0vcvz83afb1uzqml2fl89fxnt7cktf2" xml:space="preserve">{{Infoboxkennsla
+| name=Lalla og bidd
+| Image=Commonsentences.JPG  
+| texti=Markmið: nemendur átti sig á sögninni að vera í táknmáli og hvernig mismunandi tákn eru notuð.          
+| video1=yPWEI_IKnKk
+| video2=   
+| tema=Lalla og bidd
+| efnisflokkur=Örnámskeið 2
+| tengsl1= 
+| tengsl2= 
+| tengsl3=  
+    
+}}
+
+*Að nemendur átti sig á sögninni að vera í táknmáli og hvernig mismunandi tákn eru notuð. 
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+== Táknalistar og dæmi ==
+
+*[[Er maðurinn hér? Nei, hann er ekki hér]]
+
+*[[Konan mín er í Danmörku]]
+
+*[[Þessi kona er döff]]
+
+*[[Húsið er stórt]]
+
+*[[Himininn er blár]]
+
+*[[Ég er flinkur að spila á gítar]]
+
+*[[Bíllykillinn er í töskunni]]
+
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingar þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Lalla og bidd æfing 1]]
+
+
+Halda áfram: [[Örnámskeið 2, lota 2 - Lýsingarorð]]
+
+[[Flokkur:Örnámskeið 2]]</text>
+      <sha1>0vcvz83afb1uzqml2fl89fxnt7cktf2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 2, lota 10 - Algengar sagnir</title>
+    <ns>0</ns>
+    <id>12948</id>
+    <revision>
+      <id>35532</id>
+      <parentid>34517</parentid>
+      <timestamp>2014-02-18T11:14:20Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>35532</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1245" sha1="c1hdeko21yr35qih4gl6m9vh55epwd4" xml:space="preserve">{{Infoboxkennsla
+| name=Algengar sagnir
+| Image=English word order chart.PNG  
+| texti=Markmið: Að læra nokkrar algengar sagnir og stöðu þeirra í setningum.          
+| video1=319NZODGqMo
+| video2=   
+| tema=Algengar sagnir
+| efnisflokkur=Örnámskeið 2
+| tengsl1= 
+| tengsl2= 
+| tengsl3=  
+    
+}}
+
+*Að læra nokkrar algengar sagnir og stöðu þeirra í setningum. 
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+== Táknalistar og dæmi ==
+
+*[[Kaupa peysu]]
+
+*[[Ekki kaupa peysu]]
+
+*[[Greiða hárið]]
+
+*[[Ekki greiða hárið]]
+
+*[[Ég hef það fínt]]
+
+*[[Ég hef það ekki fínt]]
+
+*[[Mig langar í hamborgara]]
+
+*[[Mig langar ekki í hamborgara]]
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingar þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Algengar sagnir æfing 1]]
+
+== Tákn sem tengjast efni þessarar lotu ==
+{{Testthumbnail
+|mynd=Kaupa.JPG  
+|taknid=Kaupa
+}}{{Testthumbnail
+|mynd=Takn borda.JPG
+|taknid=Borða
+}}{{Testthumbnail
+|mynd=Greiða.PNG
+|taknid=Greiða
+}}{{Testthumbnail
+|mynd=Takn læra.PNG
+|taknid=Læra
+}}{{Testthumbnail
+|mynd=Takn tala.PNG
+|taknid=Tala
+}}{{Testthumbnail
+|mynd=Takn skrifa.JPG
+|taknid=Skrifa
+}}
+&lt;div class="clboth"&gt;&lt;/div&gt;
+
+[[Flokkur:Örnámskeið 2]]</text>
+      <sha1>c1hdeko21yr35qih4gl6m9vh55epwd4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 2, lota 2 - Lýsingarorð</title>
+    <ns>0</ns>
+    <id>12872</id>
+    <revision>
+      <id>65038</id>
+      <parentid>34414</parentid>
+      <timestamp>2020-11-09T09:10:02Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>65038</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1153" sha1="aa4ijzziwksudqf0l80uz6m1lnkqrnc" xml:space="preserve">{{Infoboxkennsla
+| name=Lýsingarorð
+| Image=Cappadocia Balloon Inflating Wikimedia Commons.JPG  
+| texti=Markmið: Að átta sig á hvernig lýsingarorð og lýsingar magnast eða skalast í táknmáli.          
+| video1=FZ0ftIwG1O0
+| video2=   
+| tema=Lýsingarorð
+| efnisflokkur=Örnámskeið 2
+| tengsl1= 
+| tengsl2= 
+| tengsl3=  
+    
+}}
+
+
+*Að átta sig á hvernig lýsingarorð og lýsingar magnast eða skalast í táknmáli. 
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+== Táknalistar og dæmi ==
+
+*[[Fjallið er langt í burtu]]
+
+*[[Fjallið er rosalega langt í burtu]]
+
+*[[Gulur bíll]]
+
+*[[Skærgulur kjóll]]
+
+*[[Stórt tré]]
+
+*[[Risastórt tré]]
+
+*[[Konan er nálægt mér]]
+
+*[[Konan er rosalega nálægt mér]]
+
+*[[Ljósgræna tréð er mjög mjótt og hátt]]
+
+*[[Konan í skærgula kjólnum er langt í burtu]]
+
+*[[Þetta er erfitt próf]]
+
+*[[Þetta er rosalega erfitt próf]]
+
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingar þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Lýsingarorð æfing 1]]
+
+
+Halda áfram: [[Örnámskeið 2, lota 3 - Áttbeyging]]
+
+[[Flokkur:Örnámskeið 2]]</text>
+      <sha1>aa4ijzziwksudqf0l80uz6m1lnkqrnc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 2, lota 3 - Áttbeyging</title>
+    <ns>0</ns>
+    <id>12915</id>
+    <revision>
+      <id>34417</id>
+      <parentid>34416</parentid>
+      <timestamp>2014-01-21T09:49:12Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>34417</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1395" sha1="8viybybu0k763794fljlcwdkjnn1epf" xml:space="preserve">{{Infoboxkennsla
+| name=Áttbeyging
+| Image=All directions.png
+  
+| texti=Markmið: Að læra nokkrar sagnir sem sýna frumlag og andlag.          
+| video1=7Ib4J3gHjck
+| video2=   
+| tema=Áttbeyging
+| efnisflokkur=Örnámskeið 2
+| tengsl1= 
+| tengsl2= 
+| tengsl3=  
+    
+}}
+
+*Að læra nokkrar sagnir sem sýna frumlag og andlag. 
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+== Táknalistar og dæmi ==
+
+*[[Ég heimsæki þig í kvöld]]
+
+*[[Þú heimsækir mig í kvöld]]
+
+*[[Ég kenni þér táknmál]]
+
+*[[Ég kenni ykkur táknmál]]
+
+*[[Gefðu mér pakkann]]
+
+*[[Útskýrðu þetta fyrir mér]]
+
+*[[Ég skal útskýra fyrir þér]]
+
+*[[Látið mig vita ef þið skiljið ekki]]
+
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingar þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Áttbeyging æfing 1]]
+
+== Tákn sem tengjast efni þessarar lotu ==
+{{Testthumbnail
+|mynd=Hringja.JPG
+|taknid=Hringja
+}}{{Testthumbnail
+|mynd=gefa.JPG
+|taknid=Gefa
+}}{{Testthumbnail
+|mynd=Kenna.JPG
+|taknid=Kenna
+}}{{Testthumbnail
+|mynd=Takn senda.jpg
+|taknid=Senda
+}}{{Testthumbnail
+|mynd=Takn lata vita.JPG
+|taknid=Láta vita
+}}{{Testthumbnail
+|mynd=Takn koma.JPG
+|taknid=Koma
+}}{{Testthumbnail
+|mynd=Takn heimsaekja.PNG
+|taknid=Heimsækja
+}}
+&lt;div class="clboth"&gt;&lt;/div&gt;
+
+
+Halda áfram: [[Örnámskeið 2, lota 4 - Staðsetningar í rými]]
+
+[[Flokkur:Örnámskeið 2]]</text>
+      <sha1>8viybybu0k763794fljlcwdkjnn1epf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 2, lota 4 - Staðsetningar í rými</title>
+    <ns>0</ns>
+    <id>12918</id>
+    <revision>
+      <id>65039</id>
+      <parentid>34522</parentid>
+      <timestamp>2020-11-09T09:11:41Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>65039</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1074" sha1="qzhh4xb0407m3urnuslbi1ohp45k5su" xml:space="preserve">{{Infoboxkennsla
+| name=Staðsetningar í rými
+| Image=Mapeando p2p.jpg  
+| texti=Markmið: Að nemendur átti sig á því að táknmál er mynda í rými og hlutir/atburðir staðsettir í því.          
+| video1=syBoNgXy1AE
+| video2=   
+| tema=Staðsetningar í rými
+| efnisflokkur=Örnámskeið 2
+| tengsl1= 
+| tengsl2= 
+| tengsl3=  
+    
+}}
+
+
+*Að nemendur átti sig á því að táknmál er mynda í rými og hlutir/atburðir staðsettir í því. 
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+== Táknalistar og dæmi ==
+
+*[[Næsta sumar ætla ég að sigla frá Reykjavík til Noregs]]
+
+*[[Næstu helgi ætla ég að keyra frá Reykjavík til Hafnar í Hornarfirði]]
+
+*[[Síðasta sumar keyrði ég hringinn í kringum Ísland, fyrir utan Vestfirði]]
+
+*[[Um síðustu helgi flaug ég frá Reykjavík til Egilsstaða]]
+
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingar þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Rými æfing 1]]
+
+
+Halda áfram: [[Örnámskeið 2, lota 5 - Fjölskylda]]
+
+[[Flokkur:Örnámskeið 2]]</text>
+      <sha1>qzhh4xb0407m3urnuslbi1ohp45k5su</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 2, lota 5 - Fjölskylda</title>
+    <ns>0</ns>
+    <id>12920</id>
+    <revision>
+      <id>34521</id>
+      <parentid>34520</parentid>
+      <timestamp>2014-01-22T13:47:25Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>34521</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1397" sha1="nzqkb4wf1inzvgbv8se9k7yylh15q4y" xml:space="preserve">{{Infoboxkennsla
+| name=Fjölskylda
+| Image=FAMILIA 777.jpg  
+| texti=Markmið: Lærum að tala um fjölskylduna og tákn sem henni tengjast.          
+| video1=GiZcBF1_eSw
+| video2=   
+| tema=Fjölskylda
+| efnisflokkur=Örnámskeið 2
+| tengsl1= 
+| tengsl2= 
+| tengsl3=  
+    
+}}
+
+*Að nemendur læri að tala um fjölskylduna og tákn sem henni tengjast. 
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+== Táknalistar og dæmi ==
+
+*[[Ég á tvo bræður og eina systur]]
+
+*[[Mamma mín er læknir, pabbi er lögreglumaður]]
+
+*[[Ég á stóra fjölskyldu]]
+
+*[[Frænka mín býr á Grikklandi]]
+
+*[[Amma mín og afi búa á Egilsstöðum]]
+
+*[[Mamma (gamalt tákn)]]
+
+*[[Mamma (eldra tákn)]]
+
+*[[Pabbi (gamalt tákn)]]
+
+*[[Pabbi (eldra tákn)]]
+
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingar þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Fjölskylda æfing 1]]
+
+== Tákn sem tengjast efni þessarar lotu ==
+{{Testthumbnail
+|mynd=Takn mamma.PNG
+|taknid=Mamma
+}}{{Testthumbnail
+|mynd=Takn pabbi.PNG
+|taknid=Pabbi
+}}{{Testthumbnail
+|mynd=Takn amma.PNG
+|taknid=Amma
+}}{{Testthumbnail
+|mynd=Takn afi.PNG   
+|taknid=Afi
+}}{{Testthumbnail
+|mynd=Takn systir.PNG
+|taknid=Systir
+}}{{Testthumbnail
+|mynd=Bróðir.PNG 
+|taknid=Bróðir
+}}
+&lt;div class="clboth"&gt;&lt;/div&gt;
+
+
+Halda áfram: [[Örnámskeið 2, lota 6 - Einmitt og auðvitað]]
+
+[[Flokkur:Örnámskeið 2]]</text>
+      <sha1>nzqkb4wf1inzvgbv8se9k7yylh15q4y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 2, lota 6 - Einmitt og auðvitað</title>
+    <ns>0</ns>
+    <id>12930</id>
+    <revision>
+      <id>34529</id>
+      <parentid>34486</parentid>
+      <timestamp>2014-01-22T13:56:39Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>34529</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1010" sha1="8hsuq9eimggtttxkmfpj2c6qyd2aitb" xml:space="preserve">{{Infoboxkennsla
+| name=Fjölskylda
+| Image=Angizia.jpg  
+| texti=Markmið: Að átta sig á fjölbreyttri notkun þessara tákna.          
+| video1=jtQhzK1TDQQ
+| video2=   
+| tema=Fjölskylda
+| efnisflokkur=Örnámskeið 2
+| tengsl1= 
+| tengsl2= 
+| tengsl3=  
+    
+}}
+
+*Að átta sig á fjölbreyttri notkun þessara tákna. 
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+== Táknalistar og dæmi ==
+
+*[[Einmitt]]
+
+*[[Þannig lá í því]]
+
+*[[Einmitt, ég er sammála þér]]
+
+*[[Auðvitað kem ég í veisluna]]
+
+*[[Einmitt, þetta er svakalega skrítið]]
+
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingar þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Einmitt og auðvitað æfing 1]]
+
+== Tákn sem tengjast efni þessarar lotu ==
+{{Testthumbnail
+|mynd=Einmitt1123.JPG
+|taknid=Einmitt
+}}{{Testthumbnail
+|mynd=Takn audvitad.PNG
+|taknid=Auðvitað
+}}
+&lt;div class="clboth"&gt;&lt;/div&gt;
+
+
+Halda áfram: [[Örnámskeið 2, lota 7 - Tímalína C]]
+
+[[Flokkur:Örnámskeið 2]]</text>
+      <sha1>8hsuq9eimggtttxkmfpj2c6qyd2aitb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 2, lota 7 - Tímalína C</title>
+    <ns>0</ns>
+    <id>12931</id>
+    <revision>
+      <id>34531</id>
+      <parentid>34496</parentid>
+      <timestamp>2014-01-22T13:59:04Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>34531</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="880" sha1="e0u76bja42v53oynmlnp44syrbluk1h" xml:space="preserve">{{Infoboxkennsla
+| name=Tímalína C
+| Image=Timescale.png
+| texti=Markmið: Að nemendur nái færni í að tala um tíma á tímalínu fyrir framan táknara.          
+| video1=Um7xQiA0gxA
+| video2=   
+| tema=Tímalína C
+| efnisflokkur=Örnámskeið 2
+| tengsl1= 
+| tengsl2= 
+| tengsl3=  
+    
+}}
+
+*Að nemendur nái færni í að tala um tíma á tímalínu fyrir framan táknara. 
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+== Táknalistar og dæmi ==
+
+*[[Ég vinn mánudaga til föstudaga frá níu til fimm]]
+
+*[[Þau fjögur ár sem ég var í menntaskóla var ég mikið að leika en síðan þá hef ég ekkert leikið]]
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingar þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Tímalína C æfing 1]]
+
+
+
+Halda áfram: [[Örnámskeið 2, lota 8 - Tímatákn]]
+
+[[Flokkur:Örnámskeið 2]]</text>
+      <sha1>e0u76bja42v53oynmlnp44syrbluk1h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 2, lota 8 - Tímatákn</title>
+    <ns>0</ns>
+    <id>12946</id>
+    <revision>
+      <id>34545</id>
+      <parentid>34536</parentid>
+      <timestamp>2014-01-23T13:49:26Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>34545</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1116" sha1="ll182wkqkrf0sfine1fhe55cnth7y9b" xml:space="preserve">{{Infoboxkennsla
+| name=Tímatákn
+| Image=Year.JPG  
+| texti=Markmið: Að nemendur læri mánuðina, vikur og daga.          
+| video1=bp5xTAeCdY0
+| video2=   
+| tema=Tímatákn
+| efnisflokkur=Örnámskeið 2
+| tengsl1= 
+| tengsl2= 
+| tengsl3=  
+    
+}}
+
+*Að nemendur læri mánuðina, vikur og daga. 
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+== Táknalistar og dæmi ==
+
+*[[Ég fer í sumarfrí í júlí]]
+
+*[[Eftir þrjá daga fer ég til Danmerkur og verð þar í tvær vikur]]
+
+*[[Það eru 52 vikur í einu ári]]
+
+*[[Desember er uppáhalds mánuðurinn minn, þá eru jólin]]
+
+*[[Ég vinn frá mánudegi til föstudags]]
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingar þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Tímatákn æfing 1]]
+
+== Tákn sem tengjast efni þessarar lotu ==
+{{Testthumbnail
+|mynd=Takn vika.PNG  
+|taknid=Vika
+}}{{Testthumbnail
+|mynd=Takn manudur.PNG
+|taknid=Mánuður
+}}{{Testthumbnail
+|mynd=Takn ár.JPG
+|taknid=Ár
+}}
+&lt;div class="clboth"&gt;&lt;/div&gt;
+
+
+Halda áfram: [[Örnámskeið 2, lota 9 - Raðtölur]]
+
+[[Flokkur:Örnámskeið 2]]</text>
+      <sha1>ll182wkqkrf0sfine1fhe55cnth7y9b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnámskeið 2, lota 9 - Raðtölur</title>
+    <ns>0</ns>
+    <id>12947</id>
+    <revision>
+      <id>35117</id>
+      <parentid>34508</parentid>
+      <timestamp>2014-02-11T10:01:12Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>35117</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1073" sha1="1zu5466v2wp0cfn4gnt1mse1dj2ke73" xml:space="preserve">{{Infoboxkennsla
+| name=Raðtölur
+| Image=Numbers.JPG  
+| texti=Markmið: Að nemendur læri muninn á raðtölum og frumtölum.          
+| video1=9tqnmkFWCZs
+| video2=   
+| tema=Raðtölur
+| efnisflokkur=Örnámskeið 2
+| tengsl1= 
+| tengsl2= 
+| tengsl3=  
+    
+}}
+
+*Að nemendur læri muninn á raðtölum og frumtölum. 
+*Horfið á myndbandið og skoðið svo táknalistana hér að neðan.  
+
+== Táknalistar og dæmi ==
+
+*[[Ég mætti fyrstur í vinnuna í morgun]]
+
+*[[Hvernig gekk á mótinu? Ég varð í þriðja sæti]]
+
+*[[Þú ert fimmti í röðinni]]
+
+*[[Samskiptamiðstöð er á þriðju hæð]]
+
+== Æfingar ==
+
+Ljúktu við eftirfarandi æfingar þegar þú hefur kynnt þér efni þessarar lotu. 
+
+*[[Raðtölur æfing 1]]
+
+== Tákn sem tengjast efni þessarar lotu ==
+{{Testthumbnail
+|mynd=Takn fyrstur.JPG  
+|taknid=Fyrstur
+}}{{Testthumbnail
+|mynd=Annar-snap.png
+|taknid=Annar
+}}{{Testthumbnail
+|mynd=Tridji.JPG
+|taknid=Þriðji
+}}
+&lt;div class="clboth"&gt;&lt;/div&gt;
+
+Halda áfram: [[Örnámskeið 2, lota 10 - Algengar sagnir]]
+
+[[Flokkur:Örnámskeið 2]]</text>
+      <sha1>1zu5466v2wp0cfn4gnt1mse1dj2ke73</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örnefni</title>
+    <ns>0</ns>
+    <id>26746</id>
+    <revision>
+      <id>62502</id>
+      <timestamp>2020-02-17T10:09:13Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Ornefni.PNG |myndunarstadur=Óvirk hönd |handform=H handform |efnisflokkur=Almennt |tengsl1=Nafn |tengsl2=Sérnöfn og örnefni |tengsl3=Sérnöfn |youtube1=vym...</comment>
+      <origin>62502</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="194" sha1="2xj0l2x42l47jhc3psp2ngs6giqj74b" xml:space="preserve">{{Infoboxsign
+|Image1=Ornefni.PNG
+|myndunarstadur=Óvirk hönd
+|handform=H handform
+|efnisflokkur=Almennt
+|tengsl1=Nafn
+|tengsl2=Sérnöfn og örnefni
+|tengsl3=Sérnöfn
+|youtube1=vymTywf-1qM
+}}</text>
+      <sha1>2xj0l2x42l47jhc3psp2ngs6giqj74b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örorka</title>
+    <ns>0</ns>
+    <id>11941</id>
+    <revision>
+      <id>42778</id>
+      <parentid>33695</parentid>
+      <timestamp>2015-01-08T09:42:25Z</timestamp>
+      <contributor>
+        <username>Svava</username>
+        <id>23</id>
+      </contributor>
+      <origin>42778</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="242" sha1="oorvgsrggg241vumgr3ata2o31ek7dq" xml:space="preserve">{{Infoboxsign
+|Image1=Ororka.JPG
+|myndunarstadur=Handleggur
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heilsa og líkami
+|tengsl1=Fötlun
+|tengsl2=Örorkumat
+|tengsl3=Bætur
+|Image2=Disability symbols.png
+|youtube1=xOgGdZku-2U
+}}</text>
+      <sha1>oorvgsrggg241vumgr3ata2o31ek7dq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örorkubætur</title>
+    <ns>0</ns>
+    <id>13786</id>
+    <revision>
+      <id>36191</id>
+      <parentid>36163</parentid>
+      <timestamp>2014-03-07T13:37:57Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>36191</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="351" sha1="dmpgmc236vv6pxkcibyux0r1pl0qei6" xml:space="preserve">{{Infoboxsign
+|Image1=Ororkubaetur.PNG
+|texti=Samsett orð úr táknunum [[Fatlaður|FATLAÐUR]] og [[Bætur|BÆTUR]]
+|myndunarstadur=Handleggur
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heimili og fjölskylda
+|efnisflokkur2=Fjármál
+|munnhreyfing=örorkubætu
+|tengsl1=aur
+|tengsl2=Króna
+|tengsl3=Þúsundkall
+|youtube1=9WHDopNtS4o
+}}</text>
+      <sha1>dmpgmc236vv6pxkcibyux0r1pl0qei6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örorkukort</title>
+    <ns>0</ns>
+    <id>19290</id>
+    <revision>
+      <id>46250</id>
+      <parentid>46249</parentid>
+      <timestamp>2015-06-03T10:41:01Z</timestamp>
+      <contributor>
+        <username>Iðunn</username>
+        <id>191</id>
+      </contributor>
+      <origin>46250</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="308" sha1="3s79p5u9bug1hydgrlzbzbiwza6ee7n" xml:space="preserve">{{Infoboxsign
+|Image1=Takn ororkukort.PNG
+|texti=Táknin [[Örorka|ÖRORKA]] og [[Kort|KORT]] sett saman
+|myndunarstadur=Handleggur
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Samfélag
+|munnhreyfing=örorkukort
+|tengsl1=Öryrki
+|tengsl2=Örorkubætur
+|tengsl3=Örorkumat
+|youtube1=NfYkritNup4
+}}</text>
+      <sha1>3s79p5u9bug1hydgrlzbzbiwza6ee7n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örorkumat</title>
+    <ns>0</ns>
+    <id>15614</id>
+    <revision>
+      <id>39294</id>
+      <parentid>39256</parentid>
+      <timestamp>2014-06-12T08:41:27Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>39294</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="358" sha1="0p3gu0sv8qn6j0kbvme2nb6iyzb0z2o" xml:space="preserve">{{Infoboxsign
+|Image1=Tak ororkumat.PNG
+|texti=Táknin [[Fatlaður|FATLAÐUR]] og [[Mat|MAT]]  sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Samfélag
+|munnhreyfing=örorkumat
+|tengsl1=Fatlaður
+|tengsl2=Samfélag
+|tengsl3=Tryggingastofnun Ríkisins
+|Image2=Disability symbols.svg
+|youtube1=sqoARkrcPTE
+}}</text>
+      <sha1>0p3gu0sv8qn6j0kbvme2nb6iyzb0z2o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ört</title>
+    <ns>0</ns>
+    <id>30784</id>
+    <revision>
+      <id>70213</id>
+      <timestamp>2022-08-31T13:23:16Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Ort.PNG |myndunarstadur=Hlutlaust rými |efnisflokkur=Samfélag |tengsl1=Hratt |tengsl2=Vaxandi |tengsl3=Fjölgun |youtube1=https://youtu.be/AMcETmfQav4 }}</comment>
+      <origin>70213</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="177" sha1="a0z5cd59c311vmj1cyrcwb7j0owsjua" xml:space="preserve">{{Infoboxsign
+|Image1=Ort.PNG
+|myndunarstadur=Hlutlaust rými
+|efnisflokkur=Samfélag
+|tengsl1=Hratt
+|tengsl2=Vaxandi
+|tengsl3=Fjölgun
+|youtube1=https://youtu.be/AMcETmfQav4
+}}</text>
+      <sha1>a0z5cd59c311vmj1cyrcwb7j0owsjua</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örugglega</title>
+    <ns>0</ns>
+    <id>684</id>
+    <revision>
+      <id>64170</id>
+      <parentid>33702</parentid>
+      <timestamp>2020-07-21T13:08:03Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64170</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="302" sha1="bbsso9rc4qmk3zagxtxpzo7jbr7rdn5" xml:space="preserve">{{Infoboxsign
+|Image1=Takn oruggur.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=A handform lokað
+|ordflokkur=Atviksorð
+|tengsl1=Nákvæmlega
+|tengsl2=Óöruggur
+|tengsl3=Einmitt
+|youtube1=CE-hgGAmn_U
+|name={{PAGENAME}}           &lt;!--- Þarf ekki að breyta. Kemur sjálfkrafa frá titli síðu--&gt;
+}}</text>
+      <sha1>bbsso9rc4qmk3zagxtxpzo7jbr7rdn5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öruggur</title>
+    <ns>0</ns>
+    <id>678</id>
+    <revision>
+      <id>64169</id>
+      <parentid>63297</parentid>
+      <timestamp>2020-07-21T13:06:00Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64169</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="796" sha1="9n35s2s9yayues3pmne0jdes2vum9qg" xml:space="preserve">{{Infoboxsign
+|Image1=Takn oruggur.PNG          &lt;!--- t.d. sign_epli.jpg--&gt;
+|texti=&lt;!--- lýsið hvernig táknið er myndað--&gt;
+|myndunarstadur=Hlutlaust rými
+|handform=A handform lokað
+|ordflokkur=Lýsingarorð
+|efnisflokkur=Tilfinningar               &lt;!--- Flokkur  --&gt;
+|tengsl1=Óöruggur &lt;!--- Önnur svipuð eða tengd tákn--&gt;
+|tengsl2=Kunna
+|tengsl3=Örugglega
+|Image2=Server-web-secure.svg
+|youtube1=c3_ouT7vSjc           &lt;!--- Kóði YouTube myndbands fyrir táknið--&gt;
+|utskyring=&lt;!--- Útskýring á notkun--&gt;
+|youtube2=&lt;!--- Kóði YouTube myndbands fyrir táknið í setningu--&gt;
+|taknmal=&lt;!--- Setning á táknmáli--&gt;
+|islenska=&lt;!--- Setning á táknmáli--&gt;
+|youtube4=g32sFaG8jaQ
+|name={{PAGENAME}}           &lt;!--- Þarf ekki að breyta. Kemur sjálfkrafa frá titli síðu--&gt;
+}}</text>
+      <sha1>9n35s2s9yayues3pmne0jdes2vum9qg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örva</title>
+    <ns>0</ns>
+    <id>11604</id>
+    <revision>
+      <id>33706</id>
+      <parentid>29681</parentid>
+      <timestamp>2013-12-17T12:39:22Z</timestamp>
+      <contributor>
+        <username>Iðunn</username>
+        <id>191</id>
+      </contributor>
+      <origin>33706</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="219" sha1="c0ecfu0mglki9b66wmq2fmleyuus99d" xml:space="preserve">{{Infoboxsign
+|Image1=Orva.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=5 handform
+|ordflokkur=Sagnorð
+|efnisflokkur=Sagnorð
+|munnhreyfing=örva
+|tengsl1=Hvetja
+|tengsl2=Minnka
+|tengsl3=Letja
+|youtube1=crueFBS_zKk
+}}</text>
+      <sha1>c0ecfu0mglki9b66wmq2fmleyuus99d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örvera</title>
+    <ns>0</ns>
+    <id>22799</id>
+    <revision>
+      <id>54843</id>
+      <parentid>54842</parentid>
+      <timestamp>2016-05-11T15:23:17Z</timestamp>
+      <contributor>
+        <username>Eyglo</username>
+        <id>223</id>
+      </contributor>
+      <origin>54843</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="319" sha1="go737buf8zsdaenx5eqjwomc657buym" xml:space="preserve">{{Infoboxsign
+|Image1=Takn orvera.PNG
+|texti=Smella fingri og táknið [[Baktería|BAKTERÍA]]
+|myndunarstadur=Hlutlaust rými
+|handform=D handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Náttúra
+|tengsl1=Baktería
+|tengsl2=Rannsókn
+|tengsl3=Náttúrufræði
+|Image2=Bacillus licheniformis 02.jpg
+|youtube1=GsL6qdTSsFs
+}}</text>
+      <sha1>go737buf8zsdaenx5eqjwomc657buym</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örvhentur</title>
+    <ns>0</ns>
+    <id>19293</id>
+    <revision>
+      <id>47524</id>
+      <parentid>46253</parentid>
+      <timestamp>2015-10-22T12:04:22Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>47524</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="321" sha1="tpozhqeuzpjo47c4cltil57k64a9rnt" xml:space="preserve">{{Infoboxsign
+|Image1=Takn orvhentur.PNG
+|texti=gert á vinstri hönd
+|myndunarstadur=Óvirk hönd
+|handform=B handform
+|ordflokkur=Lýsingarorð
+|efnisflokkur=Líkami
+|munnhreyfing=örvhentur
+|tengsl1=Rétthentur
+|tengsl2=Vinstri
+|tengsl3=Hægri
+|Image2=Left handed female learns calligraphy.jpg
+|youtube1=oj0HDcxcoKQ
+}}</text>
+      <sha1>tpozhqeuzpjo47c4cltil57k64a9rnt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örvun</title>
+    <ns>0</ns>
+    <id>16439</id>
+    <revision>
+      <id>40671</id>
+      <timestamp>2014-09-25T13:20:27Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn orvun.PNG |myndunarstadur=Hlutlaust rými |handform=B handform |ordflokkur=Nafnorð |efnisflokkur=Menntun |tengsl1=Þroski |tengsl2=Stækka |tengsl3=Heili |...</comment>
+      <origin>40671</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="257" sha1="owqg04cs0gmrq1qm64d7tacbjc4b8fq" xml:space="preserve">{{Infoboxsign
+|Image1=Takn orvun.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Menntun
+|tengsl1=Þroski
+|tengsl2=Stækka
+|tengsl3=Heili
+|youtube1=FlJDHVYdNwI
+|youtube4=NUhn2cYKKwY
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>owqg04cs0gmrq1qm64d7tacbjc4b8fq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örvunarbólusetning</title>
+    <ns>0</ns>
+    <id>29070</id>
+    <revision>
+      <id>67845</id>
+      <timestamp>2022-02-02T16:02:38Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn orvunarbolusetning.PNG |texti=Táknin [[Örvun|ÖRVUN]] og [[Bólusetja|BÓLUSETJA]] sett saman |myndunarstadur=Hlutlaust rými |handform=B handform |efnisf...</comment>
+      <origin>67845</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="373" sha1="43yfvlsl69ltbhtns13b92d1pi7cip6" xml:space="preserve">{{Infoboxsign
+|Image1=Takn orvunarbolusetning.PNG
+|texti=Táknin [[Örvun|ÖRVUN]] og [[Bólusetja|BÓLUSETJA]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|efnisflokkur=Heilsa og líkami
+|twohandforms=Já
+|tengsl1=Smitsjúkdómur
+|tengsl2=Hraðpróf
+|tengsl3=Covid-19
+|Image2=Vacinação contra Covid-19 no HC (50852865793).jpg
+|youtube1=FOjzkFqF-bc
+}}</text>
+      <sha1>43yfvlsl69ltbhtns13b92d1pi7cip6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örvænting</title>
+    <ns>0</ns>
+    <id>19295</id>
+    <revision>
+      <id>46255</id>
+      <timestamp>2015-06-03T10:49:50Z</timestamp>
+      <contributor>
+        <username>Iðunn</username>
+        <id>191</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn orvaenting.PNG |texti=sýnd svipbrigði |myndunarstadur=Hlutlaust rými |handform=5 handform |ordflokkur=Nafnorð |efnisflokkur=Tilfinningar |twohandforms=J...</comment>
+      <origin>46255</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="285" sha1="tv1pb7eyk37fnxmczu7ins8mf2yzvpr" xml:space="preserve">{{Infoboxsign
+|Image1=Takn orvaenting.PNG
+|texti=sýnd svipbrigði
+|myndunarstadur=Hlutlaust rými
+|handform=5 handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Tilfinningar
+|twohandforms=Já
+|tengsl1=Ótti
+|tengsl2=Sorg
+|tengsl3=Svartsýnn
+|Image2=Desperate man.jpg
+|youtube1=NAoQc7mFHlY
+}}</text>
+      <sha1>tv1pb7eyk37fnxmczu7ins8mf2yzvpr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Örvæntingafullur</title>
+    <ns>0</ns>
+    <id>30386</id>
+    <revision>
+      <id>69636</id>
+      <parentid>69634</parentid>
+      <timestamp>2022-06-02T14:28:07Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>69636</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" sha1="5t1i3gghcszxhrpeaiup26pyjoklpdw" xml:space="preserve">{{Infoboxsign
+|Image1=Orvaentingarfullur.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=5 handform
+|efnisflokkur=Tilfinningar
+|tengsl1=Örvænting
+|tengsl2=Stressaður
+|tengsl3=Taugaveiklaður
+|Image2=Cartoon Woman Without Money Getting Desperately Mad.svg
+|youtube1=https://youtu.be/hJ9ZgZg1_aU
+}}</text>
+      <sha1>5t1i3gghcszxhrpeaiup26pyjoklpdw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryggi</title>
+    <ns>0</ns>
+    <id>15629</id>
+    <revision>
+      <id>39273</id>
+      <timestamp>2014-06-11T14:58:45Z</timestamp>
+      <contributor>
+        <username>Gerdur</username>
+        <id>309</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn oryggi.PNG |myndunarstadur=Hlutlaust rými |handform=A handform |ordflokkur=Nafnorð |efnisflokkur=Samfélag |munnhreyfing=örygg |tengsl1=Fjölskylda |teng...</comment>
+      <origin>39273</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="265" sha1="b4snm59gp188hzzinwcr7i1ju7dqrvh" xml:space="preserve">{{Infoboxsign
+|Image1=Takn oryggi.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=A handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Samfélag
+|munnhreyfing=örygg
+|tengsl1=Fjölskylda
+|tengsl2=Samfélag
+|Image2=D-M011 Sicherheitsgurt benutzen.svg
+|youtube1=Y2V9eLv9uOY
+}}</text>
+      <sha1>b4snm59gp188hzzinwcr7i1ju7dqrvh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryggisbelti</title>
+    <ns>0</ns>
+    <id>7516</id>
+    <revision>
+      <id>28856</id>
+      <parentid>20505</parentid>
+      <timestamp>2013-04-23T15:37:42Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>28856</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="284" sha1="e26nh8e6dyulj535h02hscqws08l5k3" xml:space="preserve">{{Infoboxsign
+|Image1=Oryggisbelti-snap.png
+|myndunarstadur=Líkami
+|handform=C handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Farartæki
+|tengsl1=Öruggur
+|tengsl2=Bíll
+|tengsl3=Árekstur
+|Image2=Seat belt.png
+|youtube1=QXsHweG6f4U
+|youtube4=LssLagUApqk
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>e26nh8e6dyulj535h02hscqws08l5k3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryggisbelti (Álfhella)</title>
+    <ns>0</ns>
+    <id>25686</id>
+    <revision>
+      <id>64168</id>
+      <parentid>60376</parentid>
+      <timestamp>2020-07-21T13:02:50Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64168</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="293" sha1="1mew1q9y835cy8s0kvnzk4tz42koelf" xml:space="preserve">{{Infoboxsign
+|Image1=Oryggisbalfh.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=A handform lokað
+|ordflokkur=Nafnorð
+|efnisflokkur=Vinnustaðatákn
+|twohandforms=Já
+|munnhreyfing=Öryggisbelti
+|tengsl1=Sigbelti
+|Image2=Oryggs.jpg
+|youtube1=WQA_nMQPOSg
+|taknmal=ÖRYGGISBELTI (ÁLFHELLA)
+}}</text>
+      <sha1>1mew1q9y835cy8s0kvnzk4tz42koelf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryggisbil</title>
+    <ns>0</ns>
+    <id>15624</id>
+    <revision>
+      <id>64167</id>
+      <parentid>39266</parentid>
+      <timestamp>2020-07-21T13:01:46Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64167</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="jpbrj96d2rgvdwzgjbxdex1j0ft4hae" xml:space="preserve">{{Infoboxsign
+|Image1=Oryggisbil.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=A handform lokað
+|ordflokkur=Nafnorð
+|efnisflokkur=Skólatákn - framhaldsskóli
+|efnisflokkur2=Stærðfræði
+|twohandforms=Já
+|tengsl1=öryggismörk
+|tengsl2=Hlutfall
+|tengsl3=samsíða
+|youtube1=1LpmcbRVi48
+}}</text>
+      <sha1>jpbrj96d2rgvdwzgjbxdex1j0ft4hae</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryggisgleraugu</title>
+    <ns>0</ns>
+    <id>19881</id>
+    <revision>
+      <id>71877</id>
+      <parentid>71874</parentid>
+      <timestamp>2023-03-28T15:35:04Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>71877</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="412" sha1="fpvuw96oyzgghuadeahp0lmdnu3f94v" xml:space="preserve">{{Infoboxsign
+|Image1=Takn oryggisgleraugu.PNG
+|texti=Táknin [[Öryggi|ÖRYGGI]] og [[Gleraugu|GLERAUGU]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=A handform lokað
+|ordflokkur=Nafnorð
+|efnisflokkur=Verkfæri
+|efnisflokkur2=Trésmíði
+|tengsl1=Öryggisskór
+|tengsl2=Flugeldar
+|tengsl3=logsuða
+|Image2=Covid 19 dz 05.jpg
+|youtube1=e0lcQ_KLjWs
+|youtube4=i_7FmPqN8lg
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>fpvuw96oyzgghuadeahp0lmdnu3f94v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryggisgæsla</title>
+    <ns>0</ns>
+    <id>16224</id>
+    <revision>
+      <id>64165</id>
+      <parentid>40390</parentid>
+      <timestamp>2020-07-21T11:53:03Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64165</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="339" sha1="ammyyr2eh2wvmm9wmiawicbu8qc2wuk" xml:space="preserve">{{Infoboxsign
+|Image1=Oryggisgaesla.PNG
+|texti=setja saman táknin [[öryggi|ÖRYGGI]] og [[gæsla|GÆSLA]]
+|myndunarstadur=Hlutlaust rými
+|handform=A handform lokað
+|ordflokkur=Nafnorð
+|efnisflokkur=Almennt
+|twohandforms=Já
+|munnhreyfing=Öryggi-Gæsla
+|tengsl1=Lögregla
+|tengsl2=Vernda
+|Image2=Sekuritas.jpg
+|youtube1=RpU1-f567-U
+}}</text>
+      <sha1>ammyyr2eh2wvmm9wmiawicbu8qc2wuk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryggishjálmur</title>
+    <ns>0</ns>
+    <id>19298</id>
+    <revision>
+      <id>64164</id>
+      <parentid>46258</parentid>
+      <timestamp>2020-07-21T11:47:08Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64164</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="553" sha1="6n5syne778qrrkbe7fncin60e7a6t77" xml:space="preserve">{{Infoboxsign
+|Image1=Takn oryggishjalmur.PNG
+|texti=Táknin [[Öryggi|ÖRYGGI]] og [[Hjálmur|HJÁLMUR]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=A handform lokað
+|ordflokkur=Nafnorð
+|efnisflokkur=Almennt
+|munnhreyfing=öryggishjálmur
+|tengsl1=Öryggisgleraugu
+|tengsl2=Hellir
+|tengsl3=Álver
+|Image2=US Navy 081007-N-0483B-003 Hiroaki Kawai, a member of Yokosuka's Commander Naval Forces Japan (CNFJ) Regional Fire Department, assists students from The Sullivans Elementary School as they don safety helmets.jpg
+|youtube1=oST0WfH9ZNQ
+}}</text>
+      <sha1>6n5syne778qrrkbe7fncin60e7a6t77</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryggishlið</title>
+    <ns>0</ns>
+    <id>23598</id>
+    <revision>
+      <id>67088</id>
+      <parentid>67085</parentid>
+      <timestamp>2021-06-22T15:24:54Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>67088</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="466" sha1="td7oyaio2na1omhn43xqnfz7vbsyams" xml:space="preserve">{{Infoboxsign
+|Image1=Oryggishlid.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=C handform þumall út
+|efnisflokkur=Hlutir
+|tengsl1=Aðvörun
+|tengsl2=Öryggi
+|tengsl3=Lög
+|Image2=AKB48 Theater - AKB48 Stage Fighter Special Theater Performance 2014 - door with luggage check gates (2014-11-30 14.44.02 by Dick Thomas Johnson).jpg
+|youtube1=n52Pz2cSADA
+|youtube4=GDAocz7FFQk
+|explain=Sama tákn en tákninu [[hlið|HLIÐ]] bætt við
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>td7oyaio2na1omhn43xqnfz7vbsyams</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryggiskerfi</title>
+    <ns>0</ns>
+    <id>19883</id>
+    <revision>
+      <id>64163</id>
+      <parentid>47347</parentid>
+      <timestamp>2020-07-21T11:45:20Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64163</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="299" sha1="9g9nfpkpoumqvsfzlivw2m52cml81ex" xml:space="preserve">{{Infoboxsign
+|Image1=Takn oryggiskerfi.PNG
+|texti=Táknin [[Öryggi|ÖRYGGI]] og [[Kerfi|KERFI]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=A handform lokað
+|ordflokkur=Nafnorð
+|efnisflokkur=Samfélag
+|tengsl1=Öryggisgæsla
+|tengsl2=Securitas
+|tengsl3=Eftirlit
+|youtube1=bF18eiHAAY0
+}}</text>
+      <sha1>9g9nfpkpoumqvsfzlivw2m52cml81ex</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryggisleit</title>
+    <ns>0</ns>
+    <id>23602</id>
+    <revision>
+      <id>64162</id>
+      <parentid>56463</parentid>
+      <timestamp>2020-07-21T11:39:47Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64162</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="303" sha1="syhl4v4fsbl80wmegobip7nnr7zw6vu" xml:space="preserve">{{Infoboxsign
+|Image1=Oryggisg.PNG
+|texti=Táknin [[öryggi|ÖRYGGI]] og [[leita|LEITA]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=A handform lokað
+|efnisflokkur=Athafnir
+|tengsl1=Leita
+|tengsl2=Eftirlit
+|tengsl3=Öryggiskerfi
+|Image2=Security screening selectee.jpg
+|youtube1=yklaaEufeH0
+}}</text>
+      <sha1>syhl4v4fsbl80wmegobip7nnr7zw6vu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryggismörk</title>
+    <ns>0</ns>
+    <id>15628</id>
+    <revision>
+      <id>64161</id>
+      <parentid>39270</parentid>
+      <timestamp>2020-07-21T11:38:35Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64161</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="290" sha1="rszls30383sfi766oyst2hkglf8c8xm" xml:space="preserve">{{Infoboxsign
+|Image1=Oryggismork.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=A handform lokað
+|ordflokkur=Nafnorð
+|efnisflokkur=Skólatákn - framhaldsskóli
+|efnisflokkur2=Stærðfræði
+|twohandforms=Já
+|tengsl1=öryggisbil
+|tengsl2=ferill
+|tengsl3=Þáttun
+|youtube1=QU9_SxzLEzY
+}}</text>
+      <sha1>rszls30383sfi766oyst2hkglf8c8xm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryggisnæla</title>
+    <ns>0</ns>
+    <id>19300</id>
+    <revision>
+      <id>46260</id>
+      <timestamp>2015-06-03T11:01:17Z</timestamp>
+      <contributor>
+        <username>Iðunn</username>
+        <id>191</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Takn naela.PNG |texti=Táknin [[Öryggi|ÖRYGGI]] og [[Næla|NÆLA]] sett saman |myndunarstadur=Hlutlaust rými |handform=A handform |ordflokkur=Nafnorð |efnisf...</comment>
+      <origin>46260</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="337" sha1="rbc5qtcd904bl32omirnkzu8lwu1aeh" xml:space="preserve">{{Infoboxsign
+|Image1=Takn naela.PNG
+|texti=Táknin [[Öryggi|ÖRYGGI]] og [[Næla|NÆLA]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=A handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Almennt
+|twohandforms=Já
+|munnhreyfing=öryggisnæla
+|tengsl1=Smella
+|tengsl2=Festa
+|tengsl3=Peysa
+|Image2=Safety Pin.jpg
+|youtube1=K4jM5hCZ7KQ
+}}</text>
+      <sha1>rbc5qtcd904bl32omirnkzu8lwu1aeh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryggisskanni</title>
+    <ns>0</ns>
+    <id>23600</id>
+    <revision>
+      <id>56730</id>
+      <parentid>56455</parentid>
+      <timestamp>2016-09-21T09:18:27Z</timestamp>
+      <contributor>
+        <username>Svava</username>
+        <id>23</id>
+      </contributor>
+      <origin>56730</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="239" sha1="55xtaxh99hzntxbo5arftwnxzm5yv5g" xml:space="preserve">{{Infoboxsign
+|Image1=Oryggiskanni.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=C handform
+|efnisflokkur=Hlutir
+|tengsl1=Öryggishlið
+|tengsl2=Öryggiskerfi
+|tengsl3=Skanna
+|Image2=Security screening selectee.jpg
+|youtube1=J8qAMpELE0g
+}}</text>
+      <sha1>55xtaxh99hzntxbo5arftwnxzm5yv5g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryggisskór</title>
+    <ns>0</ns>
+    <id>19302</id>
+    <revision>
+      <id>64160</id>
+      <parentid>64159</parentid>
+      <timestamp>2020-07-21T11:36:27Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64160</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="346" sha1="9njatvszqbxuta5cl8oakrgq80wcnzx" xml:space="preserve">{{Infoboxsign
+|Image1=Takn oryggisskor.PNG
+|texti=Táknin [[Öryggi|ÖRYGGI]] og [[Skór|SKÓR]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=A handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Fatnaður
+|munnhreyfing=öryggisskór
+|tengsl1=Stáltá
+|tengsl2=Skóreimar
+|tengsl3=Skósóli
+|Image2=S3 safety footwear.jpg
+|youtube1=BHVTfSCoM5A
+}}</text>
+      <sha1>9njatvszqbxuta5cl8oakrgq80wcnzx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryggistæki</title>
+    <ns>0</ns>
+    <id>29657</id>
+    <revision>
+      <id>68651</id>
+      <timestamp>2022-03-24T12:24:35Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Oryggistaeki.PNG |texti=Táknin [[öryggi|ÖRYGGI]] og [[tæki|TÆKI]] sett saman |myndunarstadur=Hlutlaust rými |handform=A handform |efnisflokkur=Hlutir |efni...</comment>
+      <origin>68651</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="317" sha1="6k3ydw7dw9k4lw69c5rw1eyq1mxmjw3" xml:space="preserve">{{Infoboxsign
+|Image1=Oryggistaeki.PNG
+|texti=Táknin [[öryggi|ÖRYGGI]] og [[tæki|TÆKI]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=A handform
+|efnisflokkur=Hlutir
+|efnisflokkur2=Tölvur og tækni
+|tengsl1=Slökkvitæki
+|tengsl2=Brunaboði
+|tengsl3=Þjófavörn
+|youtube1=https://youtu.be/yPclWZ5WNDE
+}}</text>
+      <sha1>6k3ydw7dw9k4lw69c5rw1eyq1mxmjw3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryggisvörður</title>
+    <ns>0</ns>
+    <id>19308</id>
+    <revision>
+      <id>64158</id>
+      <parentid>46300</parentid>
+      <timestamp>2020-07-21T11:24:52Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64158</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="491" sha1="puvewyolan8j3kyzl0nt1myobkpi5ex" xml:space="preserve">{{Infoboxsign
+|Image1=Takn oryggisvordur.PNG
+|texti=Táknin [[Öryggi|ÖRYGGI]], [[Vörður|VÖRÐUR]] og [[Persóna|PERSÓNA]] sett saman
+|myndunarstadur=Hlutlaust rými
+|handform=A handform lokað
+|ordflokkur=Nafnorð
+|efnisflokkur=Starfsheiti
+|munnhreyfing=öryggisvörður
+|tengsl1=Eftirlit
+|tengsl2=Einkennisbúningur
+|tengsl3=Viðbragð
+|Image2=Palestinian Security Guard in Manger Square 1581 (506870386).jpg
+|youtube1=u-RMsktCQR0
+|youtube4=JaUEk0p7CXE
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>puvewyolan8j3kyzl0nt1myobkpi5ex</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryrki</title>
+    <ns>0</ns>
+    <id>15754</id>
+    <revision>
+      <id>71761</id>
+      <parentid>39450</parentid>
+      <timestamp>2023-03-10T15:03:59Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <origin>71761</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="361" sha1="c3ozsbcmgh0f5pxkn3mckm0rmw4docu" xml:space="preserve">{{Infoboxsign
+|Image1=Takn öryrki.PNG
+|myndunarstadur=Handleggur
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Samfélag
+|munnhreyfing=Öryrki
+|tengsl1=Örorka
+|tengsl2=Örorkubætur
+|tengsl3=Örorkumat
+|youtube1=67TADWSJ4mU
+|youtube4=https://youtu.be/3WgDJbGOZfg
+|explain=Sama tákn en tákni fyrir einstakling sleppt
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>c3ozsbcmgh0f5pxkn3mckm0rmw4docu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öryrkjabandalagið</title>
+    <ns>0</ns>
+    <id>29379</id>
+    <revision>
+      <id>68285</id>
+      <timestamp>2022-03-09T12:22:09Z</timestamp>
+      <contributor>
+        <username>Idunnasa</username>
+        <id>21</id>
+      </contributor>
+      <comment>Ný síða: {{Infoboxsign |Image1=Oryrkjabandalagid.jpg |myndunarstadur=Hlutlaust rými |handform=B handform |efnisflokkur=Samfélag |tengsl1=Félag heyrnarlausra |tengsl2=Bandalag |tengsl3=Samt...</comment>
+      <origin>68285</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="g7dd2fwpdcpodwtau6b0tl6qtgo8m6d" xml:space="preserve">{{Infoboxsign
+|Image1=Oryrkjabandalagid.jpg
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|efnisflokkur=Samfélag
+|tengsl1=Félag heyrnarlausra
+|tengsl2=Bandalag
+|tengsl3=Samtök
+|youtube1=https://youtu.be/Y7ohQwpDLKQ
+}}</text>
+      <sha1>g7dd2fwpdcpodwtau6b0tl6qtgo8m6d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öræfi</title>
+    <ns>0</ns>
+    <id>26750</id>
+    <revision>
+      <id>62941</id>
+      <parentid>62508</parentid>
+      <timestamp>2020-04-14T15:22:26Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>62941</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="231" sha1="g4zb8oobdl3kou40zrohffj737yocc9" xml:space="preserve">{{Infoboxsign
+|Image1=Oræfi.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=4 handform
+|efnisflokkur=Borgir og staðir
+|tengsl1=Landslag
+|tengsl2=Örnefni
+|tengsl3=Náttúra
+|Image2=OeraefajoekullMorning.jpg
+|youtube1=VHXD9RCiV48
+}}</text>
+      <sha1>g4zb8oobdl3kou40zrohffj737yocc9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öskra</title>
+    <ns>0</ns>
+    <id>10956</id>
+    <revision>
+      <id>70443</id>
+      <parentid>48931</parentid>
+      <timestamp>2022-09-15T13:37:41Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>70443</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="280" sha1="0j1wzrxb20ijv9wfshev4eruxx1m8n9" xml:space="preserve">{{Infoboxsign
+|Image1=Oskra.PNG
+|myndunarstadur=Líkami
+|handform=Vísi handform
+|ordflokkur=Sagnorð
+|efnisflokkur=Almennt
+|tengsl1=Tala
+|tengsl2=Meiddur
+|tengsl3=Hræddur
+|Image2=Scream crosathorian.jpg
+|youtube1=ILf8-J9z3HU
+|youtube4=S3j5960wvNA
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>0j1wzrxb20ijv9wfshev4eruxx1m8n9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öskubuska</title>
+    <ns>0</ns>
+    <id>20415</id>
+    <revision>
+      <id>64157</id>
+      <parentid>50535</parentid>
+      <timestamp>2020-07-21T11:18:17Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64157</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="303" sha1="dm09l6mov70kqs0ktpcs57jsoiwtq9q" xml:space="preserve">{{Infoboxsign
+|Image1=Takn Oskubuska.PNG
+|myndunarstadur=Höfuð
+|handform=A handform lokað
+|efnisflokkur=Sögupersóna
+|efnisflokkur2=sérnöfn
+|tengsl1=Mjallhvít
+|tengsl2=Rauðhetta
+|tengsl3=Þyrnirós
+|Image2=Oskubuska.jpg
+|youtube1=npNbFk4hQQw
+|youtube4=-rni7fpOcdY
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>dm09l6mov70kqs0ktpcs57jsoiwtq9q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öskudagur</title>
+    <ns>0</ns>
+    <id>3457</id>
+    <revision>
+      <id>48934</id>
+      <parentid>12451</parentid>
+      <timestamp>2015-11-11T08:30:58Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>48934</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="247" sha1="o2djoy5m43kyyde3n37qbdda4ke5i5q" xml:space="preserve">{{Infoboxsign
+|Image1=Takn öskudagur.jpg
+|myndunarstadur=Líkami
+|handform=V handform bogið
+|ordflokkur=Nafnorð
+|efnisflokkur=Hátíðir
+|tengsl1=Dagur
+|tengsl2=Grímubúningur
+|tengsl3=Nammi
+|Image2=Mynd öskudagur.jpg
+|youtube1=6OS5fTl6o6Y
+}}</text>
+      <sha1>o2djoy5m43kyyde3n37qbdda4ke5i5q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öxi</title>
+    <ns>0</ns>
+    <id>19887</id>
+    <revision>
+      <id>71876</id>
+      <parentid>47352</parentid>
+      <timestamp>2023-03-28T15:34:12Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>71876</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="323" sha1="pbdzgn3g127evgwuhmwhkk42vxuzy6i" xml:space="preserve">{{Infoboxsign
+|Image1=Takn oxi.PNG
+|myndunarstadur=Hlutlaust rými
+|handform=B handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Verkfæri
+|efnisflokkur2=Trésmíði
+|twohandforms=Já
+|tengsl1=skógarhögg
+|tengsl2=eldiviður
+|tengsl3=Verkfæri
+|Image2=Double_bitted_felling_axe.jpg
+|youtube1=7ipgBW0jCkM
+|youtube4=WI8Yz6r93nA
+}}</text>
+      <sha1>pbdzgn3g127evgwuhmwhkk42vxuzy6i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öxl</title>
+    <ns>0</ns>
+    <id>5194</id>
+    <revision>
+      <id>33711</id>
+      <parentid>15088</parentid>
+      <timestamp>2013-12-17T12:41:29Z</timestamp>
+      <contributor>
+        <username>Iðunn</username>
+        <id>191</id>
+      </contributor>
+      <origin>33711</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="221" sha1="6js66es7h47evsqybh9qsicoayeepdq" xml:space="preserve">{{Infoboxsign
+|Image1=Oxl.JPG
+|myndunarstadur=Líkami
+|handform=5 handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Heilsa og líkami
+|tengsl1=Handleggur
+|tengsl2=Fótur
+|tengsl3=Liður
+|Image2=Oxll.JPG
+|youtube1=gwEng4y0O7E
+}}</text>
+      <sha1>6js66es7h47evsqybh9qsicoayeepdq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Öxull</title>
+    <ns>0</ns>
+    <id>7068</id>
+    <revision>
+      <id>64156</id>
+      <parentid>63289</parentid>
+      <timestamp>2020-07-21T11:08:52Z</timestamp>
+      <contributor>
+        <username>Jóna Kristín</username>
+        <id>468</id>
+      </contributor>
+      <origin>64156</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="367" sha1="44w1d96wqtdf0wpc3w9mo81ncayeqbw" xml:space="preserve">{{Infoboxsign
+|Image1=Öxull.PNG
+|myndunarstadur=Óvirk hönd
+|handform=A handform lokað
+|ordflokkur=Nafnorð
+|efnisflokkur=Farartæki
+|tengsl1=Bíll
+|tengsl2=Vél
+|tengsl3=Dekk
+|Image2=Differential gear of a motor car rear axle (Army Service Corps Training, Mechanical Transport, 1911).jpg
+|youtube1=5CcgRmRI_mo
+|youtube4=ZLh0CLKzAXA
+|alternativesigntag=Samheiti
+}}</text>
+      <sha1>44w1d96wqtdf0wpc3w9mo81ncayeqbw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ål</title>
+    <ns>0</ns>
+    <id>7847</id>
+    <revision>
+      <id>28294</id>
+      <parentid>23748</parentid>
+      <timestamp>2013-03-27T13:45:34Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>28294</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="285" sha1="44c8kgsh47m8i9d5lamsiwmog8im4c4" xml:space="preserve">{{Infoboxsign
+|Image1=Takn al.JPG
+|myndunarstadur=Hlutlaust rými
+|handform=Vísi handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Borgir og staðir
+|efnisflokkur2=Örnefni
+|tengsl1=Noregur
+|tengsl2=Oslo
+|tengsl3=Bergen
+|Image2=Norway Counties Buskerud Position.svg
+|youtube1=a7bZRx2xgEQ
+}}</text>
+      <sha1>44c8kgsh47m8i9d5lamsiwmog8im4c4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Århus</title>
+    <ns>0</ns>
+    <id>9331</id>
+    <revision>
+      <id>49613</id>
+      <parentid>28295</parentid>
+      <timestamp>2015-11-13T11:29:29Z</timestamp>
+      <contributor>
+        <username>Arny</username>
+        <id>11</id>
+      </contributor>
+      <origin>49613</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="281" sha1="oonu5y5m43w1fq8ppvc0slpq6ngybyz" xml:space="preserve">{{Infoboxsign
+|Image1=Arhus.PNG
+|myndunarstadur=Höfuð
+|handform=Vísi handform
+|ordflokkur=Nafnorð
+|efnisflokkur=Borgir og staðir
+|efnisflokkur2=Örnefni
+|tengsl1=Kaupmannahöfn
+|tengsl2=Vejle
+|tengsl3=Óðinsvé
+|Image2=Århus Denmark location map.png
+|youtube1=M1My226ryVE
+}}</text>
+      <sha1>oonu5y5m43w1fq8ppvc0slpq6ngybyz</sha1>
+    </revision>
+  </page>
+</mediawiki>
