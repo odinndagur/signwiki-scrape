@@ -49,5 +49,16 @@
             "database": "${workspaceFolder:signwiki-scrape}/../../../code/2023/signwiki-scrape/db.sqlite",
             "name": "db"
         }
-    ]
+    ],
+    "python.languageServer": "Pylance",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none",
+        "reportShadowedImports": "none"
+    },
+    "python.analysis.extraPaths": [
+        "",
+        "/Users/odinndagur/.vscode/extensions/joedevivo.vscode-circuitpython-0.2.0-darwin-x64/stubs",
+        "/Users/odinndagur/Library/Application Support/Code/User/globalStorage/joedevivo.vscode-circuitpython/bundle/20260214/adafruit-circuitpython-bundle-py-20260214/lib"
+    ],
+    "circuitpython.board.version": null
 }
